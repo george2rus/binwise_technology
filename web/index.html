@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BinWise | Council dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!-- defer makes the JavaScript run after the page has loaded -->
+  <script src="js/script.js" defer></script>
+</head>
+<body data-page="dashboard">
+  <header>
+    <div class="top-bar">
+      <h1>BinWise</h1>
+      <p class="user-bar"><span id="userName"></span> <button type="button" id="logout" class="secondary">Log out</button></p>
+    </div>
+  </header>
+
+  <!-- Menu on the left, page content on the right -->
+  <div class="layout">
+    <nav><a href="index.html" id="nav-dashboard" class="active">Dashboard</a><a href="report.html" id="nav-report">Fly-Tech report</a><a href="support.html" id="nav-support">Support</a><a href="drop.html" id="nav-simulator">Robobin simulator</a><a href="settings.html" id="nav-settings">Settings</a></nav>
+
+  <main>
+    <section>
+      <h2>Bin status</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr>
+            <th>Bin</th><th>Location</th>
+            <th>Recycling</th><th>General waste</th><th>Food waste</th><th>Liquids</th><th>Hazardous</th>
+            <th>Last emptied</th>
+          </tr></thead>
+          <tbody id="binRows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Alerts</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Since</th><th>Bin</th><th>Compartment</th><th>Fill level</th><th>Action</th></tr></thead>
+          <tbody id="alertRows"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  </div>
+</body>
+</html>

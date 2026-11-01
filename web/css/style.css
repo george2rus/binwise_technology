@@ -1,0 +1,342 @@
+
+/* ---------- Page ---------- */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f6f8;
+  color: #1b2a47;
+}
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+main.narrow {
+  max-width: 640px;
+}
+section {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+.note {
+  color: #5b6b82;
+  font-size: 0.9rem;
+}
+
+/* ---------- Header, menu on the left, and page layout ---------- */
+
+header {
+  background: #1b2a47;
+  color: #fff;
+  padding: 16px 24px;
+}
+header h1 {
+  margin: 0;
+}
+.layout {
+  display: flex;                  /* menu on the left, page content on the right */
+  min-height: calc(100vh - 72px);
+}
+.layout main {
+  flex: 1;
+  min-width: 0;                   /* lets wide tables scroll instead of pushing the page */
+}
+nav {
+  visibility: hidden;   /* shown by script.js once it knows which pages this user can open */
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 200px;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding: 20px 12px;
+  background: #fff;
+  border-right: 1px solid #e3e7ed;
+}
+nav a {
+  color: #1b2a47;
+  text-decoration: none;
+  padding: 10px 12px;
+  border-radius: 6px;
+}
+nav a:hover {
+  background: #f4f6f8;
+}
+nav a.active {
+  background: #e9f1ec;
+  font-weight: bold;
+  border-left: 4px solid #2e8b57;
+}
+
+/* On a phone the menu goes above the page as a row of links */
+@media (max-width: 760px) {
+  .layout {
+    flex-direction: column;
+    min-height: 0;
+  }
+  nav {
+    width: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 8px;
+    border-right: 0;
+    border-bottom: 1px solid #e3e7ed;
+  }
+}
+
+/* Name of the person logged in, and Log out, on the right of the header */
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.user-bar {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #cfd8e6;
+}
+.user-bar button {
+  margin-left: 8px;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+}
+
+/* Login page: a small box in the middle */
+main.login {
+  max-width: 400px;
+  margin-top: 40px;
+}
+
+/* ---------- Tables ---------- */
+
+.table-wrap {
+  overflow-x: auto;   /* the table scrolls sideways on a phone */
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #e3e7ed;
+}
+th.num,
+td.num {
+  text-align: right;
+}
+tr.level-100 td {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+/* ---------- Compartment fill: a small bar and the % ---------- */
+
+td.comp {
+  white-space: nowrap;
+}
+td.comp.amber {
+  color: #9a6b00;
+  font-weight: bold;
+}
+td.comp.red {
+  color: #c0392b;
+  font-weight: bold;
+}
+.mini {
+  display: inline-block;
+  width: 54px;
+  height: 10px;
+  background: #e3e7ed;
+  border-radius: 5px;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.mini span {
+  display: block;
+  height: 100%;
+}
+
+/* One colour per compartment, used by the bars and the Robobin screen */
+.recycling { background: #2e8b57; }
+.general   { background: #7a8699; }
+.food      { background: #8d6e63; }
+.liquids   { background: #2f80ed; }
+.hazardous { background: #c0392b; }
+
+/* ---------- Buttons ---------- */
+
+button {
+  background: #2e8b57;
+  color: #fff;
+  border: 0;
+  border-radius: 6px;
+  padding: 8px 14px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+button:hover {
+  background: #256f46;
+}
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+button.secondary {
+  background: #fff;
+  color: #1b2a47;
+  border: 1px solid #c3ccd8;
+}
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid #e0a100;   /* easy to see when using the keyboard */
+  outline-offset: 2px;
+}
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: end;
+}
+
+/* ---------- Forms (same error pattern as the W3S2 sign-up form) ---------- */
+
+.form-group {
+  margin-bottom: 14px;
+}
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.form-group label.check {
+  font-weight: normal;
+}
+input[type="text"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+select,
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;
+  border: 1px solid #c3ccd8;
+  border-radius: 6px;
+  font: inherit;
+}
+input[type="range"] {
+  width: 100%;
+}
+.error-message {
+  display: none;
+  color: #c0392b;
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+.form-group.error input,
+.form-group.error select,
+.form-group.error textarea {
+  border-color: #c0392b;
+}
+.form-group.error .error-message {
+  display: block;
+}
+
+/* Report filters sit side by side */
+.filters {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  align-items: end;
+}
+
+/* ---------- Two columns (simulator and support), one on a phone ---------- */
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+@media (max-width: 760px) {
+  .two-col {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- Robobin simulator ---------- */
+
+.presets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.preset {
+  background: #e9f1ec;
+  color: #1b2a47;
+  border: 1px solid #2e8b57;
+  font-size: 0.9rem;
+  padding: 6px 10px;
+}
+.preset:hover {
+  background: #d3e6db;
+}
+.screen {
+  border-radius: 12px;
+  padding: 24px;
+  color: #fff;
+  min-height: 90px;
+}
+.screen.waiting {
+  background: #1b2a47;   /* before an item is dropped; then it takes the compartment colour */
+}
+.screen strong {
+  display: block;
+  font-size: 1.4rem;
+  margin-bottom: 6px;
+}
+.steps {
+  padding-left: 20px;
+  line-height: 1.5;
+}
+
+/* ---------- Support requests ---------- */
+
+.tickets {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.ticket {
+  border: 1px solid #e3e7ed;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 10px;
+}
+.pill {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 10px;
+  background: #e3e7ed;
+  margin-left: 4px;
+}
+.urgency-high {
+  background: #f8d0d0;
+  color: #8e1f15;
+}
+.urgency-medium {
+  background: #ffe7b3;
+  color: #6b4a00;
+}

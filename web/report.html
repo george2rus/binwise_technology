@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BinWise | Fly-Tech report</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!-- defer makes the JavaScript run after the page has loaded -->
+  <script src="js/script.js" defer></script>
+</head>
+<body data-page="report">
+  <header>
+    <div class="top-bar">
+      <h1>BinWise</h1>
+      <p class="user-bar"><span id="userName"></span> <button type="button" id="logout" class="secondary">Log out</button></p>
+    </div>
+  </header>
+
+  <!-- Menu on the left, page content on the right -->
+  <div class="layout">
+    <nav><a href="index.html" id="nav-dashboard">Dashboard</a><a href="report.html" id="nav-report" class="active">Fly-Tech report</a><a href="support.html" id="nav-support">Support</a><a href="drop.html" id="nav-simulator">Robobin simulator</a><a href="settings.html" id="nav-settings">Settings</a></nav>
+
+  <main>
+    <section>
+      <h2>Create a report</h2>
+      <form id="reportForm" class="filters" novalidate>
+        <div class="form-group">
+          <label for="dateFrom">From</label>
+          <input type="date" id="dateFrom">
+        </div>
+        <div class="form-group">
+          <label for="dateTo">To</label>
+          <input type="date" id="dateTo">
+          <span class="error-message">"To" must be on or after "From".</span>
+        </div>
+        <div class="form-group">
+          <label for="area">Area</label>
+          <select id="area"><option value="">All areas</option><option>City Centre</option><option>Beeston</option></select>
+        </div>
+        <div class="form-group">
+          <label for="top">Show top</label>
+          <select id="top"><option>5</option><option selected>10</option><option>20</option></select>
+        </div>
+        <div class="form-group actions">
+          <button type="submit">Create report</button>
+          <button type="button" id="downloadCsv" class="secondary" disabled>Download CSV</button>
+        </div>
+      </form>
+      <p id="reportInfo" class="note"></p>
+    </section>
+
+    <section>
+      <h2>Brands</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Brand</th><th class="num">Items scanned</th><th class="num">Not recycled</th><th class="num">Not recycled %</th></tr></thead>
+          <tbody id="brandRows"><tr><td colspan="4" class="note">Create a report to see the results.</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Products</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Brand</th><th>Product</th><th>Material</th><th class="num">Not recyclable</th><th class="num">Unknown material</th><th class="num">Total</th></tr></thead>
+          <tbody id="productRows"><tr><td colspan="6" class="note">Create a report to see the results.</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  </div>
+</body>
+</html>

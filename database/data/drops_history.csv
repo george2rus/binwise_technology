@@ -1,0 +1,3001 @@
+bin_id,barcode,item_type,detected_by,confidence,dropped_at
+1,,Plastic drinks bottle,Camera,0.86,2026-10-01 07:06:34
+1,5000328347790,,Barcode,1.00,2026-10-01 07:13:42
+2,,Milk bottle,Camera,0.84,2026-10-01 07:23:59
+2,,Glass bottle,Camera,0.98,2026-10-01 07:33:21
+4,,Drinks carton,Camera,0.75,2026-10-01 07:38:31
+2,,Black plastic tray,Camera,0.80,2026-10-01 07:38:42
+3,,Crisp packet,Camera + sensor,0.88,2026-10-01 08:01:59
+4,,Polystyrene takeaway box,Camera + sensor,0.83,2026-10-01 08:02:30
+2,,Plastic tub or pot,Camera,0.76,2026-10-01 08:03:53
+4,5000328376677,,Barcode,1.00,2026-10-01 08:06:30
+4,3033491314834,,Barcode,1.00,2026-10-01 08:11:30
+2,,Milk bottle,Camera,0.98,2026-10-01 08:12:45
+1,50457243,,Barcode,1.00,2026-10-01 08:15:22
+4,,Cardboard box,Camera + sensor,1.00,2026-10-01 08:23:29
+2,3033491314834,,Barcode,1.00,2026-10-01 08:35:18
+2,,Crisp packet,Camera + sensor,0.95,2026-10-01 08:43:45
+3,5410188029475,,Barcode,1.00,2026-10-01 08:50:27
+3,,Drinks can,Camera,0.71,2026-10-01 08:54:59
+4,,Crisp packet,Camera,0.92,2026-10-01 08:55:05
+1,5010029000016,,Barcode,1.00,2026-10-01 09:05:35
+2,,Drinks carton,Camera,0.95,2026-10-01 09:16:12
+1,,Cardboard box,Camera + sensor,0.83,2026-10-01 09:26:49
+1,,Drinks can,Camera + sensor,0.86,2026-10-01 09:36:38
+4,5000328376677,,Barcode,1.00,2026-10-01 09:44:20
+4,,Compostable cup,Camera + sensor,0.87,2026-10-01 10:03:47
+1,,Food tin,Camera,0.88,2026-10-01 10:20:52
+3,,Milk bottle,Camera,0.74,2026-10-01 10:33:36
+1,,Cardboard box,Camera,0.95,2026-10-01 10:33:41
+1,,Cardboard box,Camera,0.79,2026-10-01 11:51:01
+4,,Newspaper,Camera,0.72,2026-10-01 11:51:22
+1,,Black plastic tray,Camera,0.98,2026-10-01 11:58:26
+1,5000171055675,,Barcode,1.00,2026-10-01 12:02:07
+1,5000328347790,,Barcode,1.00,2026-10-01 12:09:57
+3,,Drinks can,Camera + sensor,0.95,2026-10-01 12:10:56
+3,50457243,,Barcode,1.00,2026-10-01 12:26:59
+2,5055540004334,,Barcode,1.00,2026-10-01 13:05:50
+3,,Plastic drinks bottle,Camera,0.75,2026-10-01 13:06:50
+4,,Compostable cup,Camera,0.87,2026-10-01 13:09:35
+4,5010029000016,,Barcode,1.00,2026-10-01 13:09:59
+4,,Crisp packet,Camera,0.79,2026-10-01 13:17:21
+2,,Food tin,Camera,1.00,2026-10-01 13:23:08
+1,,Cardboard box,Camera + sensor,0.88,2026-10-01 13:29:02
+4,,Compostable cup,Camera,0.88,2026-10-01 13:30:00
+2,,Drinks can,Camera,0.82,2026-10-01 13:31:24
+4,,Milk bottle,Camera + sensor,0.98,2026-10-01 13:33:44
+1,,Polystyrene takeaway box,Camera,0.96,2026-10-01 13:38:13
+4,,Food tin,Camera + sensor,0.93,2026-10-01 13:39:16
+1,,Milk bottle,Camera,0.90,2026-10-01 13:43:37
+4,,Newspaper,Camera,0.92,2026-10-01 13:45:53
+4,5054267003378,,Barcode,1.00,2026-10-01 14:07:02
+2,,Cardboard box,Camera,0.85,2026-10-01 14:14:43
+1,,Plastic drinks bottle,Camera,0.78,2026-10-01 14:20:22
+2,,Plastic drinks bottle,Camera,0.92,2026-10-01 14:23:50
+3,,Cardboard box,Camera,0.90,2026-10-01 14:30:00
+2,,Plastic drinks bottle,Camera,0.89,2026-10-01 14:47:55
+2,,Compostable cup,Camera,0.89,2026-10-01 14:56:40
+2,,Plastic tub or pot,Camera,0.93,2026-10-01 15:01:13
+4,,Drinks carton,Camera + sensor,0.81,2026-10-01 15:17:41
+2,5000171055675,,Barcode,1.00,2026-10-01 15:18:05
+1,5000157024671,,Barcode,1.00,2026-10-01 15:20:55
+4,5010357112061,,Barcode,1.00,2026-10-01 15:23:06
+2,,Drinks carton,Camera,0.87,2026-10-01 15:29:47
+4,,Polystyrene takeaway box,Camera,0.74,2026-10-01 15:30:59
+4,,Drinks carton,Camera,0.99,2026-10-01 15:32:46
+1,5010029000016,,Barcode,1.00,2026-10-01 15:42:48
+3,,Newspaper,Camera + sensor,1.00,2026-10-01 15:43:42
+2,,Glass bottle,Camera,0.73,2026-10-01 15:50:32
+2,5000157024671,,Barcode,1.00,2026-10-01 15:55:06
+4,3057640257773,,Barcode,1.00,2026-10-01 16:05:53
+1,,Black plastic tray,Camera + sensor,0.92,2026-10-01 16:10:42
+4,5054267003378,,Barcode,1.00,2026-10-01 16:11:20
+4,5410188029475,,Barcode,1.00,2026-10-01 16:21:25
+1,5000328376677,,Barcode,1.00,2026-10-01 16:25:26
+1,5410188029475,,Barcode,1.00,2026-10-01 16:31:15
+2,50457243,,Barcode,1.00,2026-10-01 16:41:50
+4,,Glass bottle,Camera,0.75,2026-10-01 16:47:18
+1,00538077,,Barcode,1.00,2026-10-01 16:50:57
+2,,Black plastic tray,Camera + sensor,0.96,2026-10-01 16:51:31
+2,5000157024671,,Barcode,1.00,2026-10-01 17:01:04
+3,5410188029475,,Barcode,1.00,2026-10-01 17:04:02
+4,,Newspaper,Camera,0.90,2026-10-01 17:23:58
+2,,Plastic tub or pot,Camera,0.72,2026-10-01 17:27:57
+2,5055540004334,,Barcode,1.00,2026-10-01 17:34:05
+3,,Crisp packet,Camera + sensor,0.87,2026-10-01 17:34:56
+1,50457243,,Barcode,1.00,2026-10-01 17:44:42
+2,,Food tin,Camera,0.87,2026-10-01 17:45:38
+4,,Cardboard box,Camera,0.77,2026-10-01 17:49:17
+3,5000157024671,,Barcode,1.00,2026-10-01 17:53:52
+3,,Newspaper,Camera + sensor,0.81,2026-10-01 18:34:54
+2,,Newspaper,Camera + sensor,0.96,2026-10-01 18:46:10
+4,,Black plastic tray,Camera + sensor,0.84,2026-10-01 18:52:21
+4,5410188029475,,Barcode,1.00,2026-10-01 18:54:38
+3,5000171055675,,Barcode,1.00,2026-10-01 18:57:53
+4,5000171055675,,Barcode,1.00,2026-10-01 19:17:37
+1,5000328347790,,Barcode,1.00,2026-10-01 19:30:10
+4,5410188029475,,Barcode,1.00,2026-10-01 19:40:46
+4,5740900401099,,Barcode,1.00,2026-10-01 19:41:16
+4,,Drinks can,Camera,0.82,2026-10-01 19:49:18
+2,,Polystyrene takeaway box,Camera,0.84,2026-10-01 20:00:03
+1,,Compostable cup,Camera,0.99,2026-10-01 20:00:24
+3,5010029000016,,Barcode,1.00,2026-10-01 20:05:43
+4,,Plastic tub or pot,Camera,0.90,2026-10-01 20:19:49
+4,5000157024671,,Barcode,1.00,2026-10-01 20:22:01
+1,00538077,,Barcode,1.00,2026-10-01 20:34:48
+3,,Drinks carton,Camera + sensor,0.98,2026-10-01 20:41:14
+1,8006540994337,,Barcode,1.00,2026-10-02 07:30:05
+3,5000328347790,,Barcode,1.00,2026-10-02 07:46:02
+4,,Food tin,Camera,0.87,2026-10-02 07:51:18
+2,,Plastic drinks bottle,Camera,1.00,2026-10-02 07:51:37
+1,,Polystyrene takeaway box,Camera + sensor,0.82,2026-10-02 07:58:23
+4,5054267003378,,Barcode,1.00,2026-10-02 08:01:08
+1,,Plastic tub or pot,Camera,0.85,2026-10-02 08:01:22
+4,,Plastic drinks bottle,Camera + sensor,0.96,2026-10-02 08:17:51
+4,,Food tin,Camera,0.84,2026-10-02 08:24:20
+1,,Drinks carton,Camera,0.98,2026-10-02 08:25:20
+2,5449000000996,,Barcode,1.00,2026-10-02 08:32:03
+4,,Food tin,Camera,0.99,2026-10-02 09:23:15
+3,,Black plastic tray,Camera,0.75,2026-10-02 10:01:35
+2,5055540004334,,Barcode,1.00,2026-10-02 10:06:38
+2,04886556,,Barcode,1.00,2026-10-02 10:12:05
+1,,Newspaper,Camera,0.91,2026-10-02 10:23:29
+3,,Food tin,Camera,0.73,2026-10-02 10:31:04
+2,,Milk bottle,Camera + sensor,0.87,2026-10-02 10:40:53
+4,,Plastic drinks bottle,Camera,0.83,2026-10-02 10:47:52
+3,5010357112061,,Barcode,1.00,2026-10-02 10:54:52
+3,5740900805408,,Barcode,1.00,2026-10-02 11:02:02
+3,,Polystyrene takeaway box,Camera + sensor,0.97,2026-10-02 11:05:56
+1,,Drinks carton,Camera,0.85,2026-10-02 11:18:55
+4,5000171055675,,Barcode,1.00,2026-10-02 11:24:52
+3,,Plastic drinks bottle,Camera,0.79,2026-10-02 11:39:23
+4,00538077,,Barcode,1.00,2026-10-02 12:11:04
+1,,Glass bottle,Camera + sensor,0.89,2026-10-02 12:22:05
+2,,Glass bottle,Camera,0.96,2026-10-02 12:34:35
+3,,Polystyrene takeaway box,Camera,0.85,2026-10-02 12:38:04
+4,5010029000016,,Barcode,1.00,2026-10-02 12:41:00
+1,5010357112061,,Barcode,1.00,2026-10-02 12:47:03
+4,,Crisp packet,Camera,0.97,2026-10-02 12:55:41
+1,,Compostable cup,Camera,0.70,2026-10-02 12:58:14
+2,,Black plastic tray,Camera,0.90,2026-10-02 13:07:52
+3,,Polystyrene takeaway box,Camera,0.90,2026-10-02 13:09:00
+3,5000328376677,,Barcode,1.00,2026-10-02 13:09:45
+4,,Food tin,Camera,0.93,2026-10-02 13:23:36
+3,,Newspaper,Camera,0.71,2026-10-02 13:30:24
+2,,Drinks carton,Camera,0.92,2026-10-02 13:36:49
+2,5740900805408,,Barcode,1.00,2026-10-02 13:36:51
+2,5000328347790,,Barcode,1.00,2026-10-02 13:42:54
+2,,Cardboard box,Camera,0.89,2026-10-02 14:00:23
+4,50457243,,Barcode,1.00,2026-10-02 14:14:31
+1,,Cardboard box,Camera,0.85,2026-10-02 14:15:33
+2,5000328376677,,Barcode,1.00,2026-10-02 14:15:56
+1,,Cardboard box,Camera + sensor,0.93,2026-10-02 14:17:40
+1,,Polystyrene takeaway box,Camera,0.82,2026-10-02 14:31:17
+4,5000328376677,,Barcode,1.00,2026-10-02 14:55:18
+2,,Crisp packet,Camera + sensor,0.91,2026-10-02 15:00:09
+1,,Food tin,Camera,0.75,2026-10-02 15:00:51
+2,,Plastic tub or pot,Camera,0.99,2026-10-02 15:03:23
+3,5054267003378,,Barcode,1.00,2026-10-02 15:42:50
+3,,Newspaper,Camera,0.72,2026-10-02 16:00:01
+1,3033491314834,,Barcode,1.00,2026-10-02 16:07:01
+1,5000328347790,,Barcode,1.00,2026-10-02 16:10:11
+2,,Newspaper,Camera,0.87,2026-10-02 16:10:21
+4,,Food tin,Camera + sensor,1.00,2026-10-02 16:19:44
+4,,Glass bottle,Camera + sensor,0.87,2026-10-02 16:21:31
+3,00538077,,Barcode,1.00,2026-10-02 16:26:45
+3,5010029000016,,Barcode,1.00,2026-10-02 16:35:49
+4,,Newspaper,Camera + sensor,0.99,2026-10-02 16:44:41
+4,,Glass bottle,Camera,0.78,2026-10-02 17:21:30
+1,,Black plastic tray,Camera,0.76,2026-10-02 17:23:17
+1,,Glass bottle,Camera,0.90,2026-10-02 17:39:29
+1,,Polystyrene takeaway box,Camera,0.79,2026-10-02 17:44:30
+2,5054267003378,,Barcode,1.00,2026-10-02 17:44:50
+1,,Compostable cup,Camera,0.98,2026-10-02 17:48:53
+1,,Black plastic tray,Camera + sensor,0.96,2026-10-02 17:56:30
+2,,Compostable cup,Camera,0.88,2026-10-02 17:56:49
+1,,Polystyrene takeaway box,Camera,0.96,2026-10-02 18:00:43
+2,,Milk bottle,Camera + sensor,0.81,2026-10-02 18:01:15
+4,,Plastic drinks bottle,Camera,0.92,2026-10-02 18:02:17
+2,,Crisp packet,Camera + sensor,0.92,2026-10-02 18:20:15
+2,,Drinks carton,Camera,0.91,2026-10-02 18:23:07
+4,,Compostable cup,Camera + sensor,0.99,2026-10-02 18:29:46
+4,,Food tin,Camera + sensor,1.00,2026-10-02 19:24:55
+2,5010357112061,,Barcode,1.00,2026-10-02 19:44:08
+2,,Crisp packet,Camera,0.75,2026-10-02 20:22:38
+2,,Cardboard box,Camera,0.82,2026-10-02 20:22:57
+4,5000171055675,,Barcode,1.00,2026-10-02 20:41:28
+3,,Drinks carton,Camera,0.73,2026-10-02 20:41:31
+1,04886556,,Barcode,1.00,2026-10-03 07:16:26
+3,,Cardboard box,Camera,0.73,2026-10-03 08:01:10
+1,,Crisp packet,Camera,0.94,2026-10-03 08:03:04
+3,8006540994337,,Barcode,1.00,2026-10-03 08:15:03
+1,3057640257773,,Barcode,1.00,2026-10-03 08:18:46
+4,,Plastic tub or pot,Camera,0.85,2026-10-03 08:24:35
+1,,Newspaper,Camera,0.76,2026-10-03 08:41:52
+2,5000328347790,,Barcode,1.00,2026-10-03 08:51:10
+1,3057640257773,,Barcode,1.00,2026-10-03 08:59:58
+2,5010029000016,,Barcode,1.00,2026-10-03 09:07:32
+1,5449000000996,,Barcode,1.00,2026-10-03 09:08:08
+4,5449000000996,,Barcode,1.00,2026-10-03 09:15:37
+1,50457243,,Barcode,1.00,2026-10-03 09:17:53
+4,,Newspaper,Camera,0.93,2026-10-03 09:24:25
+1,,Milk bottle,Camera,0.93,2026-10-03 09:25:47
+4,,Polystyrene takeaway box,Camera,0.82,2026-10-03 09:26:04
+4,,Milk bottle,Camera,0.95,2026-10-03 09:36:36
+4,5000171055675,,Barcode,1.00,2026-10-03 09:47:54
+1,,Glass bottle,Camera,0.85,2026-10-03 09:55:01
+3,5000328376677,,Barcode,1.00,2026-10-03 09:58:41
+1,,Plastic tub or pot,Camera + sensor,0.86,2026-10-03 09:59:32
+2,5000171055675,,Barcode,1.00,2026-10-03 10:01:23
+4,,Crisp packet,Camera + sensor,0.95,2026-10-03 10:01:59
+4,,Newspaper,Camera,0.94,2026-10-03 10:06:41
+3,,Newspaper,Camera + sensor,0.80,2026-10-03 10:15:46
+1,,Plastic tub or pot,Camera,0.73,2026-10-03 10:27:08
+4,,Cardboard box,Camera,0.75,2026-10-03 10:41:28
+1,,Plastic drinks bottle,Camera,0.76,2026-10-03 10:55:24
+3,,Compostable cup,Camera,0.90,2026-10-03 11:14:10
+2,,Black plastic tray,Camera,0.93,2026-10-03 11:16:20
+3,5740900401099,,Barcode,1.00,2026-10-03 11:16:34
+4,,Plastic drinks bottle,Camera + sensor,0.82,2026-10-03 11:18:07
+2,5054267003378,,Barcode,1.00,2026-10-03 11:30:23
+4,,Milk bottle,Camera,0.80,2026-10-03 11:36:07
+1,,Compostable cup,Camera + sensor,0.81,2026-10-03 11:37:35
+4,,Drinks carton,Camera,0.88,2026-10-03 11:42:49
+3,,Compostable cup,Camera,0.71,2026-10-03 11:46:26
+1,,Polystyrene takeaway box,Camera,0.80,2026-10-03 12:02:54
+1,5055540004334,,Barcode,1.00,2026-10-03 12:08:42
+1,,Drinks can,Camera,0.87,2026-10-03 12:31:14
+4,,Food tin,Camera,0.78,2026-10-03 12:37:06
+3,,Food tin,Camera,0.90,2026-10-03 12:44:17
+2,,Cardboard box,Camera,0.76,2026-10-03 12:46:15
+4,,Compostable cup,Camera,0.95,2026-10-03 12:54:43
+3,,Cardboard box,Camera,0.93,2026-10-03 12:56:45
+3,5010357112061,,Barcode,1.00,2026-10-03 13:02:35
+4,,Food tin,Camera,0.88,2026-10-03 13:18:43
+2,,Black plastic tray,Camera,0.77,2026-10-03 13:22:25
+4,,Crisp packet,Camera + sensor,0.83,2026-10-03 13:22:45
+3,5449000000996,,Barcode,1.00,2026-10-03 13:26:07
+3,,Crisp packet,Camera,0.78,2026-10-03 13:29:06
+2,,Cardboard box,Camera,0.96,2026-10-03 13:36:20
+3,,Food tin,Camera,0.86,2026-10-03 13:37:35
+4,5740900401099,,Barcode,1.00,2026-10-03 14:04:23
+3,,Crisp packet,Camera,0.93,2026-10-03 14:06:56
+2,,Black plastic tray,Camera,0.76,2026-10-03 14:16:46
+2,,Newspaper,Camera + sensor,0.89,2026-10-03 14:20:38
+3,,Compostable cup,Camera,0.74,2026-10-03 14:22:06
+1,,Cardboard box,Camera,0.75,2026-10-03 14:24:06
+4,5010357112061,,Barcode,1.00,2026-10-03 14:27:54
+3,8006540994337,,Barcode,1.00,2026-10-03 14:28:15
+3,,Newspaper,Camera,0.98,2026-10-03 14:40:58
+3,,Polystyrene takeaway box,Camera,0.73,2026-10-03 15:01:22
+4,5054267003378,,Barcode,1.00,2026-10-03 15:04:35
+2,,Plastic drinks bottle,Camera,0.83,2026-10-03 15:22:35
+2,,Drinks carton,Camera,0.73,2026-10-03 15:26:54
+3,,Crisp packet,Camera,0.97,2026-10-03 15:31:54
+4,,Compostable cup,Camera,0.99,2026-10-03 15:34:11
+4,5000328347790,,Barcode,1.00,2026-10-03 15:38:41
+4,,Plastic tub or pot,Camera + sensor,0.96,2026-10-03 15:42:28
+2,8006540994337,,Barcode,1.00,2026-10-03 15:43:58
+2,,Cardboard box,Camera,0.90,2026-10-03 15:55:56
+1,,Food tin,Camera + sensor,0.92,2026-10-03 16:08:46
+4,5410188029475,,Barcode,1.00,2026-10-03 16:39:10
+4,5000157024671,,Barcode,1.00,2026-10-03 16:43:36
+3,5010029000016,,Barcode,1.00,2026-10-03 16:48:52
+2,,Plastic tub or pot,Camera,0.95,2026-10-03 16:50:40
+4,,Plastic tub or pot,Camera,0.97,2026-10-03 16:56:00
+1,5449000000996,,Barcode,1.00,2026-10-03 17:02:00
+1,5054267003378,,Barcode,1.00,2026-10-03 17:35:56
+1,,Drinks carton,Camera + sensor,0.96,2026-10-03 17:48:50
+2,5410188029475,,Barcode,1.00,2026-10-03 17:51:32
+2,,Plastic drinks bottle,Camera + sensor,0.90,2026-10-03 17:57:27
+4,,Crisp packet,Camera,0.91,2026-10-03 18:00:30
+4,,Milk bottle,Camera,0.85,2026-10-03 18:05:01
+1,,Plastic drinks bottle,Camera,0.95,2026-10-03 18:18:13
+3,5055540004334,,Barcode,1.00,2026-10-03 18:20:58
+2,3033491314834,,Barcode,1.00,2026-10-03 18:28:08
+2,,Drinks carton,Camera + sensor,0.83,2026-10-03 18:43:14
+4,5000328347790,,Barcode,1.00,2026-10-03 18:45:03
+1,,Food tin,Camera + sensor,1.00,2026-10-03 18:48:31
+4,,Food tin,Camera + sensor,0.84,2026-10-03 19:08:38
+3,5449000000996,,Barcode,1.00,2026-10-03 19:21:15
+2,,Drinks carton,Camera,0.77,2026-10-03 19:27:24
+2,,Polystyrene takeaway box,Camera + sensor,0.85,2026-10-03 19:53:03
+2,5054267003378,,Barcode,1.00,2026-10-03 19:59:27
+3,,Glass bottle,Camera,0.98,2026-10-03 20:24:44
+4,,Crisp packet,Camera,0.83,2026-10-03 20:31:19
+4,5000328347790,,Barcode,1.00,2026-10-03 20:35:47
+1,04886556,,Barcode,1.00,2026-10-03 20:38:54
+4,,Drinks carton,Camera,0.77,2026-10-03 20:39:39
+2,3033491314834,,Barcode,1.00,2026-10-03 20:40:30
+3,,Polystyrene takeaway box,Camera + sensor,0.91,2026-10-03 20:49:43
+1,5449000000996,,Barcode,1.00,2026-10-04 07:00:54
+4,,Crisp packet,Camera,0.97,2026-10-04 07:03:15
+4,,Black plastic tray,Camera,0.82,2026-10-04 07:13:10
+3,5055540004334,,Barcode,1.00,2026-10-04 07:21:52
+1,5740900401099,,Barcode,1.00,2026-10-04 07:23:51
+1,,Compostable cup,Camera,0.74,2026-10-04 07:26:34
+1,5449000000996,,Barcode,1.00,2026-10-04 07:39:37
+4,,Food tin,Camera,0.81,2026-10-04 07:42:20
+4,5010357112061,,Barcode,1.00,2026-10-04 07:43:29
+3,,Plastic tub or pot,Camera,0.77,2026-10-04 08:08:20
+2,,Newspaper,Camera,0.71,2026-10-04 08:17:56
+4,,Crisp packet,Camera + sensor,0.80,2026-10-04 08:20:43
+3,,Black plastic tray,Camera + sensor,0.99,2026-10-04 08:32:10
+3,,Milk bottle,Camera,0.86,2026-10-04 08:33:07
+2,,Drinks can,Camera + sensor,0.94,2026-10-04 08:37:15
+1,,Crisp packet,Camera,0.95,2026-10-04 08:45:00
+2,5449000000996,,Barcode,1.00,2026-10-04 08:59:05
+3,5740900401099,,Barcode,1.00,2026-10-04 09:14:11
+3,5449000000996,,Barcode,1.00,2026-10-04 09:14:12
+2,50457243,,Barcode,1.00,2026-10-04 09:15:25
+2,,Milk bottle,Camera,0.83,2026-10-04 09:15:44
+3,,Cardboard box,Camera + sensor,0.83,2026-10-04 09:23:02
+2,5000171055675,,Barcode,1.00,2026-10-04 09:25:18
+1,3057640257773,,Barcode,1.00,2026-10-04 09:29:54
+1,,Drinks can,Camera + sensor,0.80,2026-10-04 09:30:29
+2,,Milk bottle,Camera,0.97,2026-10-04 09:37:41
+1,,Plastic tub or pot,Camera,0.91,2026-10-04 09:56:24
+4,,Milk bottle,Camera + sensor,0.81,2026-10-04 09:58:46
+2,,Drinks carton,Camera,0.83,2026-10-04 10:04:49
+4,,Drinks carton,Camera,0.89,2026-10-04 10:07:23
+3,,Glass bottle,Camera,0.74,2026-10-04 10:22:46
+4,,Polystyrene takeaway box,Camera,0.97,2026-10-04 10:36:51
+3,,Cardboard box,Camera + sensor,0.86,2026-10-04 10:45:46
+2,,Black plastic tray,Camera + sensor,0.87,2026-10-04 10:47:08
+3,,Glass bottle,Camera + sensor,0.82,2026-10-04 10:49:06
+1,,Plastic drinks bottle,Camera,0.90,2026-10-04 10:49:48
+2,,Black plastic tray,Camera,0.98,2026-10-04 10:51:40
+4,,Cardboard box,Camera,0.81,2026-10-04 11:00:56
+1,,Plastic tub or pot,Camera,0.95,2026-10-04 11:01:40
+2,,Polystyrene takeaway box,Camera,0.93,2026-10-04 11:06:25
+1,,Newspaper,Camera,0.98,2026-10-04 11:06:31
+4,50457243,,Barcode,1.00,2026-10-04 11:14:12
+1,3057640257773,,Barcode,1.00,2026-10-04 11:30:49
+1,3033491314834,,Barcode,1.00,2026-10-04 11:33:37
+4,,Drinks carton,Camera + sensor,0.92,2026-10-04 11:42:14
+3,5740900805408,,Barcode,1.00,2026-10-04 11:57:05
+4,00538077,,Barcode,1.00,2026-10-04 12:18:22
+4,,Drinks can,Camera,0.75,2026-10-04 12:30:55
+4,5740900805408,,Barcode,1.00,2026-10-04 12:33:14
+4,04886556,,Barcode,1.00,2026-10-04 13:05:20
+1,00538077,,Barcode,1.00,2026-10-04 13:17:58
+3,,Plastic tub or pot,Camera,0.75,2026-10-04 13:26:02
+3,,Newspaper,Camera,1.00,2026-10-04 13:43:23
+3,8006540994337,,Barcode,1.00,2026-10-04 14:06:11
+4,8006540994337,,Barcode,1.00,2026-10-04 14:08:30
+4,,Crisp packet,Camera,0.70,2026-10-04 14:11:27
+2,,Glass bottle,Camera,0.94,2026-10-04 14:11:31
+4,,Glass bottle,Camera + sensor,0.81,2026-10-04 14:18:22
+2,,Plastic tub or pot,Camera,0.96,2026-10-04 14:22:09
+4,,Black plastic tray,Camera,0.74,2026-10-04 14:23:23
+2,,Drinks can,Camera,0.94,2026-10-04 14:33:21
+1,3033491314834,,Barcode,1.00,2026-10-04 14:39:08
+2,,Drinks can,Camera + sensor,0.81,2026-10-04 14:41:36
+4,,Drinks can,Camera,0.88,2026-10-04 14:43:10
+4,5010357112061,,Barcode,1.00,2026-10-04 14:47:01
+3,,Glass bottle,Camera,0.78,2026-10-04 14:55:42
+3,,Drinks can,Camera,0.98,2026-10-04 14:56:29
+2,,Polystyrene takeaway box,Camera,0.98,2026-10-04 15:02:08
+1,,Glass bottle,Camera + sensor,0.96,2026-10-04 15:04:15
+4,,Drinks carton,Camera + sensor,0.81,2026-10-04 15:05:01
+2,,Drinks can,Camera,0.75,2026-10-04 15:13:42
+3,,Drinks carton,Camera,0.76,2026-10-04 15:20:47
+1,,Crisp packet,Camera,0.95,2026-10-04 15:34:51
+2,3057640257773,,Barcode,1.00,2026-10-04 15:55:42
+2,,Drinks carton,Camera,0.97,2026-10-04 15:58:58
+2,5000328347790,,Barcode,1.00,2026-10-04 16:00:58
+3,,Newspaper,Camera,0.78,2026-10-04 16:01:22
+2,,Glass bottle,Camera + sensor,0.94,2026-10-04 16:03:17
+1,,Crisp packet,Camera,0.99,2026-10-04 16:04:10
+2,,Newspaper,Camera,0.87,2026-10-04 16:05:58
+2,,Plastic drinks bottle,Camera,0.74,2026-10-04 16:07:37
+1,5010029000016,,Barcode,1.00,2026-10-04 16:21:34
+3,,Milk bottle,Camera,0.95,2026-10-04 16:32:04
+4,5740900401099,,Barcode,1.00,2026-10-04 16:34:10
+2,,Polystyrene takeaway box,Camera,0.94,2026-10-04 16:37:12
+2,5740900401099,,Barcode,1.00,2026-10-04 16:49:00
+1,,Cardboard box,Camera,0.82,2026-10-04 17:32:48
+3,,Newspaper,Camera,0.75,2026-10-04 17:46:36
+1,,Cardboard box,Camera + sensor,0.85,2026-10-04 17:51:47
+3,5054267003378,,Barcode,1.00,2026-10-04 18:03:53
+4,,Crisp packet,Camera,1.00,2026-10-04 18:06:18
+4,04886556,,Barcode,1.00,2026-10-04 18:10:02
+1,5740900401099,,Barcode,1.00,2026-10-04 18:27:15
+3,,Drinks carton,Camera,0.82,2026-10-04 18:33:03
+2,,Compostable cup,Camera,0.92,2026-10-04 18:36:10
+4,5054267003378,,Barcode,1.00,2026-10-04 18:47:43
+2,,Drinks can,Camera,0.78,2026-10-04 18:55:28
+2,,Newspaper,Camera,0.91,2026-10-04 19:02:50
+1,5000171055675,,Barcode,1.00,2026-10-04 19:10:15
+1,5055540004334,,Barcode,1.00,2026-10-04 19:21:33
+3,,Newspaper,Camera,0.85,2026-10-04 19:54:11
+1,5054267003378,,Barcode,1.00,2026-10-04 19:59:20
+3,04886556,,Barcode,1.00,2026-10-04 20:01:14
+3,5000328347790,,Barcode,1.00,2026-10-04 20:21:59
+3,5054267003378,,Barcode,1.00,2026-10-04 20:31:01
+4,,Drinks can,Camera,0.75,2026-10-04 20:46:32
+4,,Plastic tub or pot,Camera,0.96,2026-10-04 20:52:50
+2,5740900805408,,Barcode,1.00,2026-10-04 20:55:20
+3,,Polystyrene takeaway box,Camera,0.92,2026-10-05 07:04:47
+4,3033491314834,,Barcode,1.00,2026-10-05 07:15:31
+4,,Black plastic tray,Camera + sensor,0.84,2026-10-05 07:39:18
+4,5740900805408,,Barcode,1.00,2026-10-05 07:43:27
+4,00538077,,Barcode,1.00,2026-10-05 07:55:14
+2,5000157024671,,Barcode,1.00,2026-10-05 07:56:41
+3,5000171055675,,Barcode,1.00,2026-10-05 08:03:28
+3,,Plastic tub or pot,Camera,0.90,2026-10-05 08:06:29
+3,5010357112061,,Barcode,1.00,2026-10-05 08:07:08
+1,,Milk bottle,Camera + sensor,0.95,2026-10-05 08:10:06
+3,,Black plastic tray,Camera,0.84,2026-10-05 08:10:17
+2,,Cardboard box,Camera,0.81,2026-10-05 08:10:33
+2,,Compostable cup,Camera + sensor,0.92,2026-10-05 08:13:44
+1,,Food tin,Camera,0.90,2026-10-05 08:32:49
+2,,Drinks can,Camera,0.86,2026-10-05 08:33:11
+2,5010357112061,,Barcode,1.00,2026-10-05 08:41:20
+2,5000171055675,,Barcode,1.00,2026-10-05 08:44:33
+3,,Plastic tub or pot,Camera,0.72,2026-10-05 08:45:24
+2,00538077,,Barcode,1.00,2026-10-05 08:45:46
+3,5000328376677,,Barcode,1.00,2026-10-05 08:49:11
+3,,Food tin,Camera,0.82,2026-10-05 09:06:36
+1,8006540994337,,Barcode,1.00,2026-10-05 09:15:21
+4,5010357112061,,Barcode,1.00,2026-10-05 09:20:32
+1,,Milk bottle,Camera,0.88,2026-10-05 09:31:36
+2,,Polystyrene takeaway box,Camera,0.83,2026-10-05 10:02:27
+3,,Cardboard box,Camera,0.83,2026-10-05 10:06:49
+1,,Glass bottle,Camera + sensor,0.80,2026-10-05 10:11:20
+3,5000328376677,,Barcode,1.00,2026-10-05 10:16:01
+3,,Compostable cup,Camera,0.97,2026-10-05 10:16:26
+2,5000328347790,,Barcode,1.00,2026-10-05 10:20:21
+2,,Plastic drinks bottle,Camera + sensor,0.93,2026-10-05 10:23:40
+1,,Food tin,Camera + sensor,0.93,2026-10-05 10:29:33
+2,50457243,,Barcode,1.00,2026-10-05 10:31:41
+3,5010357112061,,Barcode,1.00,2026-10-05 11:02:18
+3,,Black plastic tray,Camera,0.88,2026-10-05 11:12:47
+2,,Newspaper,Camera,0.89,2026-10-05 11:13:17
+2,5449000000996,,Barcode,1.00,2026-10-05 11:14:49
+2,5000171055675,,Barcode,1.00,2026-10-05 11:22:12
+2,,Polystyrene takeaway box,Camera,0.74,2026-10-05 11:25:00
+1,5000328347790,,Barcode,1.00,2026-10-05 11:37:46
+3,,Drinks can,Camera,0.91,2026-10-05 11:38:18
+1,,Newspaper,Camera,0.95,2026-10-05 11:44:20
+2,5740900805408,,Barcode,1.00,2026-10-05 11:58:32
+4,5000171055675,,Barcode,1.00,2026-10-05 12:03:01
+4,,Plastic drinks bottle,Camera,0.81,2026-10-05 12:07:08
+2,5410188029475,,Barcode,1.00,2026-10-05 12:10:00
+3,,Crisp packet,Camera + sensor,0.92,2026-10-05 12:11:00
+3,,Cardboard box,Camera,0.79,2026-10-05 12:13:21
+1,,Crisp packet,Camera,0.77,2026-10-05 12:23:50
+4,5054267003378,,Barcode,1.00,2026-10-05 12:24:41
+4,5000328376677,,Barcode,1.00,2026-10-05 12:26:55
+4,,Milk bottle,Camera,0.73,2026-10-05 12:27:09
+2,,Glass bottle,Camera + sensor,0.85,2026-10-05 12:27:29
+3,5000328347790,,Barcode,1.00,2026-10-05 12:30:38
+1,,Cardboard box,Camera,0.85,2026-10-05 12:30:42
+2,,Crisp packet,Camera,0.93,2026-10-05 12:35:27
+2,,Cardboard box,Camera,0.99,2026-10-05 12:50:10
+2,5000171055675,,Barcode,1.00,2026-10-05 12:58:56
+3,5054267003378,,Barcode,1.00,2026-10-05 13:07:42
+1,,Black plastic tray,Camera,0.90,2026-10-05 13:27:36
+1,,Glass bottle,Camera + sensor,1.00,2026-10-05 13:52:02
+2,,Polystyrene takeaway box,Camera,0.95,2026-10-05 14:09:12
+3,,Compostable cup,Camera,0.78,2026-10-05 14:30:04
+3,,Drinks carton,Camera + sensor,0.97,2026-10-05 14:45:47
+3,5055540004334,,Barcode,1.00,2026-10-05 14:49:59
+2,5000328376677,,Barcode,1.00,2026-10-05 15:04:42
+4,,Polystyrene takeaway box,Camera + sensor,1.00,2026-10-05 15:10:39
+4,3033491314834,,Barcode,1.00,2026-10-05 15:16:52
+3,,Newspaper,Camera,0.93,2026-10-05 15:27:48
+3,,Black plastic tray,Camera + sensor,0.91,2026-10-05 15:31:55
+1,5000328376677,,Barcode,1.00,2026-10-05 15:34:37
+3,,Food tin,Camera + sensor,0.84,2026-10-05 15:37:04
+1,,Cardboard box,Camera + sensor,0.96,2026-10-05 15:42:09
+2,,Food tin,Camera,0.71,2026-10-05 16:13:39
+1,,Black plastic tray,Camera + sensor,0.82,2026-10-05 16:15:36
+3,,Plastic tub or pot,Camera,0.86,2026-10-05 16:32:02
+4,,Polystyrene takeaway box,Camera,0.87,2026-10-05 16:48:24
+4,,Polystyrene takeaway box,Camera + sensor,0.90,2026-10-05 16:56:40
+1,,Newspaper,Camera + sensor,0.91,2026-10-05 17:00:45
+3,,Drinks carton,Camera,0.97,2026-10-05 17:01:54
+3,,Newspaper,Camera + sensor,0.92,2026-10-05 17:09:45
+3,,Drinks carton,Camera,0.91,2026-10-05 17:13:15
+3,00538077,,Barcode,1.00,2026-10-05 17:16:35
+3,5010357112061,,Barcode,1.00,2026-10-05 17:26:56
+3,5055540004334,,Barcode,1.00,2026-10-05 17:27:18
+4,5000328376677,,Barcode,1.00,2026-10-05 17:38:20
+2,5010029000016,,Barcode,1.00,2026-10-05 17:48:19
+3,5000157024671,,Barcode,1.00,2026-10-05 17:55:59
+4,,Compostable cup,Camera,0.92,2026-10-05 17:57:51
+1,,Milk bottle,Camera,0.79,2026-10-05 18:19:21
+2,5740900401099,,Barcode,1.00,2026-10-05 18:23:17
+3,5410188029475,,Barcode,1.00,2026-10-05 18:23:43
+1,,Polystyrene takeaway box,Camera,0.73,2026-10-05 18:28:17
+1,5740900401099,,Barcode,1.00,2026-10-05 18:38:29
+2,5010029000016,,Barcode,1.00,2026-10-05 18:39:49
+4,5054267003378,,Barcode,1.00,2026-10-05 18:59:43
+1,,Black plastic tray,Camera + sensor,0.86,2026-10-05 19:01:32
+2,,Black plastic tray,Camera + sensor,0.81,2026-10-05 19:13:13
+1,,Food tin,Camera,0.89,2026-10-05 19:14:47
+4,,Plastic tub or pot,Camera,0.72,2026-10-05 19:18:56
+4,5000157024671,,Barcode,1.00,2026-10-05 19:26:17
+3,,Food tin,Camera,0.82,2026-10-05 19:26:39
+3,,Cardboard box,Camera,0.86,2026-10-05 19:27:46
+1,,Plastic tub or pot,Camera,0.95,2026-10-05 19:35:48
+4,,Cardboard box,Camera,0.81,2026-10-05 19:38:38
+2,5054267003378,,Barcode,1.00,2026-10-05 19:43:04
+4,50457243,,Barcode,1.00,2026-10-05 19:47:04
+2,,Cardboard box,Camera,0.82,2026-10-05 20:00:08
+2,,Black plastic tray,Camera,0.86,2026-10-05 20:03:11
+4,5010357112061,,Barcode,1.00,2026-10-05 20:07:42
+2,5740900805408,,Barcode,1.00,2026-10-05 20:07:55
+1,,Crisp packet,Camera + sensor,0.91,2026-10-05 20:23:13
+3,,Plastic tub or pot,Camera,0.74,2026-10-05 20:27:57
+3,5740900401099,,Barcode,1.00,2026-10-05 20:28:19
+4,,Cardboard box,Camera,1.00,2026-10-05 20:41:27
+4,,Polystyrene takeaway box,Camera,0.87,2026-10-05 20:53:43
+4,5000171055675,,Barcode,1.00,2026-10-05 20:55:50
+1,3033491314834,,Barcode,1.00,2026-10-05 20:59:18
+2,5000171055675,,Barcode,1.00,2026-10-06 07:02:50
+1,,Compostable cup,Camera,0.94,2026-10-06 07:26:20
+2,5010029000016,,Barcode,1.00,2026-10-06 07:54:06
+3,5000157024671,,Barcode,1.00,2026-10-06 08:01:18
+2,5000328376677,,Barcode,1.00,2026-10-06 08:28:36
+3,,Compostable cup,Camera,0.87,2026-10-06 08:42:13
+1,,Cardboard box,Camera + sensor,0.87,2026-10-06 08:47:29
+4,,Black plastic tray,Camera,0.72,2026-10-06 08:53:08
+1,,Newspaper,Camera,0.94,2026-10-06 08:56:48
+3,,Drinks can,Camera + sensor,0.87,2026-10-06 08:58:48
+3,,Polystyrene takeaway box,Camera,0.77,2026-10-06 09:00:46
+4,5740900401099,,Barcode,1.00,2026-10-06 09:01:18
+4,5000328376677,,Barcode,1.00,2026-10-06 09:19:18
+1,,Drinks carton,Camera,0.79,2026-10-06 09:28:11
+1,3033491314834,,Barcode,1.00,2026-10-06 09:33:30
+2,,Plastic drinks bottle,Camera + sensor,0.92,2026-10-06 09:52:14
+3,,Crisp packet,Camera,0.98,2026-10-06 09:52:47
+2,,Black plastic tray,Camera,0.84,2026-10-06 10:05:53
+2,,Newspaper,Camera,0.76,2026-10-06 10:13:40
+3,,Compostable cup,Camera,0.99,2026-10-06 10:18:48
+3,,Drinks carton,Camera + sensor,0.83,2026-10-06 10:22:43
+4,,Food tin,Camera + sensor,0.86,2026-10-06 10:23:04
+4,,Cardboard box,Camera + sensor,0.97,2026-10-06 10:23:22
+1,,Compostable cup,Camera,0.83,2026-10-06 10:24:10
+3,,Glass bottle,Camera,0.74,2026-10-06 10:30:35
+2,5000328376677,,Barcode,1.00,2026-10-06 10:41:45
+4,50457243,,Barcode,1.00,2026-10-06 10:42:06
+3,,Drinks can,Camera + sensor,0.97,2026-10-06 11:05:41
+4,,Compostable cup,Camera,0.72,2026-10-06 11:07:38
+3,,Black plastic tray,Camera,0.77,2026-10-06 11:15:17
+4,,Plastic drinks bottle,Camera,0.72,2026-10-06 11:18:13
+3,,Milk bottle,Camera,0.73,2026-10-06 11:18:31
+1,5740900401099,,Barcode,1.00,2026-10-06 11:21:49
+3,5010029000016,,Barcode,1.00,2026-10-06 11:21:49
+4,,Drinks can,Camera + sensor,0.97,2026-10-06 11:31:33
+2,,Polystyrene takeaway box,Camera,0.82,2026-10-06 11:39:47
+3,,Milk bottle,Camera,0.81,2026-10-06 11:40:05
+4,,Glass bottle,Camera,0.79,2026-10-06 12:00:22
+4,,Plastic tub or pot,Camera,0.72,2026-10-06 12:01:07
+3,,Crisp packet,Camera,0.91,2026-10-06 12:18:06
+4,00538077,,Barcode,1.00,2026-10-06 12:20:40
+4,,Plastic drinks bottle,Camera,0.94,2026-10-06 12:33:46
+3,,Drinks can,Camera,0.93,2026-10-06 12:34:57
+1,,Polystyrene takeaway box,Camera,0.85,2026-10-06 12:40:57
+3,00538077,,Barcode,1.00,2026-10-06 12:51:14
+4,,Cardboard box,Camera,0.88,2026-10-06 12:53:51
+1,,Polystyrene takeaway box,Camera,0.77,2026-10-06 13:10:38
+1,00538077,,Barcode,1.00,2026-10-06 13:14:20
+4,,Food tin,Camera + sensor,0.98,2026-10-06 13:33:30
+3,5449000000996,,Barcode,1.00,2026-10-06 13:37:51
+4,5000328347790,,Barcode,1.00,2026-10-06 13:46:20
+1,,Black plastic tray,Camera,0.86,2026-10-06 14:12:18
+2,5054267003378,,Barcode,1.00,2026-10-06 14:27:14
+3,,Food tin,Camera,1.00,2026-10-06 14:29:22
+4,,Crisp packet,Camera,0.91,2026-10-06 14:33:01
+1,8006540994337,,Barcode,1.00,2026-10-06 14:40:29
+1,,Milk bottle,Camera,0.94,2026-10-06 14:46:47
+3,,Black plastic tray,Camera,0.82,2026-10-06 14:55:20
+2,,Glass bottle,Camera,0.74,2026-10-06 15:03:59
+1,,Compostable cup,Camera,0.87,2026-10-06 15:07:57
+3,,Cardboard box,Camera + sensor,0.84,2026-10-06 15:33:33
+3,5054267003378,,Barcode,1.00,2026-10-06 15:39:58
+1,,Drinks can,Camera,0.79,2026-10-06 15:40:46
+2,,Crisp packet,Camera + sensor,0.84,2026-10-06 15:44:10
+2,,Glass bottle,Camera,0.98,2026-10-06 15:51:09
+2,,Drinks carton,Camera,0.87,2026-10-06 15:53:04
+1,,Glass bottle,Camera + sensor,0.93,2026-10-06 15:56:45
+4,5010357112061,,Barcode,1.00,2026-10-06 16:06:46
+1,3033491314834,,Barcode,1.00,2026-10-06 16:14:06
+4,5000171055675,,Barcode,1.00,2026-10-06 16:18:41
+4,,Polystyrene takeaway box,Camera,0.98,2026-10-06 16:37:15
+3,,Compostable cup,Camera,0.88,2026-10-06 16:37:27
+2,,Black plastic tray,Camera,0.93,2026-10-06 16:39:36
+3,,Plastic tub or pot,Camera + sensor,0.90,2026-10-06 16:49:45
+1,5055540004334,,Barcode,1.00,2026-10-06 17:00:08
+1,,Milk bottle,Camera,0.72,2026-10-06 17:12:20
+3,3033491314834,,Barcode,1.00,2026-10-06 17:15:51
+2,,Newspaper,Camera + sensor,0.94,2026-10-06 17:18:36
+2,,Plastic drinks bottle,Camera,0.73,2026-10-06 17:24:14
+1,,Compostable cup,Camera + sensor,0.90,2026-10-06 17:38:30
+4,5449000000996,,Barcode,1.00,2026-10-06 17:59:54
+1,,Polystyrene takeaway box,Camera,0.95,2026-10-06 18:04:58
+3,,Plastic drinks bottle,Camera,0.87,2026-10-06 18:15:27
+3,5000171055675,,Barcode,1.00,2026-10-06 18:20:42
+2,,Plastic tub or pot,Camera + sensor,0.82,2026-10-06 18:30:59
+3,,Cardboard box,Camera + sensor,0.98,2026-10-06 18:35:48
+3,,Cardboard box,Camera,0.85,2026-10-06 18:56:58
+2,5054267003378,,Barcode,1.00,2026-10-06 19:00:08
+4,,Plastic drinks bottle,Camera,0.84,2026-10-06 19:02:29
+1,,Glass bottle,Camera + sensor,0.83,2026-10-06 19:08:05
+4,,Compostable cup,Camera + sensor,0.98,2026-10-06 19:26:00
+4,04886556,,Barcode,1.00,2026-10-06 19:28:52
+4,,Newspaper,Camera,0.70,2026-10-06 19:39:28
+1,,Plastic drinks bottle,Camera + sensor,0.89,2026-10-06 19:46:55
+1,00538077,,Barcode,1.00,2026-10-06 19:52:39
+2,,Newspaper,Camera,0.80,2026-10-06 20:03:06
+1,,Drinks can,Camera,0.91,2026-10-06 20:11:34
+4,,Polystyrene takeaway box,Camera,0.99,2026-10-06 20:11:40
+3,3033491314834,,Barcode,1.00,2026-10-06 20:24:13
+3,3057640257773,,Barcode,1.00,2026-10-06 20:30:31
+3,,Milk bottle,Camera + sensor,0.84,2026-10-06 20:38:33
+1,,Plastic tub or pot,Camera,0.72,2026-10-06 20:45:52
+4,,Compostable cup,Camera,0.92,2026-10-06 20:52:31
+3,,Polystyrene takeaway box,Camera,0.80,2026-10-07 07:03:36
+2,,Food tin,Camera,0.78,2026-10-07 07:19:50
+4,50457243,,Barcode,1.00,2026-10-07 07:37:35
+1,,Plastic drinks bottle,Camera,0.73,2026-10-07 07:40:57
+3,,Crisp packet,Camera,0.90,2026-10-07 08:10:17
+4,,Food tin,Camera,0.86,2026-10-07 08:32:51
+4,,Drinks carton,Camera + sensor,0.89,2026-10-07 08:42:16
+4,,Plastic tub or pot,Camera + sensor,0.94,2026-10-07 09:05:08
+2,,Plastic drinks bottle,Camera,0.77,2026-10-07 09:05:23
+2,,Food tin,Camera + sensor,0.97,2026-10-07 09:20:53
+4,,Plastic tub or pot,Camera,0.79,2026-10-07 09:22:30
+3,,Compostable cup,Camera,0.94,2026-10-07 09:44:58
+2,3057640257773,,Barcode,1.00,2026-10-07 10:11:54
+4,,Drinks can,Camera + sensor,0.94,2026-10-07 10:12:07
+3,,Food tin,Camera + sensor,0.95,2026-10-07 10:15:55
+3,3057640257773,,Barcode,1.00,2026-10-07 10:22:18
+2,,Plastic tub or pot,Camera,0.94,2026-10-07 10:36:07
+3,,Drinks can,Camera,0.92,2026-10-07 10:43:20
+4,,Milk bottle,Camera,0.76,2026-10-07 10:48:49
+1,,Food tin,Camera,1.00,2026-10-07 10:51:02
+2,,Black plastic tray,Camera,0.91,2026-10-07 11:11:13
+2,,Food tin,Camera,0.94,2026-10-07 11:12:17
+3,5055540004334,,Barcode,1.00,2026-10-07 11:15:44
+1,,Drinks carton,Camera + sensor,0.99,2026-10-07 11:28:44
+1,5000328376677,,Barcode,1.00,2026-10-07 11:30:06
+4,,Newspaper,Camera,0.74,2026-10-07 11:48:36
+1,,Cardboard box,Camera,0.79,2026-10-07 11:49:52
+4,04886556,,Barcode,1.00,2026-10-07 11:51:02
+1,5010029000016,,Barcode,1.00,2026-10-07 11:52:30
+3,,Plastic drinks bottle,Camera,0.92,2026-10-07 12:03:14
+4,,Polystyrene takeaway box,Camera,0.89,2026-10-07 12:11:27
+3,5000328376677,,Barcode,1.00,2026-10-07 12:14:53
+3,,Newspaper,Camera,0.86,2026-10-07 12:22:01
+4,5410188029475,,Barcode,1.00,2026-10-07 12:38:41
+4,,Newspaper,Camera + sensor,0.93,2026-10-07 12:45:35
+3,5010357112061,,Barcode,1.00,2026-10-07 12:53:04
+1,,Glass bottle,Camera + sensor,0.91,2026-10-07 12:56:13
+4,5054267003378,,Barcode,1.00,2026-10-07 13:00:34
+4,5054267003378,,Barcode,1.00,2026-10-07 13:11:35
+3,5000328347790,,Barcode,1.00,2026-10-07 13:51:21
+1,,Drinks can,Camera,0.96,2026-10-07 14:29:26
+2,3033491314834,,Barcode,1.00,2026-10-07 14:48:05
+2,5449000000996,,Barcode,1.00,2026-10-07 14:50:38
+1,,Drinks can,Camera,1.00,2026-10-07 14:54:08
+3,,Glass bottle,Camera,0.75,2026-10-07 15:04:24
+4,,Black plastic tray,Camera,0.96,2026-10-07 15:05:14
+4,3057640257773,,Barcode,1.00,2026-10-07 15:13:31
+4,,Food tin,Camera + sensor,0.98,2026-10-07 15:21:28
+1,,Polystyrene takeaway box,Camera,0.81,2026-10-07 15:22:20
+4,,Polystyrene takeaway box,Camera,0.85,2026-10-07 15:37:29
+2,3057640257773,,Barcode,1.00,2026-10-07 15:43:01
+1,,Milk bottle,Camera,0.87,2026-10-07 15:50:00
+4,,Food tin,Camera,0.90,2026-10-07 15:50:38
+4,00538077,,Barcode,1.00,2026-10-07 16:05:44
+3,,Plastic tub or pot,Camera + sensor,0.83,2026-10-07 16:11:17
+4,,Drinks can,Camera,0.95,2026-10-07 16:12:08
+1,,Drinks can,Camera,0.78,2026-10-07 16:24:12
+3,,Black plastic tray,Camera + sensor,0.92,2026-10-07 16:31:49
+3,5055540004334,,Barcode,1.00,2026-10-07 16:40:11
+1,,Cardboard box,Camera,0.75,2026-10-07 16:40:22
+3,,Glass bottle,Camera,0.89,2026-10-07 16:44:52
+3,,Drinks can,Camera + sensor,0.91,2026-10-07 16:49:18
+4,,Milk bottle,Camera,0.79,2026-10-07 17:01:09
+4,,Plastic drinks bottle,Camera,0.78,2026-10-07 17:03:51
+1,5740900805408,,Barcode,1.00,2026-10-07 17:11:38
+3,,Plastic tub or pot,Camera,0.98,2026-10-07 17:12:50
+3,,Cardboard box,Camera + sensor,0.97,2026-10-07 17:17:09
+2,,Polystyrene takeaway box,Camera,0.73,2026-10-07 17:35:16
+1,,Black plastic tray,Camera,0.77,2026-10-07 17:35:40
+2,,Crisp packet,Camera,0.89,2026-10-07 17:51:01
+2,,Food tin,Camera,0.96,2026-10-07 17:53:23
+1,04886556,,Barcode,1.00,2026-10-07 17:55:58
+3,,Milk bottle,Camera,0.70,2026-10-07 18:12:23
+2,5449000000996,,Barcode,1.00,2026-10-07 18:14:57
+4,,Crisp packet,Camera,0.92,2026-10-07 18:23:30
+3,,Polystyrene takeaway box,Camera,0.99,2026-10-07 18:43:26
+3,,Cardboard box,Camera,0.71,2026-10-07 18:59:47
+2,,Cardboard box,Camera,0.79,2026-10-07 19:05:31
+4,,Drinks can,Camera,0.84,2026-10-07 19:13:41
+1,,Polystyrene takeaway box,Camera,0.81,2026-10-07 19:18:11
+4,,Compostable cup,Camera,0.84,2026-10-07 19:25:56
+2,,Plastic tub or pot,Camera,0.70,2026-10-07 19:30:57
+1,5000171055675,,Barcode,1.00,2026-10-07 19:43:59
+2,,Polystyrene takeaway box,Camera,0.88,2026-10-07 19:44:16
+4,5055540004334,,Barcode,1.00,2026-10-07 19:53:32
+4,,Glass bottle,Camera,1.00,2026-10-07 19:53:35
+1,5000171055675,,Barcode,1.00,2026-10-07 19:54:18
+2,5000328347790,,Barcode,1.00,2026-10-07 19:59:49
+2,,Drinks can,Camera,0.73,2026-10-07 20:14:22
+4,5000328376677,,Barcode,1.00,2026-10-07 20:51:59
+1,3033491314834,,Barcode,1.00,2026-10-08 07:18:45
+2,,Plastic tub or pot,Camera,0.90,2026-10-08 07:44:08
+1,50457243,,Barcode,1.00,2026-10-08 07:46:34
+2,5740900401099,,Barcode,1.00,2026-10-08 08:05:21
+2,,Plastic tub or pot,Camera,0.75,2026-10-08 08:18:32
+4,,Drinks can,Camera,0.74,2026-10-08 08:25:35
+2,3033491314834,,Barcode,1.00,2026-10-08 08:34:39
+2,5055540004334,,Barcode,1.00,2026-10-08 08:36:29
+3,3057640257773,,Barcode,1.00,2026-10-08 08:43:24
+1,,Newspaper,Camera,0.91,2026-10-08 08:54:36
+1,8006540994337,,Barcode,1.00,2026-10-08 09:03:46
+2,,Compostable cup,Camera,0.85,2026-10-08 09:04:12
+4,5054267003378,,Barcode,1.00,2026-10-08 09:04:29
+2,3033491314834,,Barcode,1.00,2026-10-08 09:21:31
+3,,Glass bottle,Camera + sensor,0.92,2026-10-08 09:27:55
+2,5010357112061,,Barcode,1.00,2026-10-08 09:29:45
+1,,Compostable cup,Camera,0.83,2026-10-08 09:31:41
+4,,Compostable cup,Camera,0.77,2026-10-08 09:35:48
+2,00538077,,Barcode,1.00,2026-10-08 09:43:06
+4,,Plastic drinks bottle,Camera + sensor,0.97,2026-10-08 10:00:51
+4,,Cardboard box,Camera,0.82,2026-10-08 10:03:57
+2,5740900401099,,Barcode,1.00,2026-10-08 10:24:53
+1,5000328376677,,Barcode,1.00,2026-10-08 10:31:04
+2,,Cardboard box,Camera,0.73,2026-10-08 10:42:49
+3,,Newspaper,Camera,0.81,2026-10-08 10:45:39
+2,,Black plastic tray,Camera + sensor,0.80,2026-10-08 10:49:46
+2,,Plastic tub or pot,Camera,0.70,2026-10-08 10:51:28
+4,,Cardboard box,Camera,0.73,2026-10-08 11:09:37
+4,5000157024671,,Barcode,1.00,2026-10-08 11:28:26
+4,,Plastic drinks bottle,Camera,0.81,2026-10-08 11:58:42
+1,3057640257773,,Barcode,1.00,2026-10-08 12:03:45
+3,,Compostable cup,Camera,0.98,2026-10-08 12:24:35
+4,5410188029475,,Barcode,1.00,2026-10-08 12:33:24
+2,,Crisp packet,Camera,0.98,2026-10-08 12:35:27
+3,50457243,,Barcode,1.00,2026-10-08 12:58:04
+1,5410188029475,,Barcode,1.00,2026-10-08 13:10:00
+3,,Newspaper,Camera + sensor,1.00,2026-10-08 13:11:06
+3,,Food tin,Camera,1.00,2026-10-08 13:19:36
+2,5054267003378,,Barcode,1.00,2026-10-08 14:00:38
+3,,Milk bottle,Camera,0.88,2026-10-08 14:06:58
+3,,Food tin,Camera,0.88,2026-10-08 14:14:11
+3,5740900401099,,Barcode,1.00,2026-10-08 14:17:24
+3,3033491314834,,Barcode,1.00,2026-10-08 14:37:48
+1,,Black plastic tray,Camera,0.77,2026-10-08 14:46:20
+1,5055540004334,,Barcode,1.00,2026-10-08 14:47:18
+3,00538077,,Barcode,1.00,2026-10-08 14:51:23
+3,5449000000996,,Barcode,1.00,2026-10-08 14:52:40
+1,,Black plastic tray,Camera + sensor,0.81,2026-10-08 14:53:46
+4,,Compostable cup,Camera,0.94,2026-10-08 14:55:23
+4,,Milk bottle,Camera + sensor,0.82,2026-10-08 14:59:58
+1,,Plastic drinks bottle,Camera,0.78,2026-10-08 15:02:58
+1,5054267003378,,Barcode,1.00,2026-10-08 15:07:19
+3,,Polystyrene takeaway box,Camera + sensor,0.80,2026-10-08 15:09:02
+3,,Compostable cup,Camera + sensor,0.81,2026-10-08 15:18:16
+1,,Glass bottle,Camera + sensor,0.82,2026-10-08 15:25:04
+4,5740900805408,,Barcode,1.00,2026-10-08 15:25:23
+2,,Cardboard box,Camera,0.81,2026-10-08 15:42:47
+3,5740900401099,,Barcode,1.00,2026-10-08 15:55:06
+4,5000328347790,,Barcode,1.00,2026-10-08 16:10:18
+2,,Compostable cup,Camera,0.93,2026-10-08 16:12:07
+4,5000171055675,,Barcode,1.00,2026-10-08 16:40:05
+1,5410188029475,,Barcode,1.00,2026-10-08 16:56:31
+4,,Plastic tub or pot,Camera,0.98,2026-10-08 17:01:58
+1,,Compostable cup,Camera,0.96,2026-10-08 17:05:27
+3,,Glass bottle,Camera,0.96,2026-10-08 17:14:07
+2,,Plastic tub or pot,Camera,0.70,2026-10-08 17:15:49
+2,50457243,,Barcode,1.00,2026-10-08 17:16:33
+3,,Cardboard box,Camera,0.90,2026-10-08 17:29:02
+3,,Crisp packet,Camera + sensor,1.00,2026-10-08 17:32:28
+4,,Drinks carton,Camera,0.72,2026-10-08 17:35:15
+1,5740900401099,,Barcode,1.00,2026-10-08 17:45:11
+1,,Food tin,Camera,0.93,2026-10-08 17:46:49
+4,04886556,,Barcode,1.00,2026-10-08 17:53:14
+2,,Plastic drinks bottle,Camera + sensor,0.90,2026-10-08 17:57:39
+4,,Food tin,Camera,0.98,2026-10-08 18:15:05
+1,,Drinks can,Camera,0.88,2026-10-08 18:15:09
+2,,Drinks can,Camera,0.88,2026-10-08 18:16:28
+2,,Compostable cup,Camera,0.75,2026-10-08 18:40:38
+2,,Milk bottle,Camera,0.79,2026-10-08 18:56:52
+2,5000157024671,,Barcode,1.00,2026-10-08 18:58:41
+2,,Cardboard box,Camera,0.73,2026-10-08 19:18:40
+4,,Black plastic tray,Camera + sensor,0.90,2026-10-08 19:22:38
+2,,Cardboard box,Camera,0.72,2026-10-08 19:27:46
+2,,Drinks can,Camera + sensor,0.86,2026-10-08 19:33:15
+4,,Newspaper,Camera,0.94,2026-10-08 19:50:38
+1,,Drinks can,Camera,0.75,2026-10-08 20:09:55
+4,5010357112061,,Barcode,1.00,2026-10-08 20:14:26
+2,,Crisp packet,Camera,0.78,2026-10-08 20:15:58
+4,,Crisp packet,Camera,0.71,2026-10-08 20:17:41
+2,,Plastic drinks bottle,Camera,0.72,2026-10-08 20:20:59
+2,,Cardboard box,Camera + sensor,0.84,2026-10-08 20:22:14
+2,,Polystyrene takeaway box,Camera,0.91,2026-10-08 20:36:25
+3,,Newspaper,Camera,0.87,2026-10-08 20:39:20
+2,,Glass bottle,Camera + sensor,0.89,2026-10-08 20:44:47
+1,5740900401099,,Barcode,1.00,2026-10-08 20:45:12
+4,,Drinks carton,Camera,1.00,2026-10-08 20:51:43
+2,,Milk bottle,Camera,0.71,2026-10-09 07:00:19
+4,,Plastic tub or pot,Camera,0.84,2026-10-09 07:02:18
+2,,Drinks carton,Camera,1.00,2026-10-09 07:10:06
+2,,Polystyrene takeaway box,Camera,0.92,2026-10-09 07:19:52
+2,,Crisp packet,Camera + sensor,0.99,2026-10-09 07:31:21
+4,,Cardboard box,Camera,1.00,2026-10-09 07:33:44
+3,8006540994337,,Barcode,1.00,2026-10-09 07:47:59
+1,,Black plastic tray,Camera,0.72,2026-10-09 07:53:08
+3,,Compostable cup,Camera + sensor,0.98,2026-10-09 07:59:51
+3,,Plastic drinks bottle,Camera,0.84,2026-10-09 08:01:01
+3,,Drinks can,Camera + sensor,1.00,2026-10-09 08:07:13
+4,,Drinks carton,Camera + sensor,0.86,2026-10-09 08:08:36
+2,,Polystyrene takeaway box,Camera,0.92,2026-10-09 08:09:24
+1,,Glass bottle,Camera,0.99,2026-10-09 08:14:06
+3,,Food tin,Camera,0.90,2026-10-09 08:21:27
+2,,Food tin,Camera + sensor,0.84,2026-10-09 08:33:07
+4,,Black plastic tray,Camera + sensor,0.91,2026-10-09 08:35:02
+4,3057640257773,,Barcode,1.00,2026-10-09 08:47:04
+4,,Plastic tub or pot,Camera,0.74,2026-10-09 08:51:28
+4,,Black plastic tray,Camera,0.84,2026-10-09 09:07:51
+1,5054267003378,,Barcode,1.00,2026-10-09 09:08:40
+1,,Drinks can,Camera,0.72,2026-10-09 09:08:45
+1,5740900401099,,Barcode,1.00,2026-10-09 09:15:59
+3,8006540994337,,Barcode,1.00,2026-10-09 09:19:01
+1,,Food tin,Camera,0.85,2026-10-09 09:30:49
+1,8006540994337,,Barcode,1.00,2026-10-09 09:32:10
+2,,Black plastic tray,Camera,0.82,2026-10-09 09:37:24
+4,,Plastic drinks bottle,Camera,0.97,2026-10-09 09:43:50
+4,,Crisp packet,Camera,0.88,2026-10-09 09:51:46
+1,,Drinks carton,Camera,0.82,2026-10-09 09:59:22
+2,,Newspaper,Camera,0.72,2026-10-09 10:10:14
+1,,Polystyrene takeaway box,Camera,0.71,2026-10-09 10:12:15
+3,,Crisp packet,Camera,0.70,2026-10-09 10:14:52
+2,5000328376677,,Barcode,1.00,2026-10-09 10:17:51
+4,,Milk bottle,Camera + sensor,0.92,2026-10-09 10:26:00
+2,5449000000996,,Barcode,1.00,2026-10-09 10:31:11
+1,,Plastic tub or pot,Camera,0.90,2026-10-09 10:35:37
+4,5055540004334,,Barcode,1.00,2026-10-09 10:40:53
+3,5410188029475,,Barcode,1.00,2026-10-09 10:54:59
+3,,Glass bottle,Camera,0.75,2026-10-09 11:02:17
+2,,Plastic drinks bottle,Camera,0.73,2026-10-09 11:13:38
+1,,Black plastic tray,Camera + sensor,0.93,2026-10-09 11:15:39
+2,04886556,,Barcode,1.00,2026-10-09 11:37:55
+3,,Drinks carton,Camera,0.95,2026-10-09 12:01:53
+1,,Plastic tub or pot,Camera,0.83,2026-10-09 12:08:17
+3,5055540004334,,Barcode,1.00,2026-10-09 12:16:12
+1,8006540994337,,Barcode,1.00,2026-10-09 12:24:48
+2,,Milk bottle,Camera,0.78,2026-10-09 12:29:49
+1,00538077,,Barcode,1.00,2026-10-09 12:30:54
+4,,Newspaper,Camera + sensor,0.80,2026-10-09 12:31:07
+4,3057640257773,,Barcode,1.00,2026-10-09 12:45:12
+3,5000328347790,,Barcode,1.00,2026-10-09 12:56:14
+3,,Glass bottle,Camera,0.70,2026-10-09 13:09:23
+4,,Drinks can,Camera + sensor,0.90,2026-10-09 13:12:17
+3,,Polystyrene takeaway box,Camera,0.91,2026-10-09 13:21:45
+4,,Plastic drinks bottle,Camera,0.75,2026-10-09 13:32:41
+4,,Polystyrene takeaway box,Camera + sensor,0.85,2026-10-09 13:34:44
+1,,Cardboard box,Camera,0.83,2026-10-09 13:40:24
+2,,Plastic drinks bottle,Camera,0.86,2026-10-09 13:47:14
+4,,Plastic drinks bottle,Camera,0.82,2026-10-09 13:52:09
+3,,Plastic drinks bottle,Camera,0.71,2026-10-09 14:00:59
+1,,Drinks carton,Camera,0.76,2026-10-09 14:10:34
+1,,Glass bottle,Camera,0.78,2026-10-09 14:11:19
+3,5010357112061,,Barcode,1.00,2026-10-09 14:26:31
+2,,Food tin,Camera,0.80,2026-10-09 14:30:04
+3,,Polystyrene takeaway box,Camera,0.82,2026-10-09 14:43:07
+4,3033491314834,,Barcode,1.00,2026-10-09 14:46:17
+3,,Food tin,Camera + sensor,0.97,2026-10-09 14:55:41
+3,50457243,,Barcode,1.00,2026-10-09 15:03:29
+4,,Polystyrene takeaway box,Camera,0.99,2026-10-09 15:04:16
+1,3033491314834,,Barcode,1.00,2026-10-09 15:08:49
+4,,Glass bottle,Camera,0.98,2026-10-09 15:18:25
+1,,Drinks can,Camera,0.74,2026-10-09 15:23:54
+1,5000328347790,,Barcode,1.00,2026-10-09 15:56:04
+3,,Milk bottle,Camera,0.85,2026-10-09 16:10:23
+2,,Drinks can,Camera,0.94,2026-10-09 16:29:23
+1,5000171055675,,Barcode,1.00,2026-10-09 16:37:03
+2,,Food tin,Camera,0.89,2026-10-09 16:41:29
+1,,Glass bottle,Camera,0.79,2026-10-09 16:48:56
+2,,Plastic drinks bottle,Camera,0.71,2026-10-09 16:58:07
+1,5000328376677,,Barcode,1.00,2026-10-09 17:08:42
+2,,Compostable cup,Camera,0.89,2026-10-09 17:12:27
+4,,Plastic tub or pot,Camera,0.90,2026-10-09 17:23:12
+2,,Plastic drinks bottle,Camera,0.90,2026-10-09 17:39:32
+3,,Compostable cup,Camera,0.94,2026-10-09 17:55:44
+1,,Cardboard box,Camera + sensor,0.99,2026-10-09 18:03:26
+1,,Drinks carton,Camera,0.88,2026-10-09 18:03:38
+1,,Drinks can,Camera,0.83,2026-10-09 18:05:39
+2,,Black plastic tray,Camera + sensor,0.81,2026-10-09 18:11:50
+1,,Polystyrene takeaway box,Camera + sensor,0.84,2026-10-09 18:21:30
+4,,Crisp packet,Camera + sensor,0.93,2026-10-09 18:35:22
+1,,Black plastic tray,Camera,0.95,2026-10-09 18:38:02
+2,5055540004334,,Barcode,1.00,2026-10-09 18:43:38
+4,,Crisp packet,Camera,0.79,2026-10-09 18:48:19
+1,5740900805408,,Barcode,1.00,2026-10-09 18:53:08
+2,,Compostable cup,Camera,0.91,2026-10-09 18:54:39
+3,,Plastic drinks bottle,Camera,0.74,2026-10-09 18:57:39
+3,5000328347790,,Barcode,1.00,2026-10-09 19:00:28
+1,,Plastic drinks bottle,Camera,0.97,2026-10-09 19:31:56
+1,,Milk bottle,Camera,0.76,2026-10-09 19:49:00
+3,,Compostable cup,Camera,0.95,2026-10-09 20:03:45
+3,,Compostable cup,Camera + sensor,0.96,2026-10-09 20:11:50
+1,5055540004334,,Barcode,1.00,2026-10-09 20:15:27
+4,5410188029475,,Barcode,1.00,2026-10-09 20:23:59
+1,,Drinks can,Camera + sensor,0.97,2026-10-09 20:38:43
+4,5740900805408,,Barcode,1.00,2026-10-09 20:50:19
+1,5740900805408,,Barcode,1.00,2026-10-09 20:52:04
+1,,Plastic drinks bottle,Camera + sensor,0.87,2026-10-10 07:06:39
+3,,Crisp packet,Camera,0.77,2026-10-10 07:09:49
+2,5740900401099,,Barcode,1.00,2026-10-10 07:28:24
+3,5000328376677,,Barcode,1.00,2026-10-10 07:33:14
+4,,Milk bottle,Camera + sensor,0.81,2026-10-10 07:38:46
+1,,Food tin,Camera,0.72,2026-10-10 07:46:10
+1,,Plastic drinks bottle,Camera + sensor,0.97,2026-10-10 08:03:23
+1,,Cardboard box,Camera,0.83,2026-10-10 08:04:40
+4,5000157024671,,Barcode,1.00,2026-10-10 08:06:51
+4,5000328376677,,Barcode,1.00,2026-10-10 08:06:57
+2,5010029000016,,Barcode,1.00,2026-10-10 08:22:11
+1,,Food tin,Camera,0.99,2026-10-10 08:42:57
+1,,Crisp packet,Camera,0.87,2026-10-10 08:43:07
+4,,Glass bottle,Camera,0.89,2026-10-10 08:43:58
+1,5010029000016,,Barcode,1.00,2026-10-10 09:08:13
+1,,Polystyrene takeaway box,Camera,0.72,2026-10-10 09:12:38
+2,5449000000996,,Barcode,1.00,2026-10-10 09:28:13
+3,5054267003378,,Barcode,1.00,2026-10-10 09:31:37
+1,,Crisp packet,Camera,0.76,2026-10-10 09:33:58
+4,5740900805408,,Barcode,1.00,2026-10-10 09:46:56
+4,,Black plastic tray,Camera,0.98,2026-10-10 09:47:51
+2,5410188029475,,Barcode,1.00,2026-10-10 09:48:10
+2,,Plastic tub or pot,Camera + sensor,0.87,2026-10-10 10:06:11
+4,00538077,,Barcode,1.00,2026-10-10 10:16:52
+1,,Glass bottle,Camera,0.99,2026-10-10 10:26:02
+1,5740900805408,,Barcode,1.00,2026-10-10 10:31:14
+2,,Plastic drinks bottle,Camera,0.70,2026-10-10 10:34:34
+3,,Newspaper,Camera,0.80,2026-10-10 10:38:05
+1,8006540994337,,Barcode,1.00,2026-10-10 10:38:25
+1,,Black plastic tray,Camera,0.80,2026-10-10 10:42:03
+3,5740900401099,,Barcode,1.00,2026-10-10 10:43:27
+4,,Plastic drinks bottle,Camera,0.91,2026-10-10 10:56:24
+3,,Crisp packet,Camera + sensor,0.99,2026-10-10 10:59:52
+4,50457243,,Barcode,1.00,2026-10-10 11:03:06
+4,,Cardboard box,Camera + sensor,0.93,2026-10-10 11:09:01
+1,,Cardboard box,Camera,0.81,2026-10-10 11:25:44
+4,5740900401099,,Barcode,1.00,2026-10-10 11:31:03
+4,5055540004334,,Barcode,1.00,2026-10-10 11:43:34
+4,5010357112061,,Barcode,1.00,2026-10-10 11:48:52
+1,,Compostable cup,Camera,0.73,2026-10-10 11:51:54
+4,,Plastic drinks bottle,Camera,0.78,2026-10-10 12:18:24
+1,,Compostable cup,Camera + sensor,0.93,2026-10-10 12:30:23
+1,5000328376677,,Barcode,1.00,2026-10-10 12:40:52
+3,,Glass bottle,Camera,0.78,2026-10-10 12:45:36
+4,,Plastic drinks bottle,Camera,0.99,2026-10-10 13:03:52
+2,,Newspaper,Camera,0.83,2026-10-10 13:07:23
+2,00538077,,Barcode,1.00,2026-10-10 13:09:29
+1,,Glass bottle,Camera + sensor,0.86,2026-10-10 13:13:57
+1,,Cardboard box,Camera + sensor,0.95,2026-10-10 13:16:03
+2,,Drinks carton,Camera,0.75,2026-10-10 13:20:39
+4,,Drinks carton,Camera + sensor,0.81,2026-10-10 13:29:12
+1,,Drinks can,Camera,0.88,2026-10-10 13:33:16
+2,5000328376677,,Barcode,1.00,2026-10-10 13:45:15
+3,,Crisp packet,Camera,0.80,2026-10-10 13:53:40
+4,00538077,,Barcode,1.00,2026-10-10 14:02:51
+2,,Plastic tub or pot,Camera + sensor,0.86,2026-10-10 14:03:03
+1,,Crisp packet,Camera,0.95,2026-10-10 14:15:16
+2,,Crisp packet,Camera,0.83,2026-10-10 14:19:00
+2,,Drinks carton,Camera,0.82,2026-10-10 14:23:42
+3,,Newspaper,Camera,0.94,2026-10-10 14:25:10
+3,,Plastic drinks bottle,Camera,0.70,2026-10-10 14:30:12
+1,,Compostable cup,Camera,0.82,2026-10-10 14:34:03
+2,,Drinks carton,Camera + sensor,0.89,2026-10-10 14:40:10
+2,,Black plastic tray,Camera,0.87,2026-10-10 14:46:10
+4,5000328347790,,Barcode,1.00,2026-10-10 15:00:34
+2,5000328376677,,Barcode,1.00,2026-10-10 15:05:57
+3,,Milk bottle,Camera,0.99,2026-10-10 15:06:55
+3,,Polystyrene takeaway box,Camera,0.89,2026-10-10 15:22:51
+1,,Newspaper,Camera,0.96,2026-10-10 15:29:50
+4,5740900805408,,Barcode,1.00,2026-10-10 15:34:44
+1,5055540004334,,Barcode,1.00,2026-10-10 15:38:35
+4,,Food tin,Camera + sensor,0.81,2026-10-10 15:47:25
+2,,Compostable cup,Camera + sensor,1.00,2026-10-10 16:02:40
+3,,Drinks can,Camera,0.88,2026-10-10 16:11:44
+4,5000328347790,,Barcode,1.00,2026-10-10 16:22:17
+1,,Plastic tub or pot,Camera + sensor,0.93,2026-10-10 16:46:17
+4,,Black plastic tray,Camera,0.74,2026-10-10 16:51:22
+2,,Plastic tub or pot,Camera,0.91,2026-10-10 17:14:19
+1,,Newspaper,Camera,0.78,2026-10-10 17:16:13
+2,,Crisp packet,Camera,0.87,2026-10-10 17:18:10
+1,,Plastic tub or pot,Camera,0.85,2026-10-10 17:21:12
+4,,Milk bottle,Camera,0.85,2026-10-10 17:41:27
+3,5010029000016,,Barcode,1.00,2026-10-10 17:46:10
+1,5055540004334,,Barcode,1.00,2026-10-10 18:07:12
+4,,Plastic tub or pot,Camera,0.78,2026-10-10 18:20:08
+4,50457243,,Barcode,1.00,2026-10-10 18:22:20
+2,,Black plastic tray,Camera + sensor,0.92,2026-10-10 18:22:50
+2,5000328347790,,Barcode,1.00,2026-10-10 18:22:58
+3,,Plastic drinks bottle,Camera + sensor,0.97,2026-10-10 18:33:56
+3,,Plastic drinks bottle,Camera,0.77,2026-10-10 18:34:43
+4,,Cardboard box,Camera,0.77,2026-10-10 18:40:41
+1,,Milk bottle,Camera + sensor,0.92,2026-10-10 18:40:52
+2,,Drinks carton,Camera + sensor,0.84,2026-10-10 18:45:45
+4,5054267003378,,Barcode,1.00,2026-10-10 18:47:23
+4,50457243,,Barcode,1.00,2026-10-10 18:47:47
+4,,Polystyrene takeaway box,Camera + sensor,0.95,2026-10-10 18:49:04
+4,,Milk bottle,Camera,0.97,2026-10-10 18:54:08
+4,,Glass bottle,Camera,0.85,2026-10-10 19:01:13
+1,,Plastic tub or pot,Camera,0.77,2026-10-10 19:05:29
+3,,Newspaper,Camera + sensor,0.90,2026-10-10 19:17:59
+1,,Plastic drinks bottle,Camera,0.74,2026-10-10 19:18:20
+4,,Polystyrene takeaway box,Camera,0.90,2026-10-10 19:20:45
+3,,Glass bottle,Camera,1.00,2026-10-10 19:23:53
+3,,Polystyrene takeaway box,Camera + sensor,0.85,2026-10-10 19:27:49
+1,,Food tin,Camera,0.80,2026-10-10 19:36:19
+3,,Food tin,Camera,0.93,2026-10-10 19:41:28
+3,,Drinks can,Camera,0.92,2026-10-10 19:43:52
+4,,Plastic drinks bottle,Camera,0.74,2026-10-10 19:48:20
+2,,Newspaper,Camera,0.77,2026-10-10 19:50:47
+2,,Black plastic tray,Camera,0.94,2026-10-10 19:55:30
+1,,Compostable cup,Camera,0.92,2026-10-10 19:58:35
+1,,Black plastic tray,Camera,0.87,2026-10-10 20:05:38
+4,,Newspaper,Camera + sensor,0.90,2026-10-10 20:18:07
+2,,Plastic drinks bottle,Camera,0.98,2026-10-10 20:34:58
+4,5410188029475,,Barcode,1.00,2026-10-10 20:43:47
+2,,Glass bottle,Camera,0.91,2026-10-10 20:48:50
+1,,Glass bottle,Camera + sensor,0.92,2026-10-10 20:51:25
+4,,Plastic drinks bottle,Camera,0.94,2026-10-10 20:59:16
+3,,Milk bottle,Camera,0.76,2026-10-11 07:01:48
+3,,Food tin,Camera + sensor,0.92,2026-10-11 07:23:14
+2,,Plastic drinks bottle,Camera,0.78,2026-10-11 08:22:53
+1,,Black plastic tray,Camera,0.77,2026-10-11 08:23:56
+3,,Black plastic tray,Camera + sensor,0.84,2026-10-11 08:25:45
+3,3033491314834,,Barcode,1.00,2026-10-11 08:45:05
+1,,Milk bottle,Camera,0.82,2026-10-11 09:01:31
+1,,Food tin,Camera,0.74,2026-10-11 09:10:02
+2,,Drinks can,Camera,0.70,2026-10-11 09:19:45
+1,,Milk bottle,Camera + sensor,0.88,2026-10-11 09:19:46
+4,5054267003378,,Barcode,1.00,2026-10-11 09:40:32
+4,5449000000996,,Barcode,1.00,2026-10-11 10:28:05
+4,,Compostable cup,Camera,0.83,2026-10-11 10:33:52
+3,,Compostable cup,Camera,1.00,2026-10-11 10:33:52
+4,00538077,,Barcode,1.00,2026-10-11 10:36:29
+1,,Polystyrene takeaway box,Camera,0.80,2026-10-11 10:49:59
+2,,Milk bottle,Camera,0.96,2026-10-11 11:09:08
+4,00538077,,Barcode,1.00,2026-10-11 11:12:50
+4,,Plastic tub or pot,Camera,0.84,2026-10-11 11:35:13
+3,5055540004334,,Barcode,1.00,2026-10-11 11:44:09
+3,,Newspaper,Camera,0.70,2026-10-11 11:46:56
+4,,Plastic drinks bottle,Camera,0.98,2026-10-11 11:57:23
+2,,Drinks carton,Camera + sensor,0.99,2026-10-11 12:01:28
+2,5010029000016,,Barcode,1.00,2026-10-11 12:09:20
+4,,Drinks can,Camera,0.89,2026-10-11 12:17:35
+3,5010357112061,,Barcode,1.00,2026-10-11 12:22:52
+4,,Compostable cup,Camera,0.71,2026-10-11 12:46:59
+2,,Black plastic tray,Camera + sensor,0.92,2026-10-11 12:52:00
+4,,Black plastic tray,Camera,0.85,2026-10-11 12:54:52
+3,,Newspaper,Camera,0.86,2026-10-11 13:03:53
+2,,Plastic drinks bottle,Camera,0.80,2026-10-11 13:07:41
+3,5000328376677,,Barcode,1.00,2026-10-11 13:09:06
+4,8006540994337,,Barcode,1.00,2026-10-11 13:09:18
+2,5000328376677,,Barcode,1.00,2026-10-11 13:12:52
+1,5740900401099,,Barcode,1.00,2026-10-11 13:19:02
+1,5010357112061,,Barcode,1.00,2026-10-11 13:21:02
+1,,Compostable cup,Camera,0.85,2026-10-11 13:26:36
+4,,Glass bottle,Camera,0.70,2026-10-11 13:30:55
+3,5000171055675,,Barcode,1.00,2026-10-11 13:33:19
+1,,Food tin,Camera,0.92,2026-10-11 13:40:37
+1,5010357112061,,Barcode,1.00,2026-10-11 13:51:49
+4,,Plastic tub or pot,Camera + sensor,0.90,2026-10-11 13:59:36
+3,,Milk bottle,Camera + sensor,0.95,2026-10-11 14:01:04
+2,,Plastic drinks bottle,Camera,0.71,2026-10-11 14:03:13
+3,,Drinks can,Camera,0.94,2026-10-11 14:09:12
+2,04886556,,Barcode,1.00,2026-10-11 14:17:09
+2,5000328376677,,Barcode,1.00,2026-10-11 14:41:01
+1,,Crisp packet,Camera + sensor,0.94,2026-10-11 14:57:36
+3,8006540994337,,Barcode,1.00,2026-10-11 15:10:09
+3,50457243,,Barcode,1.00,2026-10-11 15:17:28
+4,,Plastic drinks bottle,Camera,1.00,2026-10-11 15:41:19
+1,,Drinks carton,Camera,0.91,2026-10-11 15:51:33
+2,5010357112061,,Barcode,1.00,2026-10-11 16:13:05
+1,,Glass bottle,Camera,0.80,2026-10-11 16:14:24
+2,,Drinks carton,Camera,0.82,2026-10-11 16:15:29
+2,5000157024671,,Barcode,1.00,2026-10-11 16:19:47
+1,5449000000996,,Barcode,1.00,2026-10-11 16:24:02
+1,3057640257773,,Barcode,1.00,2026-10-11 16:27:15
+4,,Black plastic tray,Camera,0.91,2026-10-11 16:33:49
+1,,Black plastic tray,Camera,0.92,2026-10-11 16:39:48
+4,,Drinks carton,Camera,0.76,2026-10-11 16:41:40
+2,5054267003378,,Barcode,1.00,2026-10-11 16:49:05
+4,,Food tin,Camera,0.73,2026-10-11 16:49:27
+3,,Drinks carton,Camera + sensor,0.90,2026-10-11 16:52:36
+1,,Black plastic tray,Camera + sensor,0.94,2026-10-11 16:55:00
+2,,Compostable cup,Camera + sensor,0.80,2026-10-11 17:05:40
+4,,Drinks can,Camera + sensor,0.81,2026-10-11 17:07:27
+2,,Plastic drinks bottle,Camera + sensor,0.99,2026-10-11 17:13:27
+3,3057640257773,,Barcode,1.00,2026-10-11 17:17:44
+4,5740900401099,,Barcode,1.00,2026-10-11 17:39:46
+1,,Newspaper,Camera,0.94,2026-10-11 17:49:04
+1,,Milk bottle,Camera + sensor,0.84,2026-10-11 18:02:15
+1,5449000000996,,Barcode,1.00,2026-10-11 18:05:17
+2,3033491314834,,Barcode,1.00,2026-10-11 18:10:05
+4,,Crisp packet,Camera,0.91,2026-10-11 18:11:41
+4,,Milk bottle,Camera,0.96,2026-10-11 18:13:46
+4,,Milk bottle,Camera,0.82,2026-10-11 18:29:32
+1,,Newspaper,Camera,0.78,2026-10-11 18:31:18
+3,,Newspaper,Camera + sensor,0.92,2026-10-11 18:36:42
+2,,Cardboard box,Camera,0.88,2026-10-11 18:44:00
+3,,Polystyrene takeaway box,Camera + sensor,0.95,2026-10-11 18:44:14
+1,,Plastic tub or pot,Camera,0.91,2026-10-11 18:45:07
+1,,Food tin,Camera,0.92,2026-10-11 18:45:36
+3,,Drinks carton,Camera,0.75,2026-10-11 18:53:26
+2,,Milk bottle,Camera,0.99,2026-10-11 18:59:15
+4,5010029000016,,Barcode,1.00,2026-10-11 19:04:37
+3,,Compostable cup,Camera,0.98,2026-10-11 19:07:29
+3,,Plastic drinks bottle,Camera + sensor,0.80,2026-10-11 19:14:11
+2,,Drinks can,Camera + sensor,0.81,2026-10-11 19:29:46
+1,,Black plastic tray,Camera,0.79,2026-10-11 19:50:50
+4,,Polystyrene takeaway box,Camera,0.73,2026-10-11 20:46:55
+4,,Glass bottle,Camera + sensor,0.83,2026-10-11 20:50:53
+2,,Milk bottle,Camera,0.86,2026-10-12 07:09:06
+4,,Newspaper,Camera,0.86,2026-10-12 07:23:47
+3,5410188029475,,Barcode,1.00,2026-10-12 07:29:05
+4,,Compostable cup,Camera,0.87,2026-10-12 07:31:16
+2,,Compostable cup,Camera,0.85,2026-10-12 07:44:44
+2,5000171055675,,Barcode,1.00,2026-10-12 07:49:48
+3,,Food tin,Camera,0.83,2026-10-12 07:51:56
+1,5000328376677,,Barcode,1.00,2026-10-12 08:02:25
+4,5010357112061,,Barcode,1.00,2026-10-12 08:21:38
+1,,Compostable cup,Camera + sensor,0.88,2026-10-12 08:24:18
+3,,Newspaper,Camera,0.73,2026-10-12 08:32:50
+2,5054267003378,,Barcode,1.00,2026-10-12 08:34:20
+2,,Crisp packet,Camera,0.81,2026-10-12 08:39:55
+2,5010357112061,,Barcode,1.00,2026-10-12 08:49:00
+1,,Plastic tub or pot,Camera,0.77,2026-10-12 09:02:32
+2,,Compostable cup,Camera + sensor,0.84,2026-10-12 09:11:56
+1,,Drinks carton,Camera,0.85,2026-10-12 09:16:32
+3,,Food tin,Camera,0.76,2026-10-12 09:19:29
+1,5010029000016,,Barcode,1.00,2026-10-12 09:24:05
+1,,Milk bottle,Camera + sensor,0.82,2026-10-12 09:36:43
+2,5740900401099,,Barcode,1.00,2026-10-12 09:39:08
+2,,Newspaper,Camera,0.88,2026-10-12 09:44:54
+4,,Plastic tub or pot,Camera,0.75,2026-10-12 10:08:54
+1,00538077,,Barcode,1.00,2026-10-12 10:17:28
+1,,Drinks can,Camera,0.77,2026-10-12 10:18:21
+3,,Black plastic tray,Camera,0.89,2026-10-12 10:25:18
+4,5410188029475,,Barcode,1.00,2026-10-12 10:40:41
+2,5000157024671,,Barcode,1.00,2026-10-12 10:44:46
+3,5010029000016,,Barcode,1.00,2026-10-12 10:55:37
+1,,Black plastic tray,Camera,0.74,2026-10-12 11:00:20
+2,,Newspaper,Camera,0.71,2026-10-12 11:27:22
+3,,Crisp packet,Camera,0.95,2026-10-12 11:51:10
+1,,Plastic drinks bottle,Camera,0.85,2026-10-12 12:02:15
+2,,Polystyrene takeaway box,Camera,0.91,2026-10-12 12:06:08
+2,,Newspaper,Camera,0.95,2026-10-12 12:06:23
+1,,Newspaper,Camera,0.75,2026-10-12 12:14:28
+1,,Black plastic tray,Camera,0.91,2026-10-12 12:27:10
+2,,Black plastic tray,Camera,0.86,2026-10-12 12:45:20
+1,,Plastic tub or pot,Camera + sensor,0.84,2026-10-12 12:47:05
+3,,Black plastic tray,Camera + sensor,0.82,2026-10-12 12:52:10
+1,,Crisp packet,Camera,0.90,2026-10-12 13:03:13
+2,5010029000016,,Barcode,1.00,2026-10-12 13:28:27
+3,,Plastic tub or pot,Camera + sensor,0.94,2026-10-12 13:41:14
+3,00538077,,Barcode,1.00,2026-10-12 13:45:32
+4,5010029000016,,Barcode,1.00,2026-10-12 13:47:24
+2,5000328347790,,Barcode,1.00,2026-10-12 14:02:42
+3,,Cardboard box,Camera,0.92,2026-10-12 14:10:38
+1,,Polystyrene takeaway box,Camera,0.90,2026-10-12 14:13:26
+4,,Cardboard box,Camera,0.70,2026-10-12 14:17:29
+4,5740900805408,,Barcode,1.00,2026-10-12 14:32:41
+3,,Milk bottle,Camera + sensor,0.80,2026-10-12 14:39:34
+2,,Cardboard box,Camera + sensor,1.00,2026-10-12 14:56:49
+4,,Milk bottle,Camera,0.89,2026-10-12 14:56:58
+1,,Newspaper,Camera + sensor,1.00,2026-10-12 15:05:11
+1,,Plastic tub or pot,Camera,0.86,2026-10-12 15:15:39
+1,,Black plastic tray,Camera,0.97,2026-10-12 15:30:29
+2,5000157024671,,Barcode,1.00,2026-10-12 15:49:48
+3,04886556,,Barcode,1.00,2026-10-12 15:58:12
+2,,Glass bottle,Camera,0.75,2026-10-12 16:12:14
+4,5000171055675,,Barcode,1.00,2026-10-12 16:19:43
+4,,Milk bottle,Camera,0.94,2026-10-12 16:26:24
+3,,Food tin,Camera + sensor,0.83,2026-10-12 16:33:59
+4,,Black plastic tray,Camera,0.78,2026-10-12 17:01:19
+1,,Drinks can,Camera + sensor,0.89,2026-10-12 17:17:49
+4,,Plastic tub or pot,Camera,0.81,2026-10-12 17:17:51
+1,,Polystyrene takeaway box,Camera,0.96,2026-10-12 17:20:34
+2,5000328347790,,Barcode,1.00,2026-10-12 17:29:14
+2,,Glass bottle,Camera,0.96,2026-10-12 17:31:34
+1,,Polystyrene takeaway box,Camera,0.72,2026-10-12 17:41:29
+4,5055540004334,,Barcode,1.00,2026-10-12 18:02:40
+1,,Glass bottle,Camera,0.86,2026-10-12 18:20:02
+4,,Black plastic tray,Camera + sensor,0.84,2026-10-12 18:27:42
+2,,Milk bottle,Camera,0.85,2026-10-12 18:39:11
+4,,Black plastic tray,Camera,0.77,2026-10-12 18:53:03
+2,5000328347790,,Barcode,1.00,2026-10-12 18:58:06
+4,5000328376677,,Barcode,1.00,2026-10-12 19:04:49
+4,,Milk bottle,Camera,0.97,2026-10-12 19:06:35
+2,5449000000996,,Barcode,1.00,2026-10-12 19:13:28
+4,,Food tin,Camera,0.78,2026-10-12 19:16:16
+2,5740900401099,,Barcode,1.00,2026-10-12 19:20:11
+2,,Drinks carton,Camera,1.00,2026-10-12 19:23:54
+2,5055540004334,,Barcode,1.00,2026-10-12 19:45:27
+4,5054267003378,,Barcode,1.00,2026-10-12 19:53:09
+1,3057640257773,,Barcode,1.00,2026-10-12 19:59:17
+4,,Food tin,Camera,0.97,2026-10-12 20:08:13
+1,8006540994337,,Barcode,1.00,2026-10-12 20:14:39
+3,,Polystyrene takeaway box,Camera,0.78,2026-10-12 20:20:14
+3,,Newspaper,Camera,0.95,2026-10-12 20:34:04
+1,5010029000016,,Barcode,1.00,2026-10-12 20:36:33
+2,,Black plastic tray,Camera,0.72,2026-10-12 20:42:05
+2,5000328347790,,Barcode,1.00,2026-10-12 20:47:11
+2,00538077,,Barcode,1.00,2026-10-12 20:58:43
+3,5449000000996,,Barcode,1.00,2026-10-13 07:00:46
+2,,Milk bottle,Camera,0.93,2026-10-13 07:10:35
+4,5410188029475,,Barcode,1.00,2026-10-13 07:21:20
+3,,Black plastic tray,Camera + sensor,1.00,2026-10-13 07:22:11
+2,,Polystyrene takeaway box,Camera,0.85,2026-10-13 07:23:34
+3,,Polystyrene takeaway box,Camera,0.72,2026-10-13 07:25:11
+1,,Polystyrene takeaway box,Camera + sensor,0.95,2026-10-13 07:33:42
+3,50457243,,Barcode,1.00,2026-10-13 07:44:49
+2,,Cardboard box,Camera,0.94,2026-10-13 07:56:26
+4,,Milk bottle,Camera,0.80,2026-10-13 08:05:34
+4,04886556,,Barcode,1.00,2026-10-13 08:11:38
+4,,Polystyrene takeaway box,Camera,1.00,2026-10-13 08:16:37
+1,,Crisp packet,Camera,0.72,2026-10-13 09:02:56
+2,,Food tin,Camera + sensor,0.86,2026-10-13 09:13:27
+4,5010357112061,,Barcode,1.00,2026-10-13 09:19:00
+3,,Drinks carton,Camera + sensor,0.91,2026-10-13 09:31:45
+1,,Drinks can,Camera,0.82,2026-10-13 09:42:36
+3,,Polystyrene takeaway box,Camera + sensor,0.87,2026-10-13 09:54:23
+1,,Milk bottle,Camera,0.84,2026-10-13 10:01:53
+1,,Polystyrene takeaway box,Camera,0.79,2026-10-13 10:02:20
+3,04886556,,Barcode,1.00,2026-10-13 10:11:38
+3,5055540004334,,Barcode,1.00,2026-10-13 10:19:25
+4,,Drinks can,Camera,0.74,2026-10-13 10:26:05
+1,5410188029475,,Barcode,1.00,2026-10-13 10:30:25
+3,,Drinks carton,Camera + sensor,0.95,2026-10-13 10:31:08
+4,,Food tin,Camera + sensor,0.90,2026-10-13 10:43:27
+4,,Plastic drinks bottle,Camera,0.98,2026-10-13 10:45:04
+4,,Drinks carton,Camera,0.77,2026-10-13 11:15:10
+2,,Milk bottle,Camera,0.88,2026-10-13 11:20:35
+4,,Compostable cup,Camera,0.92,2026-10-13 11:28:05
+2,5740900401099,,Barcode,1.00,2026-10-13 11:46:28
+4,,Polystyrene takeaway box,Camera,0.79,2026-10-13 11:51:54
+4,,Cardboard box,Camera + sensor,0.94,2026-10-13 12:03:24
+2,,Compostable cup,Camera + sensor,0.96,2026-10-13 12:07:02
+3,,Compostable cup,Camera + sensor,0.83,2026-10-13 12:16:40
+1,5410188029475,,Barcode,1.00,2026-10-13 12:20:07
+1,,Compostable cup,Camera + sensor,0.84,2026-10-13 12:20:56
+3,,Newspaper,Camera,0.81,2026-10-13 12:21:11
+4,,Newspaper,Camera,0.71,2026-10-13 12:24:40
+4,,Crisp packet,Camera,0.95,2026-10-13 12:26:18
+2,5000157024671,,Barcode,1.00,2026-10-13 12:26:48
+1,,Plastic drinks bottle,Camera,0.84,2026-10-13 12:29:41
+2,,Compostable cup,Camera,0.76,2026-10-13 12:33:35
+3,,Glass bottle,Camera + sensor,1.00,2026-10-13 12:36:17
+3,,Crisp packet,Camera,0.80,2026-10-13 12:42:51
+1,,Glass bottle,Camera + sensor,0.84,2026-10-13 13:22:37
+1,,Black plastic tray,Camera,0.75,2026-10-13 13:26:35
+1,5000157024671,,Barcode,1.00,2026-10-13 13:33:01
+1,,Black plastic tray,Camera,0.99,2026-10-13 13:50:44
+1,04886556,,Barcode,1.00,2026-10-13 13:58:49
+1,5740900401099,,Barcode,1.00,2026-10-13 14:09:36
+1,,Newspaper,Camera,0.76,2026-10-13 14:19:30
+1,,Milk bottle,Camera,0.74,2026-10-13 14:28:33
+1,,Plastic tub or pot,Camera,0.86,2026-10-13 14:29:14
+4,,Drinks carton,Camera + sensor,0.82,2026-10-13 14:39:55
+4,,Cardboard box,Camera + sensor,0.81,2026-10-13 14:40:20
+3,,Plastic drinks bottle,Camera,0.82,2026-10-13 14:41:40
+2,,Glass bottle,Camera,0.70,2026-10-13 14:54:49
+3,,Food tin,Camera,0.81,2026-10-13 14:57:34
+2,,Plastic tub or pot,Camera + sensor,0.80,2026-10-13 14:58:47
+3,,Milk bottle,Camera + sensor,1.00,2026-10-13 15:02:31
+3,,Compostable cup,Camera + sensor,0.92,2026-10-13 15:08:00
+3,,Cardboard box,Camera,0.88,2026-10-13 15:08:10
+1,,Food tin,Camera + sensor,0.85,2026-10-13 15:08:37
+4,,Drinks can,Camera,0.92,2026-10-13 15:17:32
+4,04886556,,Barcode,1.00,2026-10-13 15:31:49
+4,5410188029475,,Barcode,1.00,2026-10-13 15:32:12
+2,,Crisp packet,Camera + sensor,0.91,2026-10-13 15:37:29
+3,5000328347790,,Barcode,1.00,2026-10-13 15:40:45
+3,,Milk bottle,Camera,0.99,2026-10-13 16:28:10
+3,,Compostable cup,Camera,0.84,2026-10-13 16:36:30
+3,,Plastic drinks bottle,Camera,0.96,2026-10-13 16:45:22
+4,,Compostable cup,Camera + sensor,0.93,2026-10-13 16:47:44
+4,5054267003378,,Barcode,1.00,2026-10-13 16:48:00
+3,5740900805408,,Barcode,1.00,2026-10-13 17:13:03
+3,,Compostable cup,Camera + sensor,0.83,2026-10-13 17:25:03
+1,,Newspaper,Camera,0.73,2026-10-13 17:26:47
+2,8006540994337,,Barcode,1.00,2026-10-13 17:33:03
+4,,Newspaper,Camera,0.90,2026-10-13 17:50:53
+4,,Newspaper,Camera + sensor,0.85,2026-10-13 17:54:06
+2,,Cardboard box,Camera + sensor,0.81,2026-10-13 18:19:50
+1,,Newspaper,Camera + sensor,0.85,2026-10-13 18:29:47
+3,,Drinks carton,Camera + sensor,0.97,2026-10-13 18:33:47
+1,5054267003378,,Barcode,1.00,2026-10-13 18:42:49
+3,,Drinks carton,Camera,0.94,2026-10-13 18:47:21
+2,,Drinks carton,Camera,0.91,2026-10-13 18:53:18
+3,3057640257773,,Barcode,1.00,2026-10-13 18:53:30
+3,,Drinks carton,Camera + sensor,0.86,2026-10-13 18:55:07
+2,04886556,,Barcode,1.00,2026-10-13 19:02:18
+4,,Polystyrene takeaway box,Camera,0.90,2026-10-13 19:14:47
+1,,Drinks can,Camera,0.79,2026-10-13 19:32:02
+3,,Drinks carton,Camera,1.00,2026-10-13 19:36:39
+4,5000157024671,,Barcode,1.00,2026-10-13 19:47:21
+1,,Compostable cup,Camera + sensor,0.94,2026-10-13 20:14:44
+2,,Cardboard box,Camera,0.99,2026-10-13 20:17:22
+2,5055540004334,,Barcode,1.00,2026-10-13 20:18:25
+4,,Crisp packet,Camera,0.76,2026-10-13 20:25:10
+3,,Plastic drinks bottle,Camera,0.99,2026-10-13 20:35:07
+3,,Polystyrene takeaway box,Camera + sensor,0.84,2026-10-13 20:35:51
+3,,Plastic drinks bottle,Camera,0.78,2026-10-13 20:48:28
+4,,Milk bottle,Camera,0.80,2026-10-13 20:53:48
+3,,Newspaper,Camera,0.90,2026-10-13 20:57:45
+2,,Plastic tub or pot,Camera + sensor,0.87,2026-10-13 20:59:56
+4,,Drinks carton,Camera + sensor,0.90,2026-10-14 07:12:18
+1,5010357112061,,Barcode,1.00,2026-10-14 07:18:39
+1,,Compostable cup,Camera,0.89,2026-10-14 07:36:35
+3,,Cardboard box,Camera + sensor,0.89,2026-10-14 08:35:14
+2,,Drinks carton,Camera,0.74,2026-10-14 08:35:21
+1,,Newspaper,Camera,0.84,2026-10-14 08:37:00
+1,,Glass bottle,Camera,0.73,2026-10-14 09:02:03
+2,,Crisp packet,Camera + sensor,0.98,2026-10-14 09:04:22
+1,,Food tin,Camera,0.82,2026-10-14 09:18:55
+1,,Plastic tub or pot,Camera,0.76,2026-10-14 09:22:53
+4,,Plastic tub or pot,Camera + sensor,0.92,2026-10-14 09:28:13
+4,,Plastic tub or pot,Camera + sensor,0.86,2026-10-14 09:40:17
+2,00538077,,Barcode,1.00,2026-10-14 09:45:52
+2,,Glass bottle,Camera,0.73,2026-10-14 09:45:57
+2,,Drinks can,Camera,0.75,2026-10-14 09:59:35
+3,,Crisp packet,Camera,0.95,2026-10-14 10:00:46
+1,,Cardboard box,Camera,0.95,2026-10-14 10:03:10
+1,,Food tin,Camera,0.78,2026-10-14 10:04:26
+3,5010357112061,,Barcode,1.00,2026-10-14 10:04:26
+1,,Cardboard box,Camera,0.95,2026-10-14 10:07:17
+1,,Newspaper,Camera,0.76,2026-10-14 10:26:31
+4,,Newspaper,Camera,0.80,2026-10-14 10:37:09
+2,,Compostable cup,Camera,0.76,2026-10-14 10:47:47
+2,3057640257773,,Barcode,1.00,2026-10-14 10:51:53
+4,04886556,,Barcode,1.00,2026-10-14 10:57:53
+4,,Newspaper,Camera,0.81,2026-10-14 11:20:55
+2,00538077,,Barcode,1.00,2026-10-14 11:43:02
+3,5000328376677,,Barcode,1.00,2026-10-14 11:43:03
+1,,Compostable cup,Camera,0.85,2026-10-14 11:57:54
+2,5000157024671,,Barcode,1.00,2026-10-14 12:18:47
+2,,Newspaper,Camera,0.91,2026-10-14 12:27:49
+3,5000171055675,,Barcode,1.00,2026-10-14 12:42:01
+4,5000171055675,,Barcode,1.00,2026-10-14 12:45:02
+4,,Black plastic tray,Camera,0.71,2026-10-14 13:02:55
+3,50457243,,Barcode,1.00,2026-10-14 13:08:27
+2,,Newspaper,Camera,0.83,2026-10-14 13:22:11
+3,00538077,,Barcode,1.00,2026-10-14 13:26:36
+2,5000328347790,,Barcode,1.00,2026-10-14 13:30:12
+2,,Food tin,Camera,0.94,2026-10-14 13:38:00
+4,,Crisp packet,Camera,0.81,2026-10-14 13:41:11
+4,,Food tin,Camera,0.90,2026-10-14 13:44:47
+2,,Cardboard box,Camera,0.88,2026-10-14 13:45:01
+1,,Newspaper,Camera,0.71,2026-10-14 13:45:51
+1,,Newspaper,Camera,0.77,2026-10-14 13:53:54
+2,,Glass bottle,Camera,0.93,2026-10-14 13:54:24
+3,,Black plastic tray,Camera + sensor,0.86,2026-10-14 13:59:07
+2,5449000000996,,Barcode,1.00,2026-10-14 14:03:02
+3,,Glass bottle,Camera,0.88,2026-10-14 14:15:43
+1,5410188029475,,Barcode,1.00,2026-10-14 14:25:54
+3,5000328347790,,Barcode,1.00,2026-10-14 14:34:24
+4,5055540004334,,Barcode,1.00,2026-10-14 14:37:20
+4,,Milk bottle,Camera,0.70,2026-10-14 14:39:35
+4,3033491314834,,Barcode,1.00,2026-10-14 14:47:36
+1,3057640257773,,Barcode,1.00,2026-10-14 15:06:21
+1,,Food tin,Camera,0.73,2026-10-14 15:10:03
+4,,Milk bottle,Camera,0.96,2026-10-14 15:24:56
+1,,Newspaper,Camera + sensor,0.84,2026-10-14 15:34:58
+2,,Plastic tub or pot,Camera,0.98,2026-10-14 15:37:09
+3,5000328376677,,Barcode,1.00,2026-10-14 15:44:47
+2,,Food tin,Camera + sensor,1.00,2026-10-14 15:53:45
+2,,Drinks can,Camera,0.80,2026-10-14 15:57:19
+4,,Plastic tub or pot,Camera,0.76,2026-10-14 16:18:13
+4,,Cardboard box,Camera + sensor,0.88,2026-10-14 16:21:28
+1,5410188029475,,Barcode,1.00,2026-10-14 16:22:08
+3,5010357112061,,Barcode,1.00,2026-10-14 16:23:30
+2,00538077,,Barcode,1.00,2026-10-14 16:30:33
+1,,Compostable cup,Camera,1.00,2026-10-14 16:36:25
+3,,Plastic tub or pot,Camera,1.00,2026-10-14 16:46:46
+2,,Newspaper,Camera,0.85,2026-10-14 16:57:25
+1,,Newspaper,Camera,0.85,2026-10-14 17:12:47
+3,5055540004334,,Barcode,1.00,2026-10-14 17:13:17
+1,,Black plastic tray,Camera,0.98,2026-10-14 17:14:01
+3,3057640257773,,Barcode,1.00,2026-10-14 17:14:16
+4,5740900805408,,Barcode,1.00,2026-10-14 17:19:41
+1,5449000000996,,Barcode,1.00,2026-10-14 17:26:18
+2,,Cardboard box,Camera,0.89,2026-10-14 17:30:23
+3,3033491314834,,Barcode,1.00,2026-10-14 17:32:40
+4,,Glass bottle,Camera,0.86,2026-10-14 17:34:58
+1,,Plastic tub or pot,Camera + sensor,0.96,2026-10-14 17:40:24
+3,5000328376677,,Barcode,1.00,2026-10-14 17:45:27
+1,,Milk bottle,Camera,0.96,2026-10-14 17:54:50
+1,,Glass bottle,Camera + sensor,0.93,2026-10-14 17:56:43
+2,,Milk bottle,Camera + sensor,0.87,2026-10-14 17:57:01
+2,,Plastic tub or pot,Camera,0.77,2026-10-14 18:01:54
+1,5740900401099,,Barcode,1.00,2026-10-14 18:03:52
+3,5000328376677,,Barcode,1.00,2026-10-14 18:07:22
+2,,Plastic tub or pot,Camera,0.81,2026-10-14 18:10:18
+1,,Drinks can,Camera,0.85,2026-10-14 18:11:05
+3,,Food tin,Camera,0.76,2026-10-14 18:13:37
+2,5054267003378,,Barcode,1.00,2026-10-14 18:23:42
+1,5055540004334,,Barcode,1.00,2026-10-14 18:35:53
+3,,Drinks can,Camera,0.76,2026-10-14 18:38:48
+4,,Drinks can,Camera + sensor,0.94,2026-10-14 19:01:48
+2,,Milk bottle,Camera,0.88,2026-10-14 19:07:53
+4,,Crisp packet,Camera,0.94,2026-10-14 19:09:28
+3,00538077,,Barcode,1.00,2026-10-14 19:27:06
+2,5000171055675,,Barcode,1.00,2026-10-14 19:27:54
+3,5000328376677,,Barcode,1.00,2026-10-14 19:47:53
+3,5000171055675,,Barcode,1.00,2026-10-14 20:00:35
+1,50457243,,Barcode,1.00,2026-10-14 20:01:32
+3,3033491314834,,Barcode,1.00,2026-10-14 20:27:56
+3,,Plastic drinks bottle,Camera,0.85,2026-10-14 20:28:56
+2,,Plastic tub or pot,Camera,0.88,2026-10-14 20:30:52
+2,,Food tin,Camera,0.75,2026-10-14 20:31:20
+3,,Food tin,Camera,0.73,2026-10-14 20:34:29
+4,5010029000016,,Barcode,1.00,2026-10-14 20:44:19
+4,,Polystyrene takeaway box,Camera,0.85,2026-10-14 20:50:21
+2,,Milk bottle,Camera + sensor,0.98,2026-10-14 20:53:33
+2,3033491314834,,Barcode,1.00,2026-10-15 07:00:27
+2,3033491314834,,Barcode,1.00,2026-10-15 07:00:42
+4,,Milk bottle,Camera,0.83,2026-10-15 07:12:50
+3,8006540994337,,Barcode,1.00,2026-10-15 07:15:10
+3,,Polystyrene takeaway box,Camera + sensor,0.85,2026-10-15 07:42:00
+3,,Drinks can,Camera,0.96,2026-10-15 07:45:16
+4,5000171055675,,Barcode,1.00,2026-10-15 07:45:18
+2,,Newspaper,Camera,0.78,2026-10-15 08:21:38
+3,,Black plastic tray,Camera,0.82,2026-10-15 08:27:00
+4,,Milk bottle,Camera,0.72,2026-10-15 08:40:09
+3,,Plastic tub or pot,Camera,0.97,2026-10-15 08:53:07
+1,5000328347790,,Barcode,1.00,2026-10-15 09:00:30
+3,,Newspaper,Camera,0.99,2026-10-15 09:23:36
+2,,Plastic tub or pot,Camera,0.93,2026-10-15 09:52:46
+2,5054267003378,,Barcode,1.00,2026-10-15 10:01:43
+4,,Black plastic tray,Camera,1.00,2026-10-15 10:03:20
+4,5000157024671,,Barcode,1.00,2026-10-15 10:03:50
+3,5740900401099,,Barcode,1.00,2026-10-15 10:04:18
+3,5000171055675,,Barcode,1.00,2026-10-15 10:10:57
+3,,Food tin,Camera,0.88,2026-10-15 10:20:13
+3,,Black plastic tray,Camera,0.80,2026-10-15 10:28:21
+2,,Compostable cup,Camera + sensor,0.83,2026-10-15 10:42:05
+2,,Newspaper,Camera + sensor,0.99,2026-10-15 11:05:23
+4,,Glass bottle,Camera,0.89,2026-10-15 11:11:55
+3,5010357112061,,Barcode,1.00,2026-10-15 11:13:09
+4,,Crisp packet,Camera,0.73,2026-10-15 11:18:13
+4,,Polystyrene takeaway box,Camera + sensor,0.95,2026-10-15 11:44:11
+4,,Food tin,Camera,0.88,2026-10-15 12:04:55
+4,,Milk bottle,Camera + sensor,0.87,2026-10-15 12:09:12
+2,,Milk bottle,Camera,0.81,2026-10-15 12:09:13
+4,5000171055675,,Barcode,1.00,2026-10-15 12:13:29
+2,,Milk bottle,Camera + sensor,0.88,2026-10-15 12:21:10
+2,5010029000016,,Barcode,1.00,2026-10-15 12:21:26
+2,5010357112061,,Barcode,1.00,2026-10-15 12:23:44
+1,5449000000996,,Barcode,1.00,2026-10-15 12:26:04
+2,5010029000016,,Barcode,1.00,2026-10-15 12:48:50
+1,5410188029475,,Barcode,1.00,2026-10-15 13:00:16
+1,3057640257773,,Barcode,1.00,2026-10-15 13:07:49
+3,,Crisp packet,Camera,0.82,2026-10-15 13:17:43
+4,,Cardboard box,Camera,0.87,2026-10-15 13:40:38
+3,5000328376677,,Barcode,1.00,2026-10-15 13:47:56
+2,5010357112061,,Barcode,1.00,2026-10-15 13:48:30
+2,,Newspaper,Camera,0.76,2026-10-15 13:59:14
+1,,Crisp packet,Camera + sensor,0.85,2026-10-15 14:01:15
+4,5055540004334,,Barcode,1.00,2026-10-15 14:29:25
+4,,Compostable cup,Camera,0.98,2026-10-15 14:32:28
+1,,Cardboard box,Camera,0.84,2026-10-15 14:34:51
+2,,Newspaper,Camera + sensor,0.97,2026-10-15 14:47:52
+2,,Cardboard box,Camera,0.70,2026-10-15 14:48:42
+4,,Glass bottle,Camera,0.78,2026-10-15 14:58:27
+2,5740900805408,,Barcode,1.00,2026-10-15 15:02:01
+3,8006540994337,,Barcode,1.00,2026-10-15 15:03:34
+3,,Milk bottle,Camera,0.89,2026-10-15 15:04:02
+1,,Newspaper,Camera,0.98,2026-10-15 15:21:44
+1,,Glass bottle,Camera,1.00,2026-10-15 15:25:54
+1,,Crisp packet,Camera,0.98,2026-10-15 15:29:54
+3,3057640257773,,Barcode,1.00,2026-10-15 15:32:41
+2,5410188029475,,Barcode,1.00,2026-10-15 15:43:23
+1,,Drinks can,Camera + sensor,0.94,2026-10-15 15:45:09
+1,,Polystyrene takeaway box,Camera + sensor,0.83,2026-10-15 16:01:16
+2,,Food tin,Camera,0.90,2026-10-15 16:09:56
+1,,Drinks can,Camera,0.99,2026-10-15 16:34:59
+3,3057640257773,,Barcode,1.00,2026-10-15 16:40:33
+4,,Polystyrene takeaway box,Camera,0.88,2026-10-15 17:00:20
+2,,Polystyrene takeaway box,Camera,0.95,2026-10-15 17:04:50
+3,,Milk bottle,Camera + sensor,0.87,2026-10-15 17:13:50
+4,,Glass bottle,Camera,0.84,2026-10-15 17:17:45
+1,,Compostable cup,Camera + sensor,0.93,2026-10-15 17:24:41
+2,,Polystyrene takeaway box,Camera,0.87,2026-10-15 17:33:02
+1,,Black plastic tray,Camera,0.78,2026-10-15 17:36:16
+4,,Newspaper,Camera,0.90,2026-10-15 17:46:47
+4,5000171055675,,Barcode,1.00,2026-10-15 17:50:12
+4,,Black plastic tray,Camera + sensor,0.91,2026-10-15 17:59:13
+1,00538077,,Barcode,1.00,2026-10-15 18:00:35
+3,5410188029475,,Barcode,1.00,2026-10-15 18:10:00
+4,,Black plastic tray,Camera,0.85,2026-10-15 18:10:10
+4,00538077,,Barcode,1.00,2026-10-15 18:16:59
+4,,Drinks carton,Camera,0.78,2026-10-15 18:17:27
+3,,Newspaper,Camera,0.87,2026-10-15 18:45:19
+3,,Polystyrene takeaway box,Camera + sensor,0.87,2026-10-15 19:10:19
+4,5410188029475,,Barcode,1.00,2026-10-15 19:30:12
+1,,Glass bottle,Camera,0.87,2026-10-15 19:30:56
+2,5000171055675,,Barcode,1.00,2026-10-15 19:35:41
+2,,Polystyrene takeaway box,Camera,0.96,2026-10-15 19:45:05
+3,,Glass bottle,Camera,1.00,2026-10-15 19:55:42
+2,3057640257773,,Barcode,1.00,2026-10-15 19:58:49
+2,,Black plastic tray,Camera,0.80,2026-10-15 19:59:28
+1,50457243,,Barcode,1.00,2026-10-15 20:02:35
+3,3057640257773,,Barcode,1.00,2026-10-15 20:22:03
+2,8006540994337,,Barcode,1.00,2026-10-15 20:25:26
+1,,Glass bottle,Camera + sensor,1.00,2026-10-15 20:34:27
+1,3057640257773,,Barcode,1.00,2026-10-15 20:47:10
+4,,Black plastic tray,Camera,0.82,2026-10-15 20:48:39
+4,5000157024671,,Barcode,1.00,2026-10-16 07:28:50
+2,,Glass bottle,Camera,0.76,2026-10-16 07:30:24
+1,,Food tin,Camera + sensor,0.87,2026-10-16 07:31:21
+3,,Food tin,Camera,0.93,2026-10-16 07:44:40
+4,,Compostable cup,Camera + sensor,0.96,2026-10-16 07:48:22
+4,,Drinks can,Camera,0.76,2026-10-16 08:04:01
+4,,Crisp packet,Camera,0.83,2026-10-16 08:08:38
+2,5740900805408,,Barcode,1.00,2026-10-16 08:11:12
+1,,Milk bottle,Camera,0.80,2026-10-16 08:12:14
+2,5740900401099,,Barcode,1.00,2026-10-16 08:32:11
+1,,Milk bottle,Camera,0.96,2026-10-16 08:47:18
+1,,Milk bottle,Camera,0.78,2026-10-16 08:55:56
+2,5055540004334,,Barcode,1.00,2026-10-16 08:59:28
+4,,Drinks carton,Camera + sensor,0.95,2026-10-16 09:19:12
+4,,Drinks carton,Camera,0.84,2026-10-16 09:25:36
+4,5740900805408,,Barcode,1.00,2026-10-16 09:43:22
+4,3033491314834,,Barcode,1.00,2026-10-16 09:47:11
+2,,Plastic drinks bottle,Camera,0.79,2026-10-16 09:58:57
+3,5410188029475,,Barcode,1.00,2026-10-16 10:01:02
+2,5740900805408,,Barcode,1.00,2026-10-16 10:05:29
+4,50457243,,Barcode,1.00,2026-10-16 10:23:48
+4,,Milk bottle,Camera,0.74,2026-10-16 10:25:39
+4,5449000000996,,Barcode,1.00,2026-10-16 10:35:37
+1,,Plastic tub or pot,Camera,0.82,2026-10-16 10:38:55
+4,,Glass bottle,Camera + sensor,0.89,2026-10-16 10:47:12
+3,5055540004334,,Barcode,1.00,2026-10-16 10:49:54
+1,,Milk bottle,Camera + sensor,0.81,2026-10-16 10:56:40
+4,,Cardboard box,Camera,0.83,2026-10-16 11:03:13
+3,,Cardboard box,Camera,0.91,2026-10-16 11:09:16
+4,,Food tin,Camera + sensor,0.94,2026-10-16 11:10:51
+3,,Glass bottle,Camera,0.96,2026-10-16 11:12:14
+3,,Black plastic tray,Camera + sensor,0.83,2026-10-16 11:29:05
+4,,Glass bottle,Camera,0.91,2026-10-16 11:56:18
+1,,Compostable cup,Camera + sensor,0.90,2026-10-16 11:58:45
+4,5740900805408,,Barcode,1.00,2026-10-16 12:00:16
+3,5000157024671,,Barcode,1.00,2026-10-16 12:01:39
+2,5000157024671,,Barcode,1.00,2026-10-16 12:03:12
+1,5449000000996,,Barcode,1.00,2026-10-16 12:10:15
+3,5449000000996,,Barcode,1.00,2026-10-16 12:16:38
+3,3057640257773,,Barcode,1.00,2026-10-16 12:21:22
+2,,Compostable cup,Camera + sensor,1.00,2026-10-16 12:21:38
+3,5010357112061,,Barcode,1.00,2026-10-16 12:31:59
+3,,Compostable cup,Camera,0.78,2026-10-16 12:32:11
+3,5055540004334,,Barcode,1.00,2026-10-16 12:46:45
+1,,Glass bottle,Camera,0.92,2026-10-16 12:47:56
+4,,Food tin,Camera,0.80,2026-10-16 12:49:03
+4,5740900401099,,Barcode,1.00,2026-10-16 13:07:02
+4,5449000000996,,Barcode,1.00,2026-10-16 13:07:48
+1,,Plastic tub or pot,Camera,0.81,2026-10-16 13:20:18
+1,,Glass bottle,Camera,0.77,2026-10-16 13:28:00
+2,,Cardboard box,Camera + sensor,0.90,2026-10-16 13:35:48
+4,,Plastic tub or pot,Camera + sensor,0.88,2026-10-16 13:45:56
+2,,Milk bottle,Camera + sensor,0.80,2026-10-16 13:50:32
+2,,Glass bottle,Camera,0.96,2026-10-16 14:07:59
+3,,Glass bottle,Camera,0.97,2026-10-16 14:14:13
+4,5000328347790,,Barcode,1.00,2026-10-16 14:21:08
+4,,Milk bottle,Camera,0.83,2026-10-16 14:26:46
+4,,Black plastic tray,Camera,0.80,2026-10-16 14:28:05
+2,3057640257773,,Barcode,1.00,2026-10-16 14:28:43
+1,,Cardboard box,Camera,0.86,2026-10-16 14:39:49
+4,5740900401099,,Barcode,1.00,2026-10-16 14:53:17
+4,,Plastic tub or pot,Camera + sensor,0.99,2026-10-16 14:55:26
+1,,Drinks can,Camera,0.77,2026-10-16 15:05:17
+2,,Drinks carton,Camera + sensor,0.93,2026-10-16 15:23:59
+3,,Milk bottle,Camera + sensor,0.99,2026-10-16 15:26:35
+4,,Black plastic tray,Camera + sensor,0.97,2026-10-16 15:33:33
+3,,Drinks can,Camera + sensor,0.89,2026-10-16 16:03:42
+4,,Milk bottle,Camera + sensor,0.98,2026-10-16 16:05:34
+1,,Drinks can,Camera,0.75,2026-10-16 16:33:27
+3,,Compostable cup,Camera,0.82,2026-10-16 16:46:19
+2,5054267003378,,Barcode,1.00,2026-10-16 16:48:55
+4,8006540994337,,Barcode,1.00,2026-10-16 17:08:28
+2,,Cardboard box,Camera,0.93,2026-10-16 17:22:40
+4,,Drinks carton,Camera,0.98,2026-10-16 17:25:54
+4,,Black plastic tray,Camera + sensor,0.93,2026-10-16 17:51:27
+2,,Food tin,Camera,0.97,2026-10-16 17:54:11
+2,50457243,,Barcode,1.00,2026-10-16 18:00:42
+3,50457243,,Barcode,1.00,2026-10-16 18:36:29
+1,,Crisp packet,Camera,0.90,2026-10-16 18:46:44
+3,,Plastic tub or pot,Camera,0.95,2026-10-16 18:50:26
+1,,Glass bottle,Camera,0.89,2026-10-16 19:09:58
+2,,Newspaper,Camera,0.90,2026-10-16 19:17:53
+2,,Plastic tub or pot,Camera,0.95,2026-10-16 19:22:39
+1,3033491314834,,Barcode,1.00,2026-10-16 19:25:14
+3,,Black plastic tray,Camera + sensor,0.93,2026-10-16 19:34:26
+2,,Drinks can,Camera + sensor,0.84,2026-10-16 20:10:52
+1,,Plastic drinks bottle,Camera + sensor,0.83,2026-10-16 20:27:21
+2,,Plastic tub or pot,Camera,0.84,2026-10-16 20:27:55
+4,,Polystyrene takeaway box,Camera,0.72,2026-10-16 20:34:01
+1,5010029000016,,Barcode,1.00,2026-10-16 20:46:26
+4,,Milk bottle,Camera,0.90,2026-10-17 07:01:39
+2,00538077,,Barcode,1.00,2026-10-17 07:06:05
+3,,Food tin,Camera + sensor,0.85,2026-10-17 07:07:41
+4,5010357112061,,Barcode,1.00,2026-10-17 07:11:10
+2,,Plastic drinks bottle,Camera,0.78,2026-10-17 07:19:07
+2,,Drinks can,Camera,0.80,2026-10-17 07:25:51
+1,,Drinks can,Camera,0.71,2026-10-17 07:36:30
+4,,Polystyrene takeaway box,Camera + sensor,0.80,2026-10-17 07:38:25
+1,,Plastic tub or pot,Camera,0.78,2026-10-17 07:40:57
+4,,Crisp packet,Camera,0.77,2026-10-17 08:18:58
+3,5010029000016,,Barcode,1.00,2026-10-17 08:19:15
+3,,Drinks can,Camera + sensor,0.90,2026-10-17 08:20:25
+2,,Plastic tub or pot,Camera,1.00,2026-10-17 08:20:56
+4,,Plastic drinks bottle,Camera,0.80,2026-10-17 08:22:38
+1,5740900401099,,Barcode,1.00,2026-10-17 08:22:54
+3,,Food tin,Camera,0.74,2026-10-17 08:44:13
+2,,Glass bottle,Camera,0.75,2026-10-17 08:47:10
+4,,Crisp packet,Camera + sensor,0.98,2026-10-17 08:58:04
+2,,Food tin,Camera + sensor,0.81,2026-10-17 08:58:24
+3,5740900401099,,Barcode,1.00,2026-10-17 09:18:56
+4,,Plastic tub or pot,Camera,0.77,2026-10-17 09:27:35
+3,,Food tin,Camera,0.79,2026-10-17 09:36:07
+4,5449000000996,,Barcode,1.00,2026-10-17 09:37:26
+3,,Compostable cup,Camera,0.89,2026-10-17 09:39:42
+1,3033491314834,,Barcode,1.00,2026-10-17 09:48:25
+2,,Black plastic tray,Camera + sensor,0.97,2026-10-17 09:49:00
+1,5055540004334,,Barcode,1.00,2026-10-17 09:51:48
+4,5000328376677,,Barcode,1.00,2026-10-17 09:58:35
+1,,Drinks can,Camera,0.73,2026-10-17 10:02:32
+4,5000328347790,,Barcode,1.00,2026-10-17 10:15:05
+2,,Plastic tub or pot,Camera,0.93,2026-10-17 10:25:23
+4,5054267003378,,Barcode,1.00,2026-10-17 10:32:35
+2,,Newspaper,Camera,0.82,2026-10-17 10:35:23
+3,,Plastic tub or pot,Camera,0.81,2026-10-17 10:40:24
+4,,Drinks can,Camera,0.72,2026-10-17 10:48:35
+4,,Food tin,Camera,0.95,2026-10-17 10:50:41
+1,,Plastic tub or pot,Camera,0.92,2026-10-17 11:03:26
+1,,Newspaper,Camera + sensor,0.81,2026-10-17 11:23:01
+3,,Black plastic tray,Camera,0.84,2026-10-17 11:23:56
+1,,Plastic drinks bottle,Camera,0.81,2026-10-17 11:33:20
+4,3033491314834,,Barcode,1.00,2026-10-17 11:39:53
+4,,Glass bottle,Camera,0.99,2026-10-17 11:48:23
+2,8006540994337,,Barcode,1.00,2026-10-17 11:50:54
+2,,Food tin,Camera,0.85,2026-10-17 11:56:39
+4,3033491314834,,Barcode,1.00,2026-10-17 11:59:22
+2,3033491314834,,Barcode,1.00,2026-10-17 12:07:54
+2,,Plastic drinks bottle,Camera,0.81,2026-10-17 12:12:21
+4,5740900401099,,Barcode,1.00,2026-10-17 12:18:33
+3,,Black plastic tray,Camera + sensor,0.95,2026-10-17 12:20:27
+1,,Milk bottle,Camera,0.97,2026-10-17 12:29:11
+1,,Plastic tub or pot,Camera,0.74,2026-10-17 12:35:05
+3,,Glass bottle,Camera,0.72,2026-10-17 12:36:26
+4,,Compostable cup,Camera,0.78,2026-10-17 13:02:50
+2,,Drinks can,Camera,0.80,2026-10-17 13:10:01
+1,,Glass bottle,Camera,0.77,2026-10-17 13:22:15
+2,,Food tin,Camera + sensor,0.92,2026-10-17 13:33:26
+3,5000328376677,,Barcode,1.00,2026-10-17 13:34:07
+1,,Drinks can,Camera + sensor,0.91,2026-10-17 13:46:40
+3,,Plastic drinks bottle,Camera + sensor,0.83,2026-10-17 13:49:43
+3,,Cardboard box,Camera + sensor,0.95,2026-10-17 13:55:22
+4,,Plastic tub or pot,Camera,0.95,2026-10-17 13:57:10
+2,5449000000996,,Barcode,1.00,2026-10-17 14:05:09
+3,5000157024671,,Barcode,1.00,2026-10-17 14:23:09
+3,5000328376677,,Barcode,1.00,2026-10-17 14:32:44
+2,,Glass bottle,Camera,0.99,2026-10-17 14:47:09
+4,,Plastic drinks bottle,Camera + sensor,0.82,2026-10-17 14:58:31
+4,,Compostable cup,Camera,0.93,2026-10-17 15:05:41
+2,50457243,,Barcode,1.00,2026-10-17 15:09:00
+4,,Black plastic tray,Camera,0.92,2026-10-17 15:14:22
+3,00538077,,Barcode,1.00,2026-10-17 15:14:32
+2,,Milk bottle,Camera,0.88,2026-10-17 15:25:10
+4,5449000000996,,Barcode,1.00,2026-10-17 15:26:51
+4,04886556,,Barcode,1.00,2026-10-17 15:29:29
+4,5054267003378,,Barcode,1.00,2026-10-17 15:35:13
+2,,Crisp packet,Camera,0.73,2026-10-17 15:36:43
+2,3057640257773,,Barcode,1.00,2026-10-17 15:36:57
+3,,Cardboard box,Camera,0.96,2026-10-17 15:41:34
+1,,Polystyrene takeaway box,Camera,0.77,2026-10-17 15:42:05
+3,3033491314834,,Barcode,1.00,2026-10-17 15:55:39
+2,,Black plastic tray,Camera,0.99,2026-10-17 16:07:01
+1,,Drinks carton,Camera,0.97,2026-10-17 16:17:32
+3,5010029000016,,Barcode,1.00,2026-10-17 16:55:51
+1,,Drinks can,Camera,0.86,2026-10-17 17:00:42
+2,,Compostable cup,Camera,0.85,2026-10-17 17:24:47
+2,5740900401099,,Barcode,1.00,2026-10-17 17:25:11
+2,,Glass bottle,Camera + sensor,0.84,2026-10-17 17:30:24
+4,5410188029475,,Barcode,1.00,2026-10-17 17:34:24
+2,,Compostable cup,Camera,0.88,2026-10-17 17:40:09
+4,,Compostable cup,Camera + sensor,0.98,2026-10-17 17:46:01
+4,5000328376677,,Barcode,1.00,2026-10-17 18:01:11
+3,5010029000016,,Barcode,1.00,2026-10-17 18:39:02
+1,,Drinks carton,Camera + sensor,0.80,2026-10-17 18:41:43
+1,5000157024671,,Barcode,1.00,2026-10-17 19:00:23
+1,3033491314834,,Barcode,1.00,2026-10-17 19:00:49
+3,5010029000016,,Barcode,1.00,2026-10-17 19:22:05
+4,,Crisp packet,Camera,0.85,2026-10-17 19:33:03
+2,5410188029475,,Barcode,1.00,2026-10-17 19:35:15
+4,5055540004334,,Barcode,1.00,2026-10-17 19:46:07
+2,8006540994337,,Barcode,1.00,2026-10-17 19:50:07
+4,5010357112061,,Barcode,1.00,2026-10-17 19:58:07
+2,5000328376677,,Barcode,1.00,2026-10-17 20:03:21
+4,,Milk bottle,Camera,0.90,2026-10-17 20:05:26
+4,,Cardboard box,Camera,0.71,2026-10-17 20:08:23
+1,,Black plastic tray,Camera + sensor,0.84,2026-10-17 20:13:39
+3,,Plastic tub or pot,Camera,1.00,2026-10-17 20:22:27
+3,,Cardboard box,Camera,0.85,2026-10-17 20:30:00
+4,,Food tin,Camera,0.88,2026-10-17 20:37:20
+4,5010029000016,,Barcode,1.00,2026-10-17 20:38:32
+4,,Glass bottle,Camera,0.79,2026-10-17 20:46:28
+2,,Compostable cup,Camera,0.94,2026-10-17 20:56:18
+4,5000171055675,,Barcode,1.00,2026-10-18 07:20:46
+2,,Cardboard box,Camera,0.95,2026-10-18 07:27:46
+3,,Black plastic tray,Camera,0.82,2026-10-18 07:40:24
+3,,Polystyrene takeaway box,Camera + sensor,0.83,2026-10-18 08:01:37
+1,5740900805408,,Barcode,1.00,2026-10-18 08:09:02
+1,,Drinks can,Camera,0.98,2026-10-18 08:13:22
+4,5000328347790,,Barcode,1.00,2026-10-18 08:16:10
+3,,Cardboard box,Camera,0.86,2026-10-18 08:26:08
+1,5000328376677,,Barcode,1.00,2026-10-18 08:34:05
+1,00538077,,Barcode,1.00,2026-10-18 08:48:20
+2,5000328376677,,Barcode,1.00,2026-10-18 08:59:19
+1,8006540994337,,Barcode,1.00,2026-10-18 09:09:17
+4,5055540004334,,Barcode,1.00,2026-10-18 09:14:59
+2,5000171055675,,Barcode,1.00,2026-10-18 09:28:24
+3,,Drinks carton,Camera,0.75,2026-10-18 09:29:20
+2,04886556,,Barcode,1.00,2026-10-18 09:39:30
+4,,Cardboard box,Camera,0.90,2026-10-18 09:41:26
+4,8006540994337,,Barcode,1.00,2026-10-18 09:52:50
+1,,Drinks can,Camera,0.72,2026-10-18 10:02:25
+4,,Milk bottle,Camera,0.74,2026-10-18 10:07:24
+3,5000328376677,,Barcode,1.00,2026-10-18 10:24:19
+3,00538077,,Barcode,1.00,2026-10-18 10:25:21
+2,3033491314834,,Barcode,1.00,2026-10-18 10:43:27
+3,50457243,,Barcode,1.00,2026-10-18 10:50:41
+2,,Food tin,Camera,0.79,2026-10-18 10:51:22
+1,,Drinks carton,Camera,0.99,2026-10-18 11:02:54
+4,,Drinks can,Camera,0.96,2026-10-18 11:03:03
+3,04886556,,Barcode,1.00,2026-10-18 11:07:45
+4,,Plastic tub or pot,Camera,0.74,2026-10-18 11:08:36
+1,50457243,,Barcode,1.00,2026-10-18 11:16:51
+3,,Cardboard box,Camera,0.70,2026-10-18 11:23:42
+4,5000171055675,,Barcode,1.00,2026-10-18 11:39:17
+4,50457243,,Barcode,1.00,2026-10-18 11:46:14
+3,,Black plastic tray,Camera,0.79,2026-10-18 11:47:38
+3,,Crisp packet,Camera,0.76,2026-10-18 12:00:53
+2,,Crisp packet,Camera,0.75,2026-10-18 12:01:34
+1,5010029000016,,Barcode,1.00,2026-10-18 12:25:03
+3,,Food tin,Camera,0.78,2026-10-18 12:38:22
+2,,Compostable cup,Camera,0.92,2026-10-18 12:39:24
+4,,Black plastic tray,Camera,0.85,2026-10-18 12:46:52
+3,3033491314834,,Barcode,1.00,2026-10-18 12:53:05
+3,5740900401099,,Barcode,1.00,2026-10-18 12:56:04
+3,,Crisp packet,Camera,0.99,2026-10-18 12:56:20
+4,,Plastic drinks bottle,Camera,0.90,2026-10-18 13:07:21
+4,,Plastic tub or pot,Camera + sensor,0.89,2026-10-18 13:33:53
+2,3057640257773,,Barcode,1.00,2026-10-18 13:34:12
+4,,Glass bottle,Camera,0.75,2026-10-18 13:36:11
+3,,Newspaper,Camera + sensor,0.94,2026-10-18 13:37:46
+3,,Black plastic tray,Camera,0.91,2026-10-18 13:38:15
+4,,Compostable cup,Camera + sensor,0.94,2026-10-18 13:41:14
+2,5449000000996,,Barcode,1.00,2026-10-18 13:42:33
+2,04886556,,Barcode,1.00,2026-10-18 13:53:05
+4,,Polystyrene takeaway box,Camera,0.77,2026-10-18 13:56:04
+1,5000157024671,,Barcode,1.00,2026-10-18 14:15:18
+1,,Newspaper,Camera,0.82,2026-10-18 14:36:43
+1,50457243,,Barcode,1.00,2026-10-18 14:37:51
+3,,Black plastic tray,Camera,0.97,2026-10-18 14:48:41
+2,,Plastic drinks bottle,Camera + sensor,0.86,2026-10-18 15:01:27
+1,,Glass bottle,Camera + sensor,0.91,2026-10-18 15:05:08
+1,3033491314834,,Barcode,1.00,2026-10-18 15:12:18
+4,5000328376677,,Barcode,1.00,2026-10-18 15:15:22
+1,,Newspaper,Camera + sensor,0.81,2026-10-18 15:20:11
+4,,Newspaper,Camera + sensor,0.81,2026-10-18 15:38:59
+1,8006540994337,,Barcode,1.00,2026-10-18 15:40:48
+3,,Compostable cup,Camera,0.87,2026-10-18 15:43:07
+4,50457243,,Barcode,1.00,2026-10-18 15:55:48
+1,3033491314834,,Barcode,1.00,2026-10-18 16:10:39
+4,,Polystyrene takeaway box,Camera,1.00,2026-10-18 16:14:46
+1,,Drinks carton,Camera + sensor,0.83,2026-10-18 16:19:01
+3,5740900805408,,Barcode,1.00,2026-10-18 16:20:05
+2,5054267003378,,Barcode,1.00,2026-10-18 16:24:36
+2,50457243,,Barcode,1.00,2026-10-18 16:38:09
+1,,Plastic drinks bottle,Camera,0.84,2026-10-18 16:44:59
+3,,Drinks carton,Camera + sensor,0.99,2026-10-18 16:49:15
+3,,Newspaper,Camera,0.91,2026-10-18 16:51:55
+3,,Crisp packet,Camera,0.70,2026-10-18 17:03:13
+4,,Crisp packet,Camera + sensor,0.96,2026-10-18 17:09:20
+3,,Newspaper,Camera + sensor,0.90,2026-10-18 17:14:28
+3,3057640257773,,Barcode,1.00,2026-10-18 17:16:24
+1,,Newspaper,Camera,0.85,2026-10-18 17:22:55
+1,,Drinks can,Camera,1.00,2026-10-18 18:00:07
+4,5000328376677,,Barcode,1.00,2026-10-18 18:07:50
+1,5054267003378,,Barcode,1.00,2026-10-18 18:09:46
+4,5000328347790,,Barcode,1.00,2026-10-18 18:10:43
+3,,Drinks can,Camera + sensor,0.98,2026-10-18 18:50:56
+4,,Polystyrene takeaway box,Camera + sensor,0.82,2026-10-18 18:59:56
+2,5449000000996,,Barcode,1.00,2026-10-18 19:16:07
+3,,Food tin,Camera,0.87,2026-10-18 19:17:20
+2,3033491314834,,Barcode,1.00,2026-10-18 19:36:38
+1,,Compostable cup,Camera,0.90,2026-10-18 19:47:35
+4,,Cardboard box,Camera,0.95,2026-10-18 19:56:15
+1,,Plastic tub or pot,Camera + sensor,0.80,2026-10-18 19:57:24
+1,5000328376677,,Barcode,1.00,2026-10-18 20:07:27
+1,5740900805408,,Barcode,1.00,2026-10-18 20:20:03
+3,,Cardboard box,Camera + sensor,0.97,2026-10-18 20:33:01
+1,5410188029475,,Barcode,1.00,2026-10-18 20:38:12
+1,,Compostable cup,Camera + sensor,0.87,2026-10-18 20:55:50
+2,,Black plastic tray,Camera,0.85,2026-10-19 07:09:08
+4,,Glass bottle,Camera,0.85,2026-10-19 07:25:25
+1,,Compostable cup,Camera,0.81,2026-10-19 07:32:38
+4,5410188029475,,Barcode,1.00,2026-10-19 07:40:47
+4,,Newspaper,Camera,0.90,2026-10-19 07:41:48
+1,,Cardboard box,Camera,0.80,2026-10-19 07:42:43
+4,,Crisp packet,Camera,0.83,2026-10-19 07:54:29
+3,,Cardboard box,Camera,0.84,2026-10-19 07:57:22
+4,,Compostable cup,Camera,0.97,2026-10-19 07:58:05
+3,5000157024671,,Barcode,1.00,2026-10-19 08:00:30
+1,,Drinks carton,Camera + sensor,0.98,2026-10-19 08:12:26
+1,,Newspaper,Camera,0.71,2026-10-19 08:14:02
+4,,Plastic tub or pot,Camera + sensor,0.93,2026-10-19 08:22:33
+1,,Black plastic tray,Camera,0.91,2026-10-19 08:23:49
+2,,Glass bottle,Camera + sensor,0.98,2026-10-19 08:37:07
+3,,Plastic tub or pot,Camera,0.87,2026-10-19 08:43:20
+4,,Glass bottle,Camera,0.88,2026-10-19 08:44:08
+2,5000171055675,,Barcode,1.00,2026-10-19 08:51:41
+4,,Compostable cup,Camera,0.99,2026-10-19 09:00:00
+4,,Milk bottle,Camera + sensor,0.94,2026-10-19 09:14:05
+2,,Food tin,Camera,0.75,2026-10-19 09:36:12
+3,,Cardboard box,Camera + sensor,0.97,2026-10-19 09:36:27
+3,50457243,,Barcode,1.00,2026-10-19 09:57:21
+2,,Newspaper,Camera,0.74,2026-10-19 10:01:57
+2,,Compostable cup,Camera + sensor,0.95,2026-10-19 10:04:26
+4,,Polystyrene takeaway box,Camera + sensor,0.98,2026-10-19 10:06:28
+1,,Plastic tub or pot,Camera,0.96,2026-10-19 10:09:28
+2,,Glass bottle,Camera,0.77,2026-10-19 10:13:54
+3,5000157024671,,Barcode,1.00,2026-10-19 10:31:41
+3,,Drinks can,Camera,0.80,2026-10-19 10:35:44
+2,,Plastic drinks bottle,Camera + sensor,0.88,2026-10-19 10:37:37
+1,5740900401099,,Barcode,1.00,2026-10-19 10:48:28
+1,,Plastic drinks bottle,Camera,0.71,2026-10-19 11:00:30
+2,5000157024671,,Barcode,1.00,2026-10-19 11:21:00
+2,,Black plastic tray,Camera,0.95,2026-10-19 11:27:19
+2,,Black plastic tray,Camera + sensor,0.93,2026-10-19 11:44:51
+1,,Plastic tub or pot,Camera + sensor,0.97,2026-10-19 12:07:51
+1,,Newspaper,Camera + sensor,0.93,2026-10-19 12:11:05
+4,,Drinks can,Camera,0.70,2026-10-19 12:11:31
+3,,Compostable cup,Camera,0.87,2026-10-19 12:17:58
+3,,Crisp packet,Camera,0.70,2026-10-19 12:25:51
+4,,Milk bottle,Camera,0.75,2026-10-19 13:06:43
+2,5000328376677,,Barcode,1.00,2026-10-19 13:12:22
+4,,Polystyrene takeaway box,Camera,0.91,2026-10-19 13:12:22
+3,04886556,,Barcode,1.00,2026-10-19 13:13:46
+4,,Glass bottle,Camera,0.84,2026-10-19 13:18:43
+2,,Food tin,Camera + sensor,0.95,2026-10-19 13:25:55
+3,,Glass bottle,Camera,0.71,2026-10-19 13:26:39
+1,,Polystyrene takeaway box,Camera,0.90,2026-10-19 13:38:00
+4,,Black plastic tray,Camera,0.78,2026-10-19 13:49:40
+3,,Compostable cup,Camera,0.79,2026-10-19 13:51:23
+1,04886556,,Barcode,1.00,2026-10-19 14:17:46
+4,,Drinks can,Camera,0.89,2026-10-19 14:20:15
+4,,Compostable cup,Camera + sensor,1.00,2026-10-19 14:20:55
+4,,Newspaper,Camera,0.86,2026-10-19 14:31:29
+1,,Plastic tub or pot,Camera + sensor,0.83,2026-10-19 14:42:40
+4,,Plastic tub or pot,Camera,0.96,2026-10-19 15:11:10
+1,5055540004334,,Barcode,1.00,2026-10-19 15:13:44
+4,,Black plastic tray,Camera,0.72,2026-10-19 15:14:45
+4,,Compostable cup,Camera,0.91,2026-10-19 15:20:13
+3,5449000000996,,Barcode,1.00,2026-10-19 15:22:46
+4,,Cardboard box,Camera,0.95,2026-10-19 15:28:33
+3,5010357112061,,Barcode,1.00,2026-10-19 15:36:05
+1,5010357112061,,Barcode,1.00,2026-10-19 15:36:10
+2,,Milk bottle,Camera,1.00,2026-10-19 15:49:51
+4,,Polystyrene takeaway box,Camera,0.76,2026-10-19 15:55:07
+4,5410188029475,,Barcode,1.00,2026-10-19 16:17:36
+3,,Polystyrene takeaway box,Camera + sensor,0.90,2026-10-19 16:31:35
+1,,Glass bottle,Camera,0.75,2026-10-19 16:34:57
+4,,Plastic tub or pot,Camera + sensor,0.80,2026-10-19 16:40:23
+3,,Drinks carton,Camera,0.95,2026-10-19 16:44:42
+1,,Compostable cup,Camera,0.88,2026-10-19 16:46:36
+4,,Milk bottle,Camera,0.71,2026-10-19 16:54:22
+3,,Food tin,Camera + sensor,0.94,2026-10-19 17:17:06
+1,5000171055675,,Barcode,1.00,2026-10-19 17:23:39
+1,,Newspaper,Camera,0.95,2026-10-19 17:45:35
+3,,Drinks carton,Camera + sensor,0.87,2026-10-19 18:09:57
+3,5449000000996,,Barcode,1.00,2026-10-19 18:13:02
+2,,Cardboard box,Camera + sensor,0.94,2026-10-19 18:16:20
+3,,Polystyrene takeaway box,Camera + sensor,0.92,2026-10-19 18:19:09
+2,5010357112061,,Barcode,1.00,2026-10-19 18:28:09
+4,5010029000016,,Barcode,1.00,2026-10-19 18:30:48
+4,,Glass bottle,Camera,1.00,2026-10-19 18:32:34
+2,5000171055675,,Barcode,1.00,2026-10-19 18:38:50
+3,,Drinks can,Camera + sensor,1.00,2026-10-19 19:07:55
+3,5740900401099,,Barcode,1.00,2026-10-19 19:20:36
+4,,Glass bottle,Camera,0.95,2026-10-19 19:27:24
+4,8006540994337,,Barcode,1.00,2026-10-19 19:32:58
+2,,Drinks carton,Camera + sensor,0.86,2026-10-19 19:34:24
+3,,Compostable cup,Camera + sensor,0.95,2026-10-19 19:38:39
+4,00538077,,Barcode,1.00,2026-10-19 19:54:24
+2,00538077,,Barcode,1.00,2026-10-19 20:15:51
+4,04886556,,Barcode,1.00,2026-10-19 20:20:51
+4,,Plastic tub or pot,Camera,0.92,2026-10-19 20:21:17
+2,,Glass bottle,Camera,0.94,2026-10-19 20:22:44
+2,,Plastic tub or pot,Camera,0.91,2026-10-19 20:26:21
+2,,Compostable cup,Camera,0.76,2026-10-19 20:32:49
+2,,Plastic tub or pot,Camera,0.77,2026-10-19 20:36:24
+2,,Food tin,Camera + sensor,0.89,2026-10-19 20:42:11
+2,,Plastic drinks bottle,Camera,0.88,2026-10-19 20:59:59
+3,5449000000996,,Barcode,1.00,2026-10-20 07:36:48
+1,,Compostable cup,Camera,0.72,2026-10-20 07:54:45
+1,,Cardboard box,Camera,0.93,2026-10-20 07:59:06
+1,,Compostable cup,Camera + sensor,0.86,2026-10-20 08:01:39
+2,,Black plastic tray,Camera,0.76,2026-10-20 08:05:33
+3,,Cardboard box,Camera,0.86,2026-10-20 08:06:10
+3,,Drinks can,Camera,0.93,2026-10-20 08:10:15
+4,,Glass bottle,Camera,0.90,2026-10-20 08:19:52
+4,,Drinks carton,Camera,0.82,2026-10-20 08:28:18
+3,5010357112061,,Barcode,1.00,2026-10-20 08:41:57
+1,50457243,,Barcode,1.00,2026-10-20 08:45:01
+2,3033491314834,,Barcode,1.00,2026-10-20 08:47:15
+3,04886556,,Barcode,1.00,2026-10-20 09:04:38
+3,,Plastic drinks bottle,Camera,0.94,2026-10-20 09:21:54
+3,,Glass bottle,Camera,0.84,2026-10-20 09:37:43
+4,,Compostable cup,Camera,0.82,2026-10-20 09:37:53
+2,00538077,,Barcode,1.00,2026-10-20 09:49:57
+3,,Crisp packet,Camera,0.88,2026-10-20 09:56:52
+2,,Polystyrene takeaway box,Camera,0.84,2026-10-20 09:58:58
+3,04886556,,Barcode,1.00,2026-10-20 10:02:49
+1,,Black plastic tray,Camera + sensor,0.93,2026-10-20 10:14:58
+2,,Newspaper,Camera,1.00,2026-10-20 10:23:09
+3,,Compostable cup,Camera,0.93,2026-10-20 10:38:15
+3,,Milk bottle,Camera,0.92,2026-10-20 10:57:14
+4,5055540004334,,Barcode,1.00,2026-10-20 11:00:22
+4,,Crisp packet,Camera + sensor,0.95,2026-10-20 11:02:52
+4,,Compostable cup,Camera,0.87,2026-10-20 11:06:36
+4,,Polystyrene takeaway box,Camera,0.72,2026-10-20 11:15:10
+1,00538077,,Barcode,1.00,2026-10-20 11:16:01
+1,5000328376677,,Barcode,1.00,2026-10-20 11:16:07
+4,,Cardboard box,Camera + sensor,0.84,2026-10-20 11:16:22
+1,8006540994337,,Barcode,1.00,2026-10-20 11:18:12
+4,,Plastic drinks bottle,Camera,1.00,2026-10-20 11:18:43
+3,5010357112061,,Barcode,1.00,2026-10-20 11:22:21
+4,,Milk bottle,Camera,0.91,2026-10-20 11:42:33
+2,,Drinks carton,Camera,0.87,2026-10-20 11:42:43
+1,5410188029475,,Barcode,1.00,2026-10-20 11:44:50
+1,,Black plastic tray,Camera + sensor,0.83,2026-10-20 11:47:17
+2,,Milk bottle,Camera + sensor,0.99,2026-10-20 11:52:50
+2,,Plastic tub or pot,Camera,0.90,2026-10-20 11:53:29
+1,5000171055675,,Barcode,1.00,2026-10-20 12:02:51
+2,,Milk bottle,Camera,0.99,2026-10-20 12:07:43
+3,50457243,,Barcode,1.00,2026-10-20 12:09:50
+3,,Crisp packet,Camera,0.80,2026-10-20 12:26:10
+4,,Plastic drinks bottle,Camera,0.80,2026-10-20 12:28:25
+4,5054267003378,,Barcode,1.00,2026-10-20 12:34:58
+2,5000171055675,,Barcode,1.00,2026-10-20 12:39:27
+1,,Plastic drinks bottle,Camera,0.89,2026-10-20 12:41:07
+2,,Plastic drinks bottle,Camera,0.85,2026-10-20 12:46:34
+2,,Food tin,Camera,0.86,2026-10-20 13:20:36
+4,,Crisp packet,Camera,0.74,2026-10-20 13:31:39
+1,,Plastic drinks bottle,Camera,0.79,2026-10-20 13:33:17
+1,5000171055675,,Barcode,1.00,2026-10-20 13:35:28
+2,,Polystyrene takeaway box,Camera + sensor,0.95,2026-10-20 13:36:28
+3,5000328376677,,Barcode,1.00,2026-10-20 13:41:37
+4,5000328347790,,Barcode,1.00,2026-10-20 13:53:07
+3,,Plastic drinks bottle,Camera,0.80,2026-10-20 14:02:24
+3,,Crisp packet,Camera,0.75,2026-10-20 14:13:05
+4,8006540994337,,Barcode,1.00,2026-10-20 14:15:39
+3,,Drinks carton,Camera,0.89,2026-10-20 14:24:22
+4,,Plastic tub or pot,Camera,0.79,2026-10-20 14:54:20
+2,,Drinks carton,Camera + sensor,0.97,2026-10-20 15:07:00
+2,3057640257773,,Barcode,1.00,2026-10-20 15:11:12
+3,04886556,,Barcode,1.00,2026-10-20 15:14:35
+2,5010029000016,,Barcode,1.00,2026-10-20 15:14:45
+1,,Milk bottle,Camera + sensor,0.87,2026-10-20 15:35:28
+3,00538077,,Barcode,1.00,2026-10-20 15:36:51
+2,,Glass bottle,Camera,0.98,2026-10-20 15:56:21
+3,,Compostable cup,Camera + sensor,0.92,2026-10-20 15:59:16
+4,,Milk bottle,Camera,0.95,2026-10-20 16:03:18
+2,,Compostable cup,Camera,0.85,2026-10-20 16:14:36
+1,5449000000996,,Barcode,1.00,2026-10-20 16:16:26
+3,,Plastic drinks bottle,Camera,0.94,2026-10-20 16:16:57
+4,,Plastic tub or pot,Camera + sensor,0.88,2026-10-20 16:24:20
+2,5054267003378,,Barcode,1.00,2026-10-20 16:36:06
+4,,Drinks carton,Camera,0.94,2026-10-20 16:58:10
+1,04886556,,Barcode,1.00,2026-10-20 17:00:24
+1,8006540994337,,Barcode,1.00,2026-10-20 17:04:14
+1,,Cardboard box,Camera,0.99,2026-10-20 17:08:32
+4,,Cardboard box,Camera,0.99,2026-10-20 17:10:50
+1,5000328347790,,Barcode,1.00,2026-10-20 17:23:18
+1,,Newspaper,Camera + sensor,0.81,2026-10-20 17:24:50
+3,5000328347790,,Barcode,1.00,2026-10-20 17:34:39
+2,,Plastic drinks bottle,Camera + sensor,0.85,2026-10-20 17:43:35
+2,,Polystyrene takeaway box,Camera + sensor,0.94,2026-10-20 17:52:19
+4,5410188029475,,Barcode,1.00,2026-10-20 18:00:25
+1,,Milk bottle,Camera,0.75,2026-10-20 18:00:33
+3,00538077,,Barcode,1.00,2026-10-20 18:07:54
+2,,Glass bottle,Camera,0.89,2026-10-20 18:11:01
+1,3057640257773,,Barcode,1.00,2026-10-20 18:11:33
+2,,Black plastic tray,Camera + sensor,0.81,2026-10-20 18:28:45
+3,,Cardboard box,Camera,0.81,2026-10-20 18:34:04
+4,,Polystyrene takeaway box,Camera + sensor,0.86,2026-10-20 18:42:42
+1,5054267003378,,Barcode,1.00,2026-10-20 18:52:35
+2,,Drinks carton,Camera,1.00,2026-10-20 18:53:43
+1,00538077,,Barcode,1.00,2026-10-20 19:09:04
+1,3033491314834,,Barcode,1.00,2026-10-20 19:18:38
+4,5740900805408,,Barcode,1.00,2026-10-20 19:25:17
+4,,Drinks can,Camera,0.87,2026-10-20 19:33:19
+3,,Food tin,Camera,0.85,2026-10-20 19:35:00
+1,5054267003378,,Barcode,1.00,2026-10-20 19:38:37
+1,,Crisp packet,Camera,0.80,2026-10-20 19:40:05
+1,5010029000016,,Barcode,1.00,2026-10-20 19:45:59
+1,,Drinks can,Camera,0.78,2026-10-20 19:54:31
+2,5010029000016,,Barcode,1.00,2026-10-20 19:57:57
+4,5410188029475,,Barcode,1.00,2026-10-20 20:27:23
+2,5010029000016,,Barcode,1.00,2026-10-20 20:38:39
+1,,Milk bottle,Camera,0.93,2026-10-20 20:44:56
+4,,Cardboard box,Camera,0.84,2026-10-20 20:46:15
+2,5000328347790,,Barcode,1.00,2026-10-21 07:05:51
+1,8006540994337,,Barcode,1.00,2026-10-21 07:36:38
+4,,Glass bottle,Camera,0.95,2026-10-21 08:02:23
+3,,Polystyrene takeaway box,Camera + sensor,0.93,2026-10-21 08:04:40
+2,,Crisp packet,Camera + sensor,0.96,2026-10-21 08:20:04
+1,3033491314834,,Barcode,1.00,2026-10-21 08:30:55
+3,,Plastic tub or pot,Camera + sensor,0.87,2026-10-21 08:31:23
+3,,Milk bottle,Camera,0.96,2026-10-21 08:32:23
+3,,Compostable cup,Camera,0.97,2026-10-21 08:40:03
+3,,Food tin,Camera,0.90,2026-10-21 08:47:55
+2,,Drinks can,Camera,0.74,2026-10-21 08:54:01
+2,,Plastic drinks bottle,Camera,0.71,2026-10-21 09:09:08
+4,8006540994337,,Barcode,1.00,2026-10-21 09:19:30
+3,,Glass bottle,Camera,0.89,2026-10-21 09:38:04
+3,,Polystyrene takeaway box,Camera,0.83,2026-10-21 09:47:25
+2,,Plastic tub or pot,Camera + sensor,0.99,2026-10-21 09:52:37
+4,5000157024671,,Barcode,1.00,2026-10-21 10:06:51
+4,5740900805408,,Barcode,1.00,2026-10-21 10:25:18
+1,3033491314834,,Barcode,1.00,2026-10-21 10:26:44
+3,,Polystyrene takeaway box,Camera,0.75,2026-10-21 10:28:54
+2,,Drinks can,Camera,0.75,2026-10-21 10:36:16
+3,5410188029475,,Barcode,1.00,2026-10-21 10:42:12
+4,5054267003378,,Barcode,1.00,2026-10-21 10:50:43
+4,,Newspaper,Camera,0.87,2026-10-21 11:01:20
+2,,Milk bottle,Camera + sensor,0.89,2026-10-21 11:07:27
+4,,Newspaper,Camera,0.87,2026-10-21 11:11:24
+3,3033491314834,,Barcode,1.00,2026-10-21 11:23:45
+2,,Cardboard box,Camera,0.77,2026-10-21 11:23:55
+1,,Milk bottle,Camera,0.90,2026-10-21 11:30:32
+2,5000171055675,,Barcode,1.00,2026-10-21 11:33:09
+4,8006540994337,,Barcode,1.00,2026-10-21 11:44:45
+1,,Food tin,Camera,0.95,2026-10-21 11:58:05
+1,,Polystyrene takeaway box,Camera,0.76,2026-10-21 12:05:12
+2,,Polystyrene takeaway box,Camera,0.97,2026-10-21 12:21:00
+3,,Black plastic tray,Camera,0.78,2026-10-21 12:31:06
+1,,Plastic tub or pot,Camera,0.79,2026-10-21 12:55:28
+3,04886556,,Barcode,1.00,2026-10-21 13:12:18
+1,04886556,,Barcode,1.00,2026-10-21 13:31:03
+3,5000328376677,,Barcode,1.00,2026-10-21 13:39:19
+3,5054267003378,,Barcode,1.00,2026-10-21 13:39:46
+4,50457243,,Barcode,1.00,2026-10-21 13:42:53
+1,,Compostable cup,Camera,0.81,2026-10-21 13:54:52
+1,5000328347790,,Barcode,1.00,2026-10-21 13:56:50
+1,5000171055675,,Barcode,1.00,2026-10-21 14:14:12
+1,5740900805408,,Barcode,1.00,2026-10-21 14:28:47
+1,5000157024671,,Barcode,1.00,2026-10-21 14:37:37
+4,,Plastic drinks bottle,Camera + sensor,0.86,2026-10-21 14:43:19
+3,,Newspaper,Camera,0.83,2026-10-21 14:46:26
+2,,Milk bottle,Camera + sensor,0.84,2026-10-21 15:00:44
+3,5740900805408,,Barcode,1.00,2026-10-21 15:26:28
+1,5055540004334,,Barcode,1.00,2026-10-21 15:26:46
+1,,Crisp packet,Camera,0.97,2026-10-21 15:38:24
+3,,Polystyrene takeaway box,Camera,0.73,2026-10-21 16:01:00
+4,,Newspaper,Camera + sensor,0.87,2026-10-21 16:06:19
+4,5000157024671,,Barcode,1.00,2026-10-21 16:06:45
+1,,Milk bottle,Camera + sensor,0.85,2026-10-21 16:07:57
+2,,Newspaper,Camera,0.84,2026-10-21 16:16:33
+1,8006540994337,,Barcode,1.00,2026-10-21 16:38:58
+2,,Drinks can,Camera,0.72,2026-10-21 16:45:12
+1,,Plastic tub or pot,Camera,0.83,2026-10-21 16:47:14
+4,,Cardboard box,Camera,0.82,2026-10-21 16:49:12
+4,5055540004334,,Barcode,1.00,2026-10-21 16:53:55
+4,5410188029475,,Barcode,1.00,2026-10-21 16:59:16
+2,,Newspaper,Camera + sensor,0.86,2026-10-21 17:21:05
+2,3033491314834,,Barcode,1.00,2026-10-21 17:34:21
+2,,Milk bottle,Camera + sensor,0.89,2026-10-21 17:39:06
+4,5010029000016,,Barcode,1.00,2026-10-21 18:02:33
+3,5410188029475,,Barcode,1.00,2026-10-21 18:04:34
+1,,Compostable cup,Camera,0.87,2026-10-21 18:20:44
+2,5000328347790,,Barcode,1.00,2026-10-21 18:21:57
+2,,Plastic tub or pot,Camera,0.73,2026-10-21 18:27:32
+4,50457243,,Barcode,1.00,2026-10-21 18:49:25
+2,5000157024671,,Barcode,1.00,2026-10-21 18:51:00
+4,,Glass bottle,Camera,0.93,2026-10-21 18:51:43
+2,,Glass bottle,Camera,0.75,2026-10-21 18:53:24
+3,,Drinks carton,Camera,0.82,2026-10-21 19:10:51
+1,,Food tin,Camera,0.85,2026-10-21 19:25:02
+1,00538077,,Barcode,1.00,2026-10-21 19:26:56
+3,3033491314834,,Barcode,1.00,2026-10-21 19:31:15
+2,50457243,,Barcode,1.00,2026-10-21 19:52:22
+4,,Milk bottle,Camera,0.80,2026-10-21 19:59:56
+3,,Plastic tub or pot,Camera + sensor,0.88,2026-10-21 20:06:32
+1,5010357112061,,Barcode,1.00,2026-10-21 20:08:37
+4,,Milk bottle,Camera + sensor,0.86,2026-10-21 20:12:13
+1,,Plastic tub or pot,Camera,0.84,2026-10-21 20:22:53
+2,3033491314834,,Barcode,1.00,2026-10-21 20:26:56
+1,,Drinks can,Camera,0.84,2026-10-21 20:28:25
+1,,Polystyrene takeaway box,Camera + sensor,0.93,2026-10-21 20:30:21
+4,,Cardboard box,Camera,0.92,2026-10-21 20:49:31
+3,8006540994337,,Barcode,1.00,2026-10-22 07:00:15
+2,,Glass bottle,Camera,0.81,2026-10-22 07:13:43
+1,3057640257773,,Barcode,1.00,2026-10-22 07:36:23
+2,5449000000996,,Barcode,1.00,2026-10-22 07:52:17
+2,,Newspaper,Camera + sensor,0.97,2026-10-22 07:52:31
+2,3033491314834,,Barcode,1.00,2026-10-22 07:57:12
+4,,Milk bottle,Camera + sensor,0.98,2026-10-22 08:19:47
+3,,Black plastic tray,Camera,0.91,2026-10-22 08:30:20
+3,5055540004334,,Barcode,1.00,2026-10-22 08:36:56
+4,,Drinks carton,Camera,0.83,2026-10-22 08:40:24
+2,,Drinks carton,Camera,0.96,2026-10-22 08:43:42
+1,,Black plastic tray,Camera + sensor,0.83,2026-10-22 08:50:41
+1,5000157024671,,Barcode,1.00,2026-10-22 09:01:34
+4,,Polystyrene takeaway box,Camera,0.85,2026-10-22 09:05:33
+4,,Crisp packet,Camera + sensor,0.91,2026-10-22 09:06:22
+4,,Crisp packet,Camera,0.88,2026-10-22 09:32:28
+3,,Plastic tub or pot,Camera,0.70,2026-10-22 09:53:03
+1,,Drinks can,Camera,0.76,2026-10-22 10:09:37
+3,,Newspaper,Camera,0.89,2026-10-22 10:29:51
+4,00538077,,Barcode,1.00,2026-10-22 10:33:12
+1,50457243,,Barcode,1.00,2026-10-22 10:33:17
+4,,Black plastic tray,Camera,0.89,2026-10-22 10:37:45
+2,,Cardboard box,Camera + sensor,0.83,2026-10-22 10:41:29
+2,,Cardboard box,Camera,0.86,2026-10-22 10:49:41
+2,5010029000016,,Barcode,1.00,2026-10-22 11:00:01
+1,,Drinks can,Camera,0.70,2026-10-22 11:08:02
+3,5000171055675,,Barcode,1.00,2026-10-22 11:10:15
+4,50457243,,Barcode,1.00,2026-10-22 11:15:42
+3,,Drinks can,Camera + sensor,0.97,2026-10-22 11:16:09
+1,,Milk bottle,Camera,0.79,2026-10-22 11:16:50
+2,,Plastic tub or pot,Camera,0.89,2026-10-22 12:01:09
+1,,Cardboard box,Camera,0.84,2026-10-22 12:12:10
+2,,Plastic drinks bottle,Camera,0.97,2026-10-22 12:22:58
+1,5000171055675,,Barcode,1.00,2026-10-22 12:34:09
+1,,Plastic tub or pot,Camera,0.76,2026-10-22 12:41:21
+1,,Compostable cup,Camera,0.81,2026-10-22 12:50:48
+2,,Newspaper,Camera,0.71,2026-10-22 12:52:51
+2,,Newspaper,Camera,0.78,2026-10-22 13:00:22
+4,,Cardboard box,Camera + sensor,0.97,2026-10-22 13:05:55
+4,5055540004334,,Barcode,1.00,2026-10-22 13:16:11
+1,5449000000996,,Barcode,1.00,2026-10-22 13:22:06
+4,,Drinks can,Camera + sensor,0.88,2026-10-22 13:39:44
+1,5000328347790,,Barcode,1.00,2026-10-22 13:45:17
+2,,Glass bottle,Camera,0.81,2026-10-22 14:03:27
+1,,Black plastic tray,Camera,0.93,2026-10-22 14:19:12
+4,,Plastic tub or pot,Camera + sensor,0.82,2026-10-22 14:28:19
+3,,Cardboard box,Camera + sensor,0.88,2026-10-22 14:50:51
+1,,Cardboard box,Camera,0.73,2026-10-22 14:51:57
+1,5000157024671,,Barcode,1.00,2026-10-22 15:05:31
+4,,Crisp packet,Camera,0.81,2026-10-22 15:16:31
+3,,Crisp packet,Camera + sensor,0.92,2026-10-22 15:21:33
+3,,Compostable cup,Camera,0.97,2026-10-22 15:29:31
+2,,Drinks carton,Camera,0.97,2026-10-22 15:51:46
+3,,Plastic drinks bottle,Camera,0.87,2026-10-22 15:53:14
+2,5000328347790,,Barcode,1.00,2026-10-22 15:55:56
+3,5000171055675,,Barcode,1.00,2026-10-22 16:05:57
+3,5055540004334,,Barcode,1.00,2026-10-22 16:09:48
+3,5010029000016,,Barcode,1.00,2026-10-22 16:14:59
+2,,Newspaper,Camera,0.81,2026-10-22 16:15:29
+4,,Milk bottle,Camera,0.95,2026-10-22 16:19:23
+4,5449000000996,,Barcode,1.00,2026-10-22 16:26:11
+1,,Milk bottle,Camera,0.80,2026-10-22 16:40:40
+3,04886556,,Barcode,1.00,2026-10-22 16:45:05
+2,5000157024671,,Barcode,1.00,2026-10-22 16:49:34
+3,,Milk bottle,Camera,0.71,2026-10-22 16:51:53
+3,5449000000996,,Barcode,1.00,2026-10-22 16:52:39
+1,,Newspaper,Camera,0.77,2026-10-22 16:53:16
+2,,Plastic drinks bottle,Camera,0.74,2026-10-22 16:55:04
+3,,Drinks carton,Camera,0.93,2026-10-22 16:55:23
+1,,Newspaper,Camera,0.94,2026-10-22 16:59:13
+3,5740900805408,,Barcode,1.00,2026-10-22 17:07:52
+1,5740900805408,,Barcode,1.00,2026-10-22 17:19:38
+2,,Food tin,Camera + sensor,0.81,2026-10-22 17:57:57
+1,,Plastic drinks bottle,Camera,0.84,2026-10-22 18:00:19
+3,5740900401099,,Barcode,1.00,2026-10-22 18:04:10
+4,,Milk bottle,Camera,0.77,2026-10-22 18:05:23
+4,,Compostable cup,Camera + sensor,0.97,2026-10-22 18:10:20
+1,5740900805408,,Barcode,1.00,2026-10-22 18:11:15
+3,,Milk bottle,Camera,0.75,2026-10-22 18:17:55
+1,5010357112061,,Barcode,1.00,2026-10-22 18:20:22
+4,,Drinks carton,Camera + sensor,0.82,2026-10-22 18:33:26
+3,,Newspaper,Camera,0.87,2026-10-22 18:43:40
+1,5449000000996,,Barcode,1.00,2026-10-22 18:46:11
+1,5055540004334,,Barcode,1.00,2026-10-22 18:46:14
+3,3033491314834,,Barcode,1.00,2026-10-22 18:50:17
+2,,Newspaper,Camera,0.97,2026-10-22 19:02:24
+3,5740900401099,,Barcode,1.00,2026-10-22 19:06:22
+1,04886556,,Barcode,1.00,2026-10-22 19:06:50
+4,,Black plastic tray,Camera,0.93,2026-10-22 19:06:57
+4,50457243,,Barcode,1.00,2026-10-22 19:13:20
+4,,Drinks can,Camera,0.96,2026-10-22 19:27:58
+4,5000157024671,,Barcode,1.00,2026-10-22 19:40:29
+4,,Crisp packet,Camera + sensor,0.84,2026-10-22 19:40:44
+2,,Newspaper,Camera,0.80,2026-10-22 19:47:15
+4,,Drinks can,Camera,0.79,2026-10-22 19:49:33
+1,,Newspaper,Camera + sensor,0.94,2026-10-22 19:52:38
+2,,Cardboard box,Camera,0.81,2026-10-22 20:01:00
+4,,Glass bottle,Camera + sensor,0.82,2026-10-22 20:03:19
+3,,Crisp packet,Camera,0.85,2026-10-22 20:10:55
+3,,Plastic drinks bottle,Camera,0.83,2026-10-22 20:15:04
+3,,Crisp packet,Camera,0.76,2026-10-22 20:21:01
+3,,Newspaper,Camera,0.86,2026-10-23 07:11:10
+4,,Drinks can,Camera,0.81,2026-10-23 07:32:17
+1,,Drinks carton,Camera,0.92,2026-10-23 07:48:53
+3,,Plastic tub or pot,Camera,0.83,2026-10-23 07:59:19
+1,,Black plastic tray,Camera,0.72,2026-10-23 07:59:52
+3,,Plastic tub or pot,Camera,0.92,2026-10-23 08:06:35
+2,,Plastic tub or pot,Camera,0.80,2026-10-23 08:08:35
+3,,Milk bottle,Camera,0.97,2026-10-23 08:11:02
+1,,Food tin,Camera + sensor,0.89,2026-10-23 08:14:22
+1,,Drinks can,Camera + sensor,0.80,2026-10-23 08:19:04
+1,3057640257773,,Barcode,1.00,2026-10-23 08:19:24
+4,,Plastic tub or pot,Camera + sensor,0.92,2026-10-23 08:19:38
+4,,Polystyrene takeaway box,Camera,0.77,2026-10-23 08:55:20
+2,,Drinks carton,Camera,0.84,2026-10-23 08:57:54
+2,,Drinks carton,Camera + sensor,1.00,2026-10-23 09:02:05
+3,5054267003378,,Barcode,1.00,2026-10-23 09:09:13
+4,,Crisp packet,Camera + sensor,0.93,2026-10-23 09:11:49
+1,50457243,,Barcode,1.00,2026-10-23 09:15:31
+4,,Cardboard box,Camera,0.84,2026-10-23 09:19:20
+3,5740900805408,,Barcode,1.00,2026-10-23 09:26:34
+1,,Food tin,Camera,0.83,2026-10-23 09:36:13
+4,5010029000016,,Barcode,1.00,2026-10-23 09:36:45
+1,50457243,,Barcode,1.00,2026-10-23 09:38:02
+4,,Black plastic tray,Camera,0.84,2026-10-23 09:42:36
+4,5055540004334,,Barcode,1.00,2026-10-23 09:54:59
+4,,Glass bottle,Camera,0.73,2026-10-23 10:12:12
+4,50457243,,Barcode,1.00,2026-10-23 10:12:54
+1,5055540004334,,Barcode,1.00,2026-10-23 10:16:18
+4,,Milk bottle,Camera + sensor,0.84,2026-10-23 10:19:44
+1,5000157024671,,Barcode,1.00,2026-10-23 10:28:31
+3,,Compostable cup,Camera + sensor,0.89,2026-10-23 10:29:25
+4,,Polystyrene takeaway box,Camera,0.81,2026-10-23 10:47:43
+2,5740900401099,,Barcode,1.00,2026-10-23 10:50:30
+3,,Milk bottle,Camera,0.82,2026-10-23 10:55:32
+4,,Drinks can,Camera,0.93,2026-10-23 11:14:24
+1,,Black plastic tray,Camera,0.99,2026-10-23 11:19:17
+1,,Compostable cup,Camera,0.96,2026-10-23 11:22:49
+1,00538077,,Barcode,1.00,2026-10-23 11:25:06
+2,,Polystyrene takeaway box,Camera,0.81,2026-10-23 11:29:39
+2,,Drinks carton,Camera + sensor,0.98,2026-10-23 11:37:09
+4,,Drinks can,Camera + sensor,0.94,2026-10-23 11:39:26
+2,,Black plastic tray,Camera,0.76,2026-10-23 11:41:21
+3,,Plastic drinks bottle,Camera,0.91,2026-10-23 11:48:46
+3,,Cardboard box,Camera,0.95,2026-10-23 12:06:30
+3,5000157024671,,Barcode,1.00,2026-10-23 12:06:57
+2,,Drinks carton,Camera,0.82,2026-10-23 12:32:55
+2,,Drinks carton,Camera,0.73,2026-10-23 12:48:34
+3,,Plastic drinks bottle,Camera,0.73,2026-10-23 12:51:51
+4,,Plastic tub or pot,Camera,0.89,2026-10-23 12:59:55
+4,,Glass bottle,Camera,0.99,2026-10-23 13:01:26
+2,,Food tin,Camera + sensor,0.82,2026-10-23 13:06:04
+2,,Drinks carton,Camera,0.96,2026-10-23 13:21:36
+2,,Drinks carton,Camera,0.87,2026-10-23 13:33:46
+3,8006540994337,,Barcode,1.00,2026-10-23 13:47:41
+2,,Black plastic tray,Camera,0.72,2026-10-23 14:11:33
+3,5410188029475,,Barcode,1.00,2026-10-23 14:12:04
+2,,Plastic tub or pot,Camera + sensor,0.90,2026-10-23 14:13:04
+2,,Glass bottle,Camera,0.83,2026-10-23 14:26:00
+1,,Plastic drinks bottle,Camera,0.85,2026-10-23 14:30:41
+3,,Crisp packet,Camera,0.78,2026-10-23 14:35:21
+3,3033491314834,,Barcode,1.00,2026-10-23 14:36:59
+1,5010029000016,,Barcode,1.00,2026-10-23 15:01:47
+2,,Plastic drinks bottle,Camera,1.00,2026-10-23 15:03:06
+4,5410188029475,,Barcode,1.00,2026-10-23 15:17:22
+4,,Crisp packet,Camera,0.86,2026-10-23 15:19:35
+3,,Glass bottle,Camera + sensor,0.93,2026-10-23 15:31:39
+3,,Milk bottle,Camera + sensor,0.96,2026-10-23 15:35:35
+4,,Compostable cup,Camera,0.73,2026-10-23 15:43:40
+4,5740900805408,,Barcode,1.00,2026-10-23 15:48:55
+4,,Food tin,Camera,0.88,2026-10-23 16:02:53
+1,5000328376677,,Barcode,1.00,2026-10-23 16:07:47
+4,50457243,,Barcode,1.00,2026-10-23 16:14:54
+4,5054267003378,,Barcode,1.00,2026-10-23 16:15:35
+3,,Polystyrene takeaway box,Camera + sensor,0.89,2026-10-23 16:27:46
+1,5000157024671,,Barcode,1.00,2026-10-23 16:29:42
+2,5000171055675,,Barcode,1.00,2026-10-23 17:04:16
+4,,Drinks carton,Camera,0.82,2026-10-23 17:04:25
+3,,Drinks carton,Camera,0.89,2026-10-23 17:19:59
+1,,Crisp packet,Camera + sensor,1.00,2026-10-23 17:22:56
+4,,Plastic drinks bottle,Camera + sensor,0.82,2026-10-23 17:32:15
+1,,Milk bottle,Camera + sensor,0.83,2026-10-23 17:35:59
+3,5055540004334,,Barcode,1.00,2026-10-23 17:42:15
+3,,Newspaper,Camera,0.85,2026-10-23 17:52:20
+2,,Cardboard box,Camera + sensor,0.89,2026-10-23 18:00:59
+4,3057640257773,,Barcode,1.00,2026-10-23 18:06:54
+2,5000157024671,,Barcode,1.00,2026-10-23 18:07:19
+4,,Black plastic tray,Camera + sensor,0.95,2026-10-23 18:07:37
+4,50457243,,Barcode,1.00,2026-10-23 18:21:41
+3,,Glass bottle,Camera,0.95,2026-10-23 18:28:17
+1,00538077,,Barcode,1.00,2026-10-23 18:55:42
+2,,Crisp packet,Camera + sensor,0.86,2026-10-23 18:57:22
+3,5054267003378,,Barcode,1.00,2026-10-23 18:57:40
+4,5410188029475,,Barcode,1.00,2026-10-23 19:06:41
+2,5010029000016,,Barcode,1.00,2026-10-23 19:08:50
+4,,Crisp packet,Camera,0.72,2026-10-23 19:16:30
+4,,Plastic tub or pot,Camera,0.76,2026-10-23 19:28:50
+3,5740900401099,,Barcode,1.00,2026-10-23 19:33:20
+1,,Drinks carton,Camera + sensor,0.98,2026-10-23 19:37:52
+1,5410188029475,,Barcode,1.00,2026-10-23 19:40:03
+3,8006540994337,,Barcode,1.00,2026-10-23 19:46:32
+1,5000328347790,,Barcode,1.00,2026-10-23 20:01:50
+2,,Crisp packet,Camera,0.91,2026-10-23 20:06:53
+2,,Crisp packet,Camera,0.89,2026-10-23 20:12:43
+1,5010357112061,,Barcode,1.00,2026-10-23 20:16:11
+4,,Glass bottle,Camera + sensor,0.98,2026-10-23 20:22:10
+3,5010357112061,,Barcode,1.00,2026-10-23 20:25:08
+3,,Drinks carton,Camera + sensor,0.91,2026-10-23 20:35:23
+2,,Milk bottle,Camera,0.79,2026-10-23 20:43:18
+1,,Plastic tub or pot,Camera,0.83,2026-10-23 20:43:20
+1,8006540994337,,Barcode,1.00,2026-10-23 20:48:50
+2,,Compostable cup,Camera,0.97,2026-10-23 20:54:25
+3,5740900805408,,Barcode,1.00,2026-10-23 20:58:54
+4,,Plastic tub or pot,Camera,0.98,2026-10-24 07:01:03
+2,5010357112061,,Barcode,1.00,2026-10-24 07:01:19
+4,3033491314834,,Barcode,1.00,2026-10-24 07:03:06
+3,5055540004334,,Barcode,1.00,2026-10-24 07:03:19
+2,,Milk bottle,Camera,0.72,2026-10-24 07:06:51
+3,,Glass bottle,Camera + sensor,0.87,2026-10-24 07:09:31
+3,,Black plastic tray,Camera + sensor,0.85,2026-10-24 07:17:21
+1,5740900805408,,Barcode,1.00,2026-10-24 07:22:25
+3,,Food tin,Camera,0.99,2026-10-24 07:26:41
+3,,Plastic drinks bottle,Camera + sensor,0.83,2026-10-24 07:26:44
+1,,Plastic drinks bottle,Camera,0.79,2026-10-24 07:37:29
+3,5010357112061,,Barcode,1.00,2026-10-24 07:49:34
+3,,Plastic drinks bottle,Camera + sensor,0.86,2026-10-24 08:05:57
+1,,Glass bottle,Camera + sensor,0.99,2026-10-24 08:16:35
+4,3057640257773,,Barcode,1.00,2026-10-24 08:19:46
+3,,Plastic drinks bottle,Camera,0.73,2026-10-24 08:20:32
+1,5055540004334,,Barcode,1.00,2026-10-24 08:21:13
+1,,Compostable cup,Camera + sensor,0.86,2026-10-24 08:21:53
+1,,Crisp packet,Camera,0.83,2026-10-24 08:44:43
+4,,Compostable cup,Camera + sensor,0.93,2026-10-24 08:50:58
+3,,Drinks carton,Camera,0.88,2026-10-24 08:58:36
+4,,Drinks can,Camera + sensor,0.99,2026-10-24 09:00:47
+3,,Compostable cup,Camera + sensor,0.93,2026-10-24 09:00:49
+4,,Black plastic tray,Camera + sensor,0.94,2026-10-24 09:17:16
+4,,Crisp packet,Camera,0.71,2026-10-24 09:24:31
+4,5740900805408,,Barcode,1.00,2026-10-24 09:25:22
+4,,Compostable cup,Camera,0.89,2026-10-24 09:27:58
+3,,Glass bottle,Camera,0.84,2026-10-24 09:28:40
+4,3033491314834,,Barcode,1.00,2026-10-24 09:29:01
+2,3033491314834,,Barcode,1.00,2026-10-24 09:31:07
+2,,Crisp packet,Camera,0.87,2026-10-24 09:49:53
+2,,Glass bottle,Camera + sensor,0.80,2026-10-24 09:58:24
+3,,Drinks carton,Camera,0.84,2026-10-24 10:07:51
+1,,Food tin,Camera,0.94,2026-10-24 10:10:31
+2,,Crisp packet,Camera,0.82,2026-10-24 10:12:26
+2,5054267003378,,Barcode,1.00,2026-10-24 10:16:30
+3,,Plastic drinks bottle,Camera,0.75,2026-10-24 10:34:59
+4,,Crisp packet,Camera,0.91,2026-10-24 10:38:40
+1,,Drinks can,Camera,0.70,2026-10-24 10:58:32
+4,50457243,,Barcode,1.00,2026-10-24 11:14:30
+1,8006540994337,,Barcode,1.00,2026-10-24 11:20:59
+4,,Food tin,Camera,0.87,2026-10-24 11:22:43
+1,5054267003378,,Barcode,1.00,2026-10-24 11:36:55
+4,,Drinks carton,Camera,0.82,2026-10-24 11:39:26
+1,,Newspaper,Camera + sensor,0.93,2026-10-24 11:41:34
+1,5000328347790,,Barcode,1.00,2026-10-24 11:42:36
+3,,Cardboard box,Camera + sensor,0.95,2026-10-24 11:44:44
+4,,Black plastic tray,Camera,0.97,2026-10-24 11:59:45
+4,04886556,,Barcode,1.00,2026-10-24 12:07:32
+2,,Glass bottle,Camera,0.97,2026-10-24 12:25:02
+1,50457243,,Barcode,1.00,2026-10-24 12:46:51
+1,,Plastic drinks bottle,Camera,0.75,2026-10-24 12:53:03
+3,5054267003378,,Barcode,1.00,2026-10-24 12:53:25
+4,,Black plastic tray,Camera + sensor,0.93,2026-10-24 13:03:28
+2,,Crisp packet,Camera,0.76,2026-10-24 13:08:50
+2,,Plastic drinks bottle,Camera + sensor,0.80,2026-10-24 13:22:00
+2,,Glass bottle,Camera,0.88,2026-10-24 13:22:51
+4,04886556,,Barcode,1.00,2026-10-24 13:24:35
+1,,Cardboard box,Camera,0.77,2026-10-24 13:43:23
+1,50457243,,Barcode,1.00,2026-10-24 13:45:15
+1,,Milk bottle,Camera + sensor,1.00,2026-10-24 14:01:48
+3,5054267003378,,Barcode,1.00,2026-10-24 14:05:11
+4,3057640257773,,Barcode,1.00,2026-10-24 14:12:12
+2,5000157024671,,Barcode,1.00,2026-10-24 15:05:48
+4,,Crisp packet,Camera + sensor,0.88,2026-10-24 15:19:27
+1,5740900401099,,Barcode,1.00,2026-10-24 15:41:00
+2,,Glass bottle,Camera,0.90,2026-10-24 15:49:25
+1,5410188029475,,Barcode,1.00,2026-10-24 15:57:10
+2,5000171055675,,Barcode,1.00,2026-10-24 16:04:51
+3,,Milk bottle,Camera,0.83,2026-10-24 16:20:26
+2,50457243,,Barcode,1.00,2026-10-24 16:44:12
+2,,Crisp packet,Camera + sensor,0.81,2026-10-24 16:49:01
+1,,Black plastic tray,Camera,0.76,2026-10-24 16:58:43
+4,,Plastic tub or pot,Camera + sensor,0.85,2026-10-24 17:01:33
+3,,Milk bottle,Camera,0.96,2026-10-24 17:03:48
+2,5740900805408,,Barcode,1.00,2026-10-24 17:16:07
+1,,Plastic drinks bottle,Camera + sensor,0.82,2026-10-24 17:19:21
+1,,Compostable cup,Camera + sensor,0.83,2026-10-24 17:36:27
+2,,Compostable cup,Camera,0.76,2026-10-24 17:52:59
+2,,Glass bottle,Camera,0.72,2026-10-24 18:12:58
+2,5000328347790,,Barcode,1.00,2026-10-24 18:13:15
+1,50457243,,Barcode,1.00,2026-10-24 18:13:47
+3,5000157024671,,Barcode,1.00,2026-10-24 18:19:42
+1,,Crisp packet,Camera + sensor,0.90,2026-10-24 18:21:54
+1,,Cardboard box,Camera + sensor,0.85,2026-10-24 18:32:37
+4,,Black plastic tray,Camera + sensor,0.86,2026-10-24 18:39:59
+3,5000157024671,,Barcode,1.00,2026-10-24 18:42:09
+4,5740900805408,,Barcode,1.00,2026-10-24 18:48:08
+4,5010357112061,,Barcode,1.00,2026-10-24 18:48:09
+1,,Drinks can,Camera,0.99,2026-10-24 18:52:27
+1,,Plastic drinks bottle,Camera,0.93,2026-10-24 19:00:48
+4,,Polystyrene takeaway box,Camera + sensor,0.99,2026-10-24 19:09:38
+1,,Polystyrene takeaway box,Camera + sensor,0.94,2026-10-24 19:49:39
+1,8006540994337,,Barcode,1.00,2026-10-24 20:21:17
+4,,Newspaper,Camera,0.91,2026-10-24 20:36:23
+3,,Newspaper,Camera,0.94,2026-10-24 20:39:02
+3,,Drinks can,Camera,0.90,2026-10-24 20:49:23
+3,,Compostable cup,Camera,0.85,2026-10-24 20:50:30
+1,,Plastic tub or pot,Camera,0.84,2026-10-24 20:54:25
+1,,Milk bottle,Camera + sensor,0.90,2026-10-25 07:10:45
+3,,Newspaper,Camera,0.89,2026-10-25 07:17:12
+4,,Newspaper,Camera,0.82,2026-10-25 07:23:19
+2,,Crisp packet,Camera + sensor,0.81,2026-10-25 07:37:42
+2,,Black plastic tray,Camera,0.91,2026-10-25 07:39:03
+4,,Black plastic tray,Camera,0.80,2026-10-25 07:42:38
+2,,Compostable cup,Camera + sensor,0.86,2026-10-25 07:42:42
+2,,Glass bottle,Camera + sensor,0.91,2026-10-25 07:46:00
+3,5000157024671,,Barcode,1.00,2026-10-25 08:00:08
+1,,Newspaper,Camera,0.83,2026-10-25 08:11:31
+4,,Drinks carton,Camera,0.80,2026-10-25 08:15:17
+3,5010357112061,,Barcode,1.00,2026-10-25 08:18:36
+2,5000171055675,,Barcode,1.00,2026-10-25 08:25:06
+4,,Drinks carton,Camera,0.92,2026-10-25 08:34:41
+2,5010357112061,,Barcode,1.00,2026-10-25 08:38:24
+3,,Polystyrene takeaway box,Camera,0.85,2026-10-25 08:40:27
+3,5010029000016,,Barcode,1.00,2026-10-25 08:43:50
+3,,Drinks carton,Camera,0.84,2026-10-25 08:47:32
+4,,Cardboard box,Camera,0.87,2026-10-25 08:52:36
+4,,Glass bottle,Camera,0.98,2026-10-25 09:18:49
+3,5055540004334,,Barcode,1.00,2026-10-25 09:20:48
+2,,Compostable cup,Camera,0.97,2026-10-25 09:21:55
+3,,Food tin,Camera,0.82,2026-10-25 09:29:49
+2,,Black plastic tray,Camera,0.93,2026-10-25 09:32:55
+4,,Plastic drinks bottle,Camera + sensor,0.86,2026-10-25 09:34:35
+1,,Compostable cup,Camera + sensor,0.97,2026-10-25 09:35:36
+1,5740900805408,,Barcode,1.00,2026-10-25 09:43:10
+1,,Newspaper,Camera,0.86,2026-10-25 09:52:04
+1,5000328347790,,Barcode,1.00,2026-10-25 10:12:45
+2,5740900805408,,Barcode,1.00,2026-10-25 10:26:59
+3,5000157024671,,Barcode,1.00,2026-10-25 10:35:16
+3,,Newspaper,Camera,0.91,2026-10-25 10:50:20
+4,,Compostable cup,Camera,0.87,2026-10-25 10:51:55
+2,5410188029475,,Barcode,1.00,2026-10-25 11:09:39
+4,,Cardboard box,Camera + sensor,0.88,2026-10-25 11:11:14
+4,,Polystyrene takeaway box,Camera,0.77,2026-10-25 11:13:53
+4,8006540994337,,Barcode,1.00,2026-10-25 11:45:36
+1,5740900401099,,Barcode,1.00,2026-10-25 11:55:15
+1,,Milk bottle,Camera + sensor,0.84,2026-10-25 11:55:19
+2,5740900805408,,Barcode,1.00,2026-10-25 12:03:45
+4,5449000000996,,Barcode,1.00,2026-10-25 12:18:20
+3,,Drinks can,Camera + sensor,0.86,2026-10-25 12:19:40
+4,,Food tin,Camera,0.92,2026-10-25 12:20:31
+4,,Food tin,Camera + sensor,0.94,2026-10-25 12:26:56
+4,5010357112061,,Barcode,1.00,2026-10-25 12:34:57
+1,,Milk bottle,Camera,0.78,2026-10-25 12:39:50
+2,5000328347790,,Barcode,1.00,2026-10-25 12:40:44
+3,,Polystyrene takeaway box,Camera,0.98,2026-10-25 12:45:38
+1,,Black plastic tray,Camera,0.96,2026-10-25 12:50:11
+4,,Milk bottle,Camera + sensor,0.90,2026-10-25 12:56:49
+3,00538077,,Barcode,1.00,2026-10-25 12:56:59
+4,04886556,,Barcode,1.00,2026-10-25 13:08:22
+1,,Plastic tub or pot,Camera,0.80,2026-10-25 13:23:38
+2,04886556,,Barcode,1.00,2026-10-25 13:25:02
+3,,Newspaper,Camera,0.80,2026-10-25 13:34:45
+3,3033491314834,,Barcode,1.00,2026-10-25 13:40:25
+2,,Drinks can,Camera,0.98,2026-10-25 13:41:04
+1,8006540994337,,Barcode,1.00,2026-10-25 13:52:23
+2,04886556,,Barcode,1.00,2026-10-25 13:56:38
+2,5740900401099,,Barcode,1.00,2026-10-25 14:00:08
+2,,Cardboard box,Camera,0.77,2026-10-25 14:05:10
+4,,Plastic drinks bottle,Camera + sensor,0.97,2026-10-25 14:11:16
+3,,Food tin,Camera + sensor,0.85,2026-10-25 14:17:44
+1,5054267003378,,Barcode,1.00,2026-10-25 14:21:02
+2,,Polystyrene takeaway box,Camera + sensor,1.00,2026-10-25 14:36:01
+2,,Glass bottle,Camera + sensor,0.94,2026-10-25 14:36:47
+2,,Drinks can,Camera + sensor,0.86,2026-10-25 14:39:11
+1,,Milk bottle,Camera,0.75,2026-10-25 14:54:09
+4,,Black plastic tray,Camera,0.90,2026-10-25 15:08:08
+2,50457243,,Barcode,1.00,2026-10-25 15:17:12
+3,5000157024671,,Barcode,1.00,2026-10-25 15:23:20
+4,,Drinks carton,Camera,0.89,2026-10-25 15:41:24
+1,,Plastic drinks bottle,Camera + sensor,0.88,2026-10-25 15:50:29
+2,,Drinks can,Camera,0.98,2026-10-25 15:56:56
+3,5740900805408,,Barcode,1.00,2026-10-25 16:03:30
+3,5000328347790,,Barcode,1.00,2026-10-25 16:03:58
+4,8006540994337,,Barcode,1.00,2026-10-25 16:05:49
+2,3033491314834,,Barcode,1.00,2026-10-25 16:10:30
+3,,Crisp packet,Camera + sensor,0.90,2026-10-25 16:14:02
+2,,Glass bottle,Camera,0.94,2026-10-25 16:27:13
+1,,Black plastic tray,Camera + sensor,0.81,2026-10-25 16:30:17
+2,,Crisp packet,Camera,0.96,2026-10-25 16:43:47
+2,,Plastic drinks bottle,Camera,0.81,2026-10-25 16:55:47
+4,5740900805408,,Barcode,1.00,2026-10-25 17:06:38
+3,,Plastic tub or pot,Camera + sensor,0.99,2026-10-25 17:40:07
+4,5010029000016,,Barcode,1.00,2026-10-25 17:46:22
+3,5740900401099,,Barcode,1.00,2026-10-25 17:50:10
+1,04886556,,Barcode,1.00,2026-10-25 18:02:12
+1,,Cardboard box,Camera,0.80,2026-10-25 18:06:07
+4,5449000000996,,Barcode,1.00,2026-10-25 18:15:44
+2,,Crisp packet,Camera,0.87,2026-10-25 18:26:22
+3,50457243,,Barcode,1.00,2026-10-25 18:28:52
+2,5000171055675,,Barcode,1.00,2026-10-25 18:40:27
+4,00538077,,Barcode,1.00,2026-10-25 18:46:11
+4,8006540994337,,Barcode,1.00,2026-10-25 18:54:26
+2,3033491314834,,Barcode,1.00,2026-10-25 18:56:32
+1,,Polystyrene takeaway box,Camera + sensor,0.81,2026-10-25 19:01:21
+1,,Milk bottle,Camera,0.70,2026-10-25 19:02:30
+3,04886556,,Barcode,1.00,2026-10-25 19:04:28
+4,,Polystyrene takeaway box,Camera,0.92,2026-10-25 19:19:22
+3,5010357112061,,Barcode,1.00,2026-10-25 19:27:44
+3,,Compostable cup,Camera,0.76,2026-10-25 19:32:25
+4,,Plastic tub or pot,Camera,0.73,2026-10-25 20:19:56
+4,50457243,,Barcode,1.00,2026-10-25 20:25:17
+1,00538077,,Barcode,1.00,2026-10-25 20:40:03
+3,5000171055675,,Barcode,1.00,2026-10-25 20:43:09
+1,,Crisp packet,Camera,0.99,2026-10-25 20:58:39
+4,5055540004334,,Barcode,1.00,2026-10-26 07:02:09
+2,,Compostable cup,Camera + sensor,1.00,2026-10-26 07:02:55
+4,,Newspaper,Camera,0.83,2026-10-26 07:07:35
+3,,Newspaper,Camera + sensor,0.80,2026-10-26 07:08:20
+2,,Polystyrene takeaway box,Camera,0.86,2026-10-26 07:09:11
+3,5000171055675,,Barcode,1.00,2026-10-26 07:09:50
+3,,Drinks carton,Camera,0.70,2026-10-26 07:22:24
+3,,Food tin,Camera,0.77,2026-10-26 07:24:37
+3,,Drinks can,Camera + sensor,0.89,2026-10-26 07:33:50
+1,5000328376677,,Barcode,1.00,2026-10-26 07:38:49
+1,,Drinks carton,Camera,0.72,2026-10-26 07:44:46
+2,,Food tin,Camera + sensor,0.97,2026-10-26 07:55:44
+4,,Glass bottle,Camera,0.86,2026-10-26 07:58:04
+4,5449000000996,,Barcode,1.00,2026-10-26 08:03:40
+2,,Milk bottle,Camera,0.87,2026-10-26 08:05:21
+1,04886556,,Barcode,1.00,2026-10-26 08:06:05
+4,,Plastic tub or pot,Camera + sensor,0.94,2026-10-26 08:29:19
+4,00538077,,Barcode,1.00,2026-10-26 08:31:28
+4,,Cardboard box,Camera,0.94,2026-10-26 08:40:16
+2,00538077,,Barcode,1.00,2026-10-26 08:48:31
+4,50457243,,Barcode,1.00,2026-10-26 09:42:04
+4,,Glass bottle,Camera,0.74,2026-10-26 09:48:16
+2,04886556,,Barcode,1.00,2026-10-26 09:55:54
+2,,Drinks can,Camera + sensor,0.86,2026-10-26 10:03:06
+3,,Polystyrene takeaway box,Camera,0.75,2026-10-26 10:04:35
+1,5740900401099,,Barcode,1.00,2026-10-26 10:22:11
+4,,Milk bottle,Camera + sensor,0.97,2026-10-26 10:30:15
+4,,Cardboard box,Camera,0.76,2026-10-26 10:38:12
+4,,Compostable cup,Camera,0.73,2026-10-26 11:02:04
+3,5740900805408,,Barcode,1.00,2026-10-26 11:47:35
+1,5010029000016,,Barcode,1.00,2026-10-26 11:53:21
+3,00538077,,Barcode,1.00,2026-10-26 12:01:18
+3,,Drinks can,Camera,0.82,2026-10-26 12:20:32
+1,5010357112061,,Barcode,1.00,2026-10-26 12:29:57
+3,,Drinks can,Camera,0.72,2026-10-26 12:30:27
+2,3033491314834,,Barcode,1.00,2026-10-26 12:37:28
+4,,Milk bottle,Camera,0.72,2026-10-26 12:45:26
+1,,Milk bottle,Camera + sensor,0.87,2026-10-26 13:08:44
+4,,Crisp packet,Camera,0.82,2026-10-26 13:26:04
+3,,Compostable cup,Camera + sensor,0.90,2026-10-26 13:40:12
+4,,Cardboard box,Camera + sensor,0.84,2026-10-26 13:52:29
+4,,Compostable cup,Camera,0.96,2026-10-26 13:53:02
+1,,Black plastic tray,Camera + sensor,0.99,2026-10-26 14:07:16
+1,,Newspaper,Camera + sensor,0.91,2026-10-26 14:13:30
+2,5449000000996,,Barcode,1.00,2026-10-26 14:20:30
+4,,Black plastic tray,Camera,0.80,2026-10-26 14:41:32
+3,,Food tin,Camera + sensor,1.00,2026-10-26 14:43:22
+2,5000171055675,,Barcode,1.00,2026-10-26 15:05:21
+3,5449000000996,,Barcode,1.00,2026-10-26 15:16:02
+3,,Drinks carton,Camera + sensor,0.88,2026-10-26 15:16:22
+4,,Drinks can,Camera,0.78,2026-10-26 15:27:27
+3,,Milk bottle,Camera,0.95,2026-10-26 15:39:45
+3,5449000000996,,Barcode,1.00,2026-10-26 15:40:26
+1,,Cardboard box,Camera + sensor,0.89,2026-10-26 15:48:02
+4,5449000000996,,Barcode,1.00,2026-10-26 16:13:41
+4,00538077,,Barcode,1.00,2026-10-26 16:30:30
+1,,Drinks carton,Camera,0.84,2026-10-26 16:32:39
+2,,Plastic tub or pot,Camera + sensor,0.93,2026-10-26 16:35:10
+2,,Drinks can,Camera,0.78,2026-10-26 16:35:54
+4,5410188029475,,Barcode,1.00,2026-10-26 16:39:50
+1,04886556,,Barcode,1.00,2026-10-26 16:42:10
+4,5054267003378,,Barcode,1.00,2026-10-26 16:45:41
+3,,Newspaper,Camera,0.77,2026-10-26 16:46:35
+4,,Glass bottle,Camera + sensor,1.00,2026-10-26 17:33:23
+4,00538077,,Barcode,1.00,2026-10-26 17:52:00
+2,,Black plastic tray,Camera,1.00,2026-10-26 17:54:31
+2,3033491314834,,Barcode,1.00,2026-10-26 17:56:08
+1,5000171055675,,Barcode,1.00,2026-10-26 17:59:18
+4,,Cardboard box,Camera,0.86,2026-10-26 17:59:25
+1,5000328376677,,Barcode,1.00,2026-10-26 18:04:41
+1,,Black plastic tray,Camera,0.74,2026-10-26 18:20:06
+3,,Food tin,Camera + sensor,0.82,2026-10-26 18:24:12
+1,5000328376677,,Barcode,1.00,2026-10-26 18:30:26
+1,,Milk bottle,Camera,0.97,2026-10-26 18:33:20
+4,,Black plastic tray,Camera + sensor,0.91,2026-10-26 18:35:19
+4,,Drinks carton,Camera,0.89,2026-10-26 18:36:27
+3,8006540994337,,Barcode,1.00,2026-10-26 18:55:27
+2,50457243,,Barcode,1.00,2026-10-26 18:57:58
+2,00538077,,Barcode,1.00,2026-10-26 19:18:16
+1,,Crisp packet,Camera,0.85,2026-10-26 19:22:55
+3,,Newspaper,Camera,0.91,2026-10-26 19:33:10
+2,,Crisp packet,Camera,0.85,2026-10-26 19:33:20
+4,5000171055675,,Barcode,1.00,2026-10-26 19:35:39
+3,5010357112061,,Barcode,1.00,2026-10-26 19:39:37
+1,50457243,,Barcode,1.00,2026-10-26 19:47:43
+1,04886556,,Barcode,1.00,2026-10-26 19:51:37
+2,,Cardboard box,Camera,0.76,2026-10-26 19:59:37
+4,5010029000016,,Barcode,1.00,2026-10-26 20:01:49
+3,5410188029475,,Barcode,1.00,2026-10-26 20:03:42
+4,,Drinks carton,Camera + sensor,0.85,2026-10-26 20:04:09
+1,,Drinks carton,Camera,0.74,2026-10-26 20:07:24
+3,,Compostable cup,Camera,0.71,2026-10-26 20:08:17
+4,,Black plastic tray,Camera + sensor,0.81,2026-10-26 20:38:31
+3,,Polystyrene takeaway box,Camera,0.74,2026-10-26 20:41:51
+4,04886556,,Barcode,1.00,2026-10-27 07:00:19
+4,,Newspaper,Camera + sensor,0.93,2026-10-27 07:01:57
+3,,Drinks can,Camera,0.86,2026-10-27 07:17:36
+4,3033491314834,,Barcode,1.00,2026-10-27 07:34:17
+4,,Black plastic tray,Camera + sensor,0.96,2026-10-27 07:46:19
+4,,Glass bottle,Camera + sensor,0.89,2026-10-27 07:55:05
+1,,Polystyrene takeaway box,Camera,0.84,2026-10-27 08:09:00
+2,,Drinks carton,Camera,0.89,2026-10-27 08:09:31
+1,,Drinks carton,Camera,0.74,2026-10-27 08:16:52
+4,5000328347790,,Barcode,1.00,2026-10-27 08:26:03
+2,8006540994337,,Barcode,1.00,2026-10-27 08:42:46
+1,,Plastic drinks bottle,Camera,0.76,2026-10-27 09:08:40
+3,,Drinks can,Camera,0.70,2026-10-27 09:35:27
+4,,Black plastic tray,Camera,0.84,2026-10-27 09:46:09
+4,,Plastic tub or pot,Camera + sensor,0.97,2026-10-27 09:54:02
+4,,Newspaper,Camera + sensor,0.97,2026-10-27 09:58:01
+3,5410188029475,,Barcode,1.00,2026-10-27 09:58:55
+3,50457243,,Barcode,1.00,2026-10-27 09:59:24
+2,,Milk bottle,Camera,0.95,2026-10-27 10:16:43
+4,5000328347790,,Barcode,1.00,2026-10-27 10:16:50
+3,,Glass bottle,Camera,0.83,2026-10-27 10:18:57
+1,5000328376677,,Barcode,1.00,2026-10-27 10:25:53
+3,5410188029475,,Barcode,1.00,2026-10-27 10:35:34
+4,,Plastic drinks bottle,Camera + sensor,0.84,2026-10-27 10:53:23
+2,,Food tin,Camera,0.76,2026-10-27 10:55:15
+2,,Compostable cup,Camera,0.93,2026-10-27 10:59:12
+3,5740900401099,,Barcode,1.00,2026-10-27 11:02:09
+4,,Compostable cup,Camera,0.78,2026-10-27 11:11:46
+1,,Newspaper,Camera,0.72,2026-10-27 11:14:33
+2,,Compostable cup,Camera,0.73,2026-10-27 11:15:53
+1,,Milk bottle,Camera,0.94,2026-10-27 11:16:52
+1,,Cardboard box,Camera + sensor,0.90,2026-10-27 11:20:30
+4,,Crisp packet,Camera,0.75,2026-10-27 11:21:07
+3,,Black plastic tray,Camera,0.77,2026-10-27 11:24:58
+2,5010357112061,,Barcode,1.00,2026-10-27 11:28:58
+2,,Cardboard box,Camera,0.99,2026-10-27 11:43:14
+2,,Polystyrene takeaway box,Camera,0.80,2026-10-27 11:43:29
+1,5055540004334,,Barcode,1.00,2026-10-27 11:45:53
+2,,Crisp packet,Camera,0.97,2026-10-27 11:50:21
+3,,Drinks can,Camera,0.90,2026-10-27 11:53:49
+1,,Milk bottle,Camera + sensor,0.87,2026-10-27 12:11:04
+1,,Black plastic tray,Camera,0.91,2026-10-27 12:15:01
+4,5010029000016,,Barcode,1.00,2026-10-27 12:26:39
+4,5000328376677,,Barcode,1.00,2026-10-27 12:50:11
+4,,Milk bottle,Camera,0.78,2026-10-27 13:01:19
+3,,Plastic tub or pot,Camera,0.78,2026-10-27 13:04:14
+1,,Drinks can,Camera + sensor,0.93,2026-10-27 13:07:07
+3,,Cardboard box,Camera,0.84,2026-10-27 13:08:08
+1,,Compostable cup,Camera + sensor,0.94,2026-10-27 13:15:34
+4,,Plastic tub or pot,Camera,0.71,2026-10-27 13:18:37
+3,,Milk bottle,Camera,0.71,2026-10-27 13:21:16
+2,,Drinks carton,Camera,0.71,2026-10-27 13:24:01
+1,,Food tin,Camera,0.96,2026-10-27 13:30:18
+4,,Compostable cup,Camera,0.87,2026-10-27 13:36:12
+4,,Crisp packet,Camera,0.98,2026-10-27 13:36:52
+1,5740900401099,,Barcode,1.00,2026-10-27 13:37:11
+1,,Polystyrene takeaway box,Camera,0.87,2026-10-27 13:38:50
+4,,Black plastic tray,Camera,0.94,2026-10-27 13:42:14
+1,,Crisp packet,Camera,0.88,2026-10-27 13:50:23
+1,5054267003378,,Barcode,1.00,2026-10-27 14:09:56
+4,5055540004334,,Barcode,1.00,2026-10-27 14:15:09
+3,,Crisp packet,Camera,0.94,2026-10-27 14:16:37
+4,,Plastic drinks bottle,Camera,0.93,2026-10-27 14:20:05
+2,,Drinks carton,Camera,0.89,2026-10-27 14:40:24
+1,,Cardboard box,Camera + sensor,0.93,2026-10-27 14:44:18
+4,,Food tin,Camera,0.91,2026-10-27 15:07:59
+4,5054267003378,,Barcode,1.00,2026-10-27 15:23:00
+3,,Newspaper,Camera,0.87,2026-10-27 15:53:19
+4,,Food tin,Camera,0.75,2026-10-27 15:55:12
+1,,Food tin,Camera,0.79,2026-10-27 16:12:54
+1,,Black plastic tray,Camera + sensor,0.98,2026-10-27 16:14:38
+2,,Plastic tub or pot,Camera,0.80,2026-10-27 16:20:57
+2,5055540004334,,Barcode,1.00,2026-10-27 16:23:04
+2,,Drinks can,Camera + sensor,0.87,2026-10-27 16:24:59
+1,,Plastic drinks bottle,Camera + sensor,1.00,2026-10-27 16:31:57
+3,5740900805408,,Barcode,1.00,2026-10-27 16:32:54
+4,00538077,,Barcode,1.00,2026-10-27 16:40:48
+4,,Polystyrene takeaway box,Camera,0.86,2026-10-27 16:53:48
+3,,Cardboard box,Camera + sensor,0.82,2026-10-27 16:54:49
+2,,Drinks carton,Camera,0.94,2026-10-27 16:56:02
+1,,Compostable cup,Camera,0.94,2026-10-27 16:58:34
+1,,Milk bottle,Camera + sensor,0.95,2026-10-27 17:05:04
+2,,Cardboard box,Camera,0.78,2026-10-27 17:18:14
+4,,Compostable cup,Camera,0.79,2026-10-27 17:31:23
+1,,Drinks can,Camera + sensor,0.84,2026-10-27 17:41:02
+4,5010029000016,,Barcode,1.00,2026-10-27 17:41:22
+3,,Glass bottle,Camera + sensor,0.82,2026-10-27 17:42:09
+2,5449000000996,,Barcode,1.00,2026-10-27 17:45:14
+2,5000328347790,,Barcode,1.00,2026-10-27 17:53:23
+4,,Plastic drinks bottle,Camera,1.00,2026-10-27 18:00:45
+1,3033491314834,,Barcode,1.00,2026-10-27 18:05:06
+4,,Newspaper,Camera + sensor,0.94,2026-10-27 18:12:59
+2,,Plastic tub or pot,Camera,0.93,2026-10-27 18:16:01
+1,,Drinks carton,Camera,0.86,2026-10-27 18:20:10
+2,,Crisp packet,Camera + sensor,0.96,2026-10-27 18:36:24
+4,5449000000996,,Barcode,1.00,2026-10-27 18:38:32
+4,,Milk bottle,Camera,0.86,2026-10-27 18:57:01
+2,,Drinks carton,Camera + sensor,0.96,2026-10-27 19:32:56
+3,5000328376677,,Barcode,1.00,2026-10-27 19:50:41
+1,,Black plastic tray,Camera,0.71,2026-10-27 20:12:19
+1,,Cardboard box,Camera,0.91,2026-10-27 20:18:34
+1,,Compostable cup,Camera,0.83,2026-10-27 20:20:12
+4,,Newspaper,Camera,0.94,2026-10-27 20:21:11
+2,,Black plastic tray,Camera,0.76,2026-10-27 20:21:50
+1,5740900805408,,Barcode,1.00,2026-10-27 20:34:55
+4,,Plastic drinks bottle,Camera,0.99,2026-10-27 20:42:28
+3,,Plastic tub or pot,Camera + sensor,0.95,2026-10-27 20:49:56
+3,,Glass bottle,Camera + sensor,0.85,2026-10-27 20:56:33
+1,8006540994337,,Barcode,1.00,2026-10-27 20:58:28
+1,50457243,,Barcode,1.00,2026-10-28 07:00:20
+1,,Newspaper,Camera + sensor,0.92,2026-10-28 07:20:48
+3,,Black plastic tray,Camera,0.92,2026-10-28 07:23:08
+2,5055540004334,,Barcode,1.00,2026-10-28 07:32:12
+1,5000328376677,,Barcode,1.00,2026-10-28 07:33:28
+4,,Drinks can,Camera + sensor,0.90,2026-10-28 07:36:35
+3,,Crisp packet,Camera,0.72,2026-10-28 08:17:00
+2,,Crisp packet,Camera,0.99,2026-10-28 08:27:07
+3,,Milk bottle,Camera,0.90,2026-10-28 08:29:19
+3,,Drinks can,Camera + sensor,0.84,2026-10-28 08:32:20
+3,,Milk bottle,Camera,0.83,2026-10-28 08:42:22
+4,5740900401099,,Barcode,1.00,2026-10-28 08:50:01
+2,,Compostable cup,Camera + sensor,0.98,2026-10-28 09:00:49
+2,,Milk bottle,Camera + sensor,0.88,2026-10-28 09:04:54
+2,00538077,,Barcode,1.00,2026-10-28 09:07:18
+2,8006540994337,,Barcode,1.00,2026-10-28 09:34:37
+3,5000328347790,,Barcode,1.00,2026-10-28 09:40:32
+4,,Food tin,Camera,0.91,2026-10-28 09:44:21
+2,,Newspaper,Camera,0.73,2026-10-28 09:54:18
+4,,Glass bottle,Camera + sensor,0.87,2026-10-28 10:17:54
+1,,Compostable cup,Camera + sensor,0.86,2026-10-28 10:53:01
+4,,Drinks can,Camera,0.88,2026-10-28 10:55:05
+2,04886556,,Barcode,1.00,2026-10-28 11:00:18
+1,,Cardboard box,Camera,0.80,2026-10-28 11:18:12
+1,,Glass bottle,Camera,0.86,2026-10-28 11:24:40
+3,,Food tin,Camera + sensor,0.91,2026-10-28 12:23:52
+3,,Plastic tub or pot,Camera,0.89,2026-10-28 12:24:16
+2,,Polystyrene takeaway box,Camera,0.93,2026-10-28 12:28:49
+3,5010029000016,,Barcode,1.00,2026-10-28 12:31:28
+1,,Drinks can,Camera + sensor,0.86,2026-10-28 12:40:19
+4,,Black plastic tray,Camera,0.80,2026-10-28 12:41:13
+2,5740900401099,,Barcode,1.00,2026-10-28 12:51:41
+4,,Cardboard box,Camera,0.76,2026-10-28 12:52:12
+4,,Black plastic tray,Camera,0.80,2026-10-28 13:20:26
+1,,Cardboard box,Camera,0.95,2026-10-28 13:42:08
+4,5000328347790,,Barcode,1.00,2026-10-28 13:56:17
+3,5000157024671,,Barcode,1.00,2026-10-28 13:58:07
+3,3057640257773,,Barcode,1.00,2026-10-28 14:09:33
+2,,Cardboard box,Camera,0.77,2026-10-28 14:09:34
+3,5010357112061,,Barcode,1.00,2026-10-28 14:40:37
+3,5740900401099,,Barcode,1.00,2026-10-28 14:51:20
+4,5000328376677,,Barcode,1.00,2026-10-28 14:53:42
+4,,Drinks carton,Camera,0.99,2026-10-28 15:00:07
+2,,Food tin,Camera,0.99,2026-10-28 15:10:04
+4,,Glass bottle,Camera,0.79,2026-10-28 15:19:03
+3,,Plastic drinks bottle,Camera,0.85,2026-10-28 15:27:47
+1,,Cardboard box,Camera,0.74,2026-10-28 15:48:50
+2,5000328347790,,Barcode,1.00,2026-10-28 15:52:28
+3,5000328376677,,Barcode,1.00,2026-10-28 16:04:15
+2,5010029000016,,Barcode,1.00,2026-10-28 16:07:23
+2,,Milk bottle,Camera,0.71,2026-10-28 16:09:09
+2,,Polystyrene takeaway box,Camera + sensor,0.99,2026-10-28 16:17:17
+4,,Polystyrene takeaway box,Camera + sensor,0.99,2026-10-28 16:19:16
+1,5000171055675,,Barcode,1.00,2026-10-28 16:23:06
+2,5000328376677,,Barcode,1.00,2026-10-28 16:27:10
+1,5010357112061,,Barcode,1.00,2026-10-28 16:28:09
+1,,Food tin,Camera,0.98,2026-10-28 16:29:13
+4,,Polystyrene takeaway box,Camera + sensor,0.83,2026-10-28 16:33:22
+4,,Compostable cup,Camera + sensor,0.87,2026-10-28 16:36:53
+2,,Plastic drinks bottle,Camera,0.76,2026-10-28 16:41:03
+2,5054267003378,,Barcode,1.00,2026-10-28 17:11:34
+1,,Plastic tub or pot,Camera,0.72,2026-10-28 17:22:43
+2,04886556,,Barcode,1.00,2026-10-28 17:30:26
+4,,Newspaper,Camera,0.84,2026-10-28 17:39:20
+1,,Plastic drinks bottle,Camera,0.81,2026-10-28 18:03:48
+1,5010357112061,,Barcode,1.00,2026-10-28 18:07:19
+4,,Food tin,Camera,0.89,2026-10-28 18:13:47
+4,,Compostable cup,Camera,0.92,2026-10-28 18:15:07
+4,,Drinks carton,Camera + sensor,0.81,2026-10-28 18:20:31
+1,5055540004334,,Barcode,1.00,2026-10-28 18:23:24
+1,5449000000996,,Barcode,1.00,2026-10-28 18:26:08
+1,,Plastic drinks bottle,Camera,0.82,2026-10-28 18:29:06
+2,,Black plastic tray,Camera + sensor,0.94,2026-10-28 18:39:37
+1,3057640257773,,Barcode,1.00,2026-10-28 18:44:15
+3,5000171055675,,Barcode,1.00,2026-10-28 19:03:09
+1,,Newspaper,Camera + sensor,0.93,2026-10-28 19:04:09
+4,,Glass bottle,Camera,0.90,2026-10-28 19:12:11
+2,5410188029475,,Barcode,1.00,2026-10-28 19:15:14
+1,,Plastic drinks bottle,Camera + sensor,0.84,2026-10-28 19:17:15
+2,8006540994337,,Barcode,1.00,2026-10-28 19:30:21
+3,,Compostable cup,Camera,0.89,2026-10-28 19:30:50
+3,,Crisp packet,Camera + sensor,0.98,2026-10-28 19:33:52
+1,5010029000016,,Barcode,1.00,2026-10-28 19:37:46
+4,,Milk bottle,Camera,0.97,2026-10-28 19:39:02
+4,,Compostable cup,Camera,0.90,2026-10-28 19:59:34
+4,50457243,,Barcode,1.00,2026-10-28 20:17:52
+2,,Cardboard box,Camera,0.75,2026-10-28 20:45:39
+4,,Glass bottle,Camera,0.70,2026-10-28 20:57:41
+1,,Glass bottle,Camera,0.75,2026-10-29 07:05:23
+1,,Drinks carton,Camera,0.94,2026-10-29 07:19:20
+4,,Polystyrene takeaway box,Camera,0.78,2026-10-29 07:32:10
+3,,Plastic drinks bottle,Camera,0.75,2026-10-29 07:34:20
+4,3033491314834,,Barcode,1.00,2026-10-29 07:34:32
+1,8006540994337,,Barcode,1.00,2026-10-29 07:36:36
+3,,Plastic drinks bottle,Camera,0.88,2026-10-29 07:47:06
+1,04886556,,Barcode,1.00,2026-10-29 07:48:11
+2,,Plastic drinks bottle,Camera + sensor,0.80,2026-10-29 08:34:59
+3,3033491314834,,Barcode,1.00,2026-10-29 08:40:57
+3,,Food tin,Camera + sensor,0.82,2026-10-29 08:46:17
+1,,Food tin,Camera,0.73,2026-10-29 08:47:32
+4,,Milk bottle,Camera,0.98,2026-10-29 08:49:40
+4,5740900805408,,Barcode,1.00,2026-10-29 09:02:19
+2,,Black plastic tray,Camera,0.88,2026-10-29 09:10:20
+1,8006540994337,,Barcode,1.00,2026-10-29 09:17:16
+4,,Milk bottle,Camera + sensor,0.96,2026-10-29 09:25:29
+4,,Cardboard box,Camera,0.70,2026-10-29 09:36:47
+3,,Food tin,Camera,0.84,2026-10-29 09:50:03
+2,,Glass bottle,Camera,0.76,2026-10-29 09:52:04
+3,,Crisp packet,Camera + sensor,0.83,2026-10-29 09:53:18
+4,,Compostable cup,Camera + sensor,0.95,2026-10-29 10:00:59
+1,,Drinks can,Camera,0.84,2026-10-29 10:15:24
+4,5054267003378,,Barcode,1.00,2026-10-29 10:19:32
+4,,Drinks can,Camera + sensor,0.89,2026-10-29 10:27:28
+2,,Compostable cup,Camera,0.92,2026-10-29 10:40:51
+2,5000171055675,,Barcode,1.00,2026-10-29 10:42:01
+1,,Milk bottle,Camera,1.00,2026-10-29 10:48:05
+4,5010357112061,,Barcode,1.00,2026-10-29 10:53:26
+3,,Plastic tub or pot,Camera + sensor,0.92,2026-10-29 11:06:42
+3,,Plastic drinks bottle,Camera,0.73,2026-10-29 11:27:11
+1,5740900401099,,Barcode,1.00,2026-10-29 11:44:59
+4,,Crisp packet,Camera,0.75,2026-10-29 12:14:52
+2,3057640257773,,Barcode,1.00,2026-10-29 12:31:02
+1,,Plastic drinks bottle,Camera,0.76,2026-10-29 12:31:16
+4,00538077,,Barcode,1.00,2026-10-29 12:39:44
+4,,Black plastic tray,Camera,0.71,2026-10-29 12:43:29
+4,,Cardboard box,Camera,0.86,2026-10-29 12:51:34
+1,5010357112061,,Barcode,1.00,2026-10-29 12:57:59
+3,3033491314834,,Barcode,1.00,2026-10-29 13:21:01
+4,,Black plastic tray,Camera + sensor,0.95,2026-10-29 13:35:21
+4,5000328347790,,Barcode,1.00,2026-10-29 13:40:36
+4,,Black plastic tray,Camera,0.78,2026-10-29 13:44:21
+2,,Drinks can,Camera,0.84,2026-10-29 13:51:07
+4,,Food tin,Camera + sensor,0.82,2026-10-29 14:00:45
+4,5010029000016,,Barcode,1.00,2026-10-29 14:04:41
+4,,Drinks carton,Camera,0.84,2026-10-29 14:07:29
+3,,Black plastic tray,Camera,0.71,2026-10-29 14:10:05
+4,5449000000996,,Barcode,1.00,2026-10-29 14:11:17
+1,,Plastic tub or pot,Camera,0.98,2026-10-29 14:24:56
+1,5410188029475,,Barcode,1.00,2026-10-29 14:28:39
+4,,Glass bottle,Camera,0.70,2026-10-29 14:41:15
+4,5054267003378,,Barcode,1.00,2026-10-29 14:51:11
+4,,Glass bottle,Camera,1.00,2026-10-29 15:00:36
+3,,Black plastic tray,Camera + sensor,1.00,2026-10-29 15:02:01
+2,5010357112061,,Barcode,1.00,2026-10-29 15:04:41
+2,,Black plastic tray,Camera,0.74,2026-10-29 15:31:38
+2,,Drinks carton,Camera,0.94,2026-10-29 16:01:37
+1,5000328376677,,Barcode,1.00,2026-10-29 16:32:54
+3,,Polystyrene takeaway box,Camera,0.80,2026-10-29 16:38:41
+1,,Compostable cup,Camera,0.74,2026-10-29 16:54:57
+1,,Polystyrene takeaway box,Camera + sensor,0.92,2026-10-29 17:00:46
+2,,Cardboard box,Camera,0.75,2026-10-29 17:18:00
+4,5000157024671,,Barcode,1.00,2026-10-29 17:42:41
+1,,Crisp packet,Camera,0.71,2026-10-29 17:55:16
+2,,Newspaper,Camera,0.75,2026-10-29 17:57:02
+1,,Compostable cup,Camera + sensor,0.90,2026-10-29 18:01:28
+3,,Plastic tub or pot,Camera,0.84,2026-10-29 18:12:39
+1,5000171055675,,Barcode,1.00,2026-10-29 18:31:03
+3,,Polystyrene takeaway box,Camera + sensor,0.89,2026-10-29 18:31:40
+3,,Black plastic tray,Camera,0.93,2026-10-29 18:37:44
+4,,Newspaper,Camera,0.72,2026-10-29 18:53:45
+3,,Glass bottle,Camera,0.79,2026-10-29 19:06:31
+4,,Compostable cup,Camera + sensor,0.89,2026-10-29 19:06:44
+2,5410188029475,,Barcode,1.00,2026-10-29 19:20:29
+3,,Plastic drinks bottle,Camera,0.82,2026-10-29 19:52:58
+4,50457243,,Barcode,1.00,2026-10-29 20:04:39
+1,,Compostable cup,Camera + sensor,0.98,2026-10-29 20:08:37
+3,,Drinks can,Camera + sensor,0.91,2026-10-29 20:25:08
+3,,Food tin,Camera,0.97,2026-10-29 20:29:32
+3,,Food tin,Camera + sensor,0.83,2026-10-29 20:32:07
+2,,Milk bottle,Camera + sensor,0.94,2026-10-29 20:43:29
+2,,Food tin,Camera,0.72,2026-10-29 20:51:50
+3,,Newspaper,Camera + sensor,0.82,2026-10-29 20:59:06
+2,5000328376677,,Barcode,1.00,2026-10-30 07:03:40
+1,,Drinks can,Camera,0.94,2026-10-30 07:19:17
+4,,Polystyrene takeaway box,Camera + sensor,0.81,2026-10-30 07:35:47
+1,,Glass bottle,Camera + sensor,0.94,2026-10-30 07:45:43
+4,5010029000016,,Barcode,1.00,2026-10-30 07:46:32
+4,,Plastic tub or pot,Camera,0.83,2026-10-30 07:58:27
+2,,Black plastic tray,Camera + sensor,0.84,2026-10-30 08:00:17
+3,,Polystyrene takeaway box,Camera,0.92,2026-10-30 08:01:50
+3,,Drinks carton,Camera,0.75,2026-10-30 08:10:59
+1,,Cardboard box,Camera + sensor,0.91,2026-10-30 08:18:07
+4,5410188029475,,Barcode,1.00,2026-10-30 08:22:18
+3,,Drinks carton,Camera,0.93,2026-10-30 08:40:44
+4,5740900805408,,Barcode,1.00,2026-10-30 08:52:50
+2,,Cardboard box,Camera,0.74,2026-10-30 08:58:33
+1,,Polystyrene takeaway box,Camera,0.94,2026-10-30 09:03:55
+2,,Drinks can,Camera,0.96,2026-10-30 09:04:19
+4,5410188029475,,Barcode,1.00,2026-10-30 09:13:50
+4,,Plastic tub or pot,Camera + sensor,0.82,2026-10-30 09:40:32
+2,5740900805408,,Barcode,1.00,2026-10-30 09:46:06
+1,,Black plastic tray,Camera + sensor,0.89,2026-10-30 10:04:33
+1,5010029000016,,Barcode,1.00,2026-10-30 10:05:43
+2,5000157024671,,Barcode,1.00,2026-10-30 10:11:17
+1,5740900401099,,Barcode,1.00,2026-10-30 10:28:23
+4,,Glass bottle,Camera,0.92,2026-10-30 10:39:58
+3,5000157024671,,Barcode,1.00,2026-10-30 10:53:06
+1,5740900805408,,Barcode,1.00,2026-10-30 10:57:42
+2,5010029000016,,Barcode,1.00,2026-10-30 11:02:55
+2,3033491314834,,Barcode,1.00,2026-10-30 11:21:19
+2,5010029000016,,Barcode,1.00,2026-10-30 11:21:28
+2,,Crisp packet,Camera,0.89,2026-10-30 11:38:35
+2,,Food tin,Camera,0.82,2026-10-30 12:07:38
+2,5000328347790,,Barcode,1.00,2026-10-30 12:12:56
+1,,Cardboard box,Camera + sensor,0.99,2026-10-30 12:12:59
+2,5010357112061,,Barcode,1.00,2026-10-30 12:29:55
+2,5410188029475,,Barcode,1.00,2026-10-30 12:31:58
+2,5010357112061,,Barcode,1.00,2026-10-30 12:47:22
+2,5449000000996,,Barcode,1.00,2026-10-30 13:06:19
+2,,Compostable cup,Camera + sensor,0.92,2026-10-30 13:12:24
+2,,Black plastic tray,Camera,0.99,2026-10-30 13:22:25
+2,,Milk bottle,Camera + sensor,0.98,2026-10-30 13:24:25
+4,,Black plastic tray,Camera,0.93,2026-10-30 13:26:21
+1,,Food tin,Camera + sensor,0.80,2026-10-30 13:30:13
+2,,Drinks carton,Camera,0.92,2026-10-30 13:37:57
+3,,Plastic drinks bottle,Camera,0.86,2026-10-30 13:56:47
+3,5449000000996,,Barcode,1.00,2026-10-30 13:59:01
+2,5410188029475,,Barcode,1.00,2026-10-30 14:04:02
+3,,Crisp packet,Camera + sensor,0.88,2026-10-30 14:20:18
+1,,Food tin,Camera,0.91,2026-10-30 14:24:07
+1,,Plastic tub or pot,Camera,0.89,2026-10-30 14:26:04
+1,,Milk bottle,Camera,0.95,2026-10-30 14:28:51
+2,,Drinks carton,Camera,0.85,2026-10-30 14:35:06
+1,,Drinks can,Camera,0.92,2026-10-30 14:44:52
+2,,Compostable cup,Camera,0.77,2026-10-30 15:02:48
+4,,Black plastic tray,Camera,0.77,2026-10-30 15:03:42
+1,,Black plastic tray,Camera + sensor,0.92,2026-10-30 15:07:42
+3,,Compostable cup,Camera + sensor,0.90,2026-10-30 15:15:46
+4,3057640257773,,Barcode,1.00,2026-10-30 15:16:41
+1,5740900401099,,Barcode,1.00,2026-10-30 15:28:09
+2,,Black plastic tray,Camera + sensor,0.98,2026-10-30 15:40:49
+4,5000157024671,,Barcode,1.00,2026-10-30 15:44:23
+1,,Compostable cup,Camera,0.92,2026-10-30 16:07:40
+1,,Milk bottle,Camera,0.82,2026-10-30 16:10:08
+4,,Black plastic tray,Camera,0.88,2026-10-30 16:11:49
+1,,Drinks can,Camera + sensor,0.86,2026-10-30 16:14:25
+4,,Drinks can,Camera + sensor,0.88,2026-10-30 16:23:37
+4,,Milk bottle,Camera + sensor,0.84,2026-10-30 16:32:01
+1,,Cardboard box,Camera,0.92,2026-10-30 16:36:15
+2,5000328347790,,Barcode,1.00,2026-10-30 16:51:46
+4,3057640257773,,Barcode,1.00,2026-10-30 16:55:02
+4,,Plastic tub or pot,Camera + sensor,0.99,2026-10-30 17:04:30
+3,5740900401099,,Barcode,1.00,2026-10-30 17:14:27
+2,,Plastic tub or pot,Camera,0.91,2026-10-30 17:16:13
+1,,Milk bottle,Camera + sensor,0.85,2026-10-30 17:35:51
+3,,Compostable cup,Camera,0.88,2026-10-30 17:48:45
+1,,Drinks carton,Camera,0.92,2026-10-30 18:14:11
+1,,Newspaper,Camera,0.72,2026-10-30 18:15:45
+2,,Newspaper,Camera + sensor,0.97,2026-10-30 18:28:08
+1,,Drinks carton,Camera + sensor,0.91,2026-10-30 18:30:23
+2,5740900401099,,Barcode,1.00,2026-10-30 18:35:30
+1,,Cardboard box,Camera,0.75,2026-10-30 18:40:24
+1,,Glass bottle,Camera + sensor,0.85,2026-10-30 18:44:04
+1,00538077,,Barcode,1.00,2026-10-30 18:44:41
+1,5055540004334,,Barcode,1.00,2026-10-30 18:44:55
+4,,Plastic drinks bottle,Camera,0.85,2026-10-30 18:59:34
+4,5449000000996,,Barcode,1.00,2026-10-30 19:22:48
+4,,Cardboard box,Camera,1.00,2026-10-30 19:42:16
+3,00538077,,Barcode,1.00,2026-10-30 19:47:46
+4,5000328347790,,Barcode,1.00,2026-10-30 19:51:54
+1,,Polystyrene takeaway box,Camera,0.73,2026-10-30 20:01:39
+4,5010029000016,,Barcode,1.00,2026-10-30 20:09:21
+4,,Food tin,Camera + sensor,0.85,2026-10-30 20:14:11
+4,,Plastic drinks bottle,Camera,0.71,2026-10-30 20:30:23
+2,5000328347790,,Barcode,1.00,2026-10-30 20:42:39
+1,00538077,,Barcode,1.00,2026-10-30 20:49:11

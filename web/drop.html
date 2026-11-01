@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BinWise | Robobin simulator</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!-- defer makes the JavaScript run after the page has loaded -->
+  <script src="js/script.js" defer></script>
+</head>
+<body data-page="simulator">
+  <header>
+    <div class="top-bar">
+      <h1>BinWise</h1>
+      <p class="user-bar"><span id="userName"></span> <button type="button" id="logout" class="secondary">Log out</button></p>
+    </div>
+  </header>
+
+  <!-- Menu on the left, page content on the right -->
+  <div class="layout">
+    <nav><a href="index.html" id="nav-dashboard">Dashboard</a><a href="report.html" id="nav-report">Fly-Tech report</a><a href="support.html" id="nav-support">Support</a><a href="drop.html" id="nav-simulator" class="active">Robobin simulator</a><a href="settings.html" id="nav-settings">Settings</a></nav>
+
+  <main class="two-col">
+    <section>
+      <h2>Drop an item</h2>
+
+      <div class="presets" id="presets"></div>
+
+      <form id="dropForm" novalidate>
+        <div class="form-group">
+          <label for="binId">Bin</label>
+          <select id="binId"><option value="">Choose a bin</option></select>
+          <span class="error-message">Choose a bin.</span>
+        </div>
+
+        <div class="form-group">
+          <label class="check"><input type="checkbox" id="hasLiquid"> Leftover drink inside (the liquid sensor drains it first)</label>
+        </div>
+
+        <div class="form-group">
+          <label for="product">1. Barcode scanner reads</label>
+          <select id="product"><option value="">No barcode (missing, damaged or facing away)</option></select>
+        </div>
+
+        <div class="form-group">
+          <label for="itemType">2. Camera sees</label>
+          <select id="itemType"><option value="">Choose what the camera sees</option></select>
+          <span class="error-message">The camera is needed here: choose what it sees.</span>
+        </div>
+
+        <div class="form-group">
+          <label for="camera">Camera certainty: <span id="cameraValue">80</span>%</label>
+          <input type="range" id="camera" min="30" max="99" value="80">
+        </div>
+
+        <div class="form-group">
+          <label for="sensor">3. Material sensor (metal and near-infrared)</label>
+          <select id="sensor">
+            <option value="confirms">Confirms the material</option>
+            <option value="none">No reading</option>
+            <option value="disagrees">Disagrees</option>
+          </select>
+        </div>
+
+        <div class="actions">
+          <button type="submit">Drop item</button>
+          <button type="button" id="emptyBin" class="secondary">Staff open and empty this bin</button>
+        </div>
+      </form>
+    </section>
+
+    <section>
+      <h2>Robobin screen</h2>
+      <div id="screen" class="screen waiting">
+        <strong id="screenTitle">Ready</strong>
+        <span id="screenDetail">Drop any item in the opening.</span>
+      </div>
+
+      <h3>How Robobin decided</h3>
+      <ol id="steps" class="steps"><li>Waiting for an item.</li></ol>
+      <p id="result" class="note"></p>
+    </section>
+  </main>
+  </div>
+</body>
+</html>

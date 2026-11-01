@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BinWise | Log in</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!-- defer makes the JavaScript run after the page has loaded -->
+  <script src="js/script.js" defer></script>
+</head>
+<body data-page="login">
+  <header>
+    <h1>BinWise</h1>
+  </header>
+
+  <main class="login">
+    <section>
+      <h2>Log in</h2>
+      <form id="loginForm" novalidate>
+        <div class="form-group">
+          <label for="username">Username</label>
+          <input type="text" id="username" autocomplete="username">
+          <span class="error-message">Enter your username.</span>
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" autocomplete="current-password">
+          <span class="error-message">Enter your password.</span>
+        </div>
+        <button type="submit">Log in</button>
+        <p id="loginResult" class="note"></p>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
