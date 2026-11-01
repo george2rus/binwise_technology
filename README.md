@@ -34,7 +34,7 @@ Files 01–06 are the same steps split up, so each part can be read on its own:
 | `03_logic.sql` | Sorting logic: `classify_item`, `bin_drop` and the `after_drop` trigger that updates fill levels |
 | `04_views.sql` | Views the API reads for the dashboard and Fly-Tech report |
 | `05_load_history.sql` | Loads the 30 days of test drops (import `data/drops_history.csv` into `drops_import` first, using Workbench's Table Data Import Wizard) |
-| `06_tests.sql` | 17 database tests |
+| `06_tests.sql` | 10 database tests |
 
 The `data/` folder holds the test drops and the spreadsheet used to generate them.
 
