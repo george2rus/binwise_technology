@@ -22,7 +22,7 @@ function niceDate(value) {
   return date.toLocaleString("en-GB", { dateStyle: "short", timeStyle: "short" });
 }
 
-// Show a field in red when it is wrong (as in the W3S2 sign-up form).
+// Show a field in red when it is wrong.
 // Returns true when the field is fine.
 function setValid(id, ok) {
   let group = document.getElementById(id).closest(".form-group");

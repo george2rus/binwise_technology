@@ -1,5 +1,5 @@
 # BinWise API: FastAPI + MySQL
-# Built the same way as the W3S2 practical (GBS Corner Shop), but on our MySQL database binwise_db.
+# Built on our MySQL database binwise_db.
 # Owner: George (Web Developer). Database: Augustin.
 #
 # Run (from this api folder):
